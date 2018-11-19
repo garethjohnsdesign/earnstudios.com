@@ -16,7 +16,20 @@ layout: default
       {% assign projects = site.projects | sort: 'position' | where: "is-carousel", "true" %}
       {% for project in projects %}
       {% assign image = project.image %}
-      <li class="orbit-slide text-center" style="height: 100%; background-size: cover; background-position: 50%" data-interchange="{% include images/interchange-image-12-cell.html %}"</li>
+      <li class="orbit-slide" style="height: 100%; background-size: cover; background-position: 50%" data-interchange="{% include images/interchange-image-12-cell.html %}">
+
+<div class="grid-y align-center" style="height: 100%;">
+  <div class="shrink cell">
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell">
+      <h1 class="white">{{project.excerpt-text}}</h1>
+    </div>
+  </div>
+</div>
+
+      </li>
       {% endfor %}
     </ul>
 
@@ -41,7 +54,7 @@ layout: default
 
   <div class="grid-x">
     <div class="small-12 medium-8 cell">
-      <h2>Selected Projects</h2>
+      <h2>{{page.selected-text}}</h2>
     </div>
   </div>
 
