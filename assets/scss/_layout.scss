@@ -1,0 +1,178 @@
+//  Table of Contents:
+//
+//   1. Mixins
+//   2. Global
+//   3. Plugins
+//   4. Color
+//   5. Typography
+//   6. Navigation
+//   7. Off-canvas
+//   8. Layout
+//   9. Home
+//   10. Menu / Food
+//   11. Find Us
+//   12. Story
+//   13. Hire Us
+//   14. Contact
+//   15. Page
+//   16. Footer
+
+
+// 1. Mixins
+// ---------
+
+@mixin links ($link, $hover) {
+  a {
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
+}
+
+// 2. Global
+// ---------
+
+body {
+  cursor: default;
+  font-kerning: normal;
+}
+
+svg {
+  max-width: 100%;
+}
+
+::selection {
+  background: $primary-color;
+  color: $white;
+}
+
+:focus {
+  outline: 0;
+}
+
+// 3. Plugins
+// ----------
+
+.turbolinks-progress-bar {
+  height: 5px;
+  background-color: $primary-color;
+}
+
+
+// 4. Color
+// --------
+
+.white {
+  color: $white;
+}
+
+.medium-gray {
+  color: $medium-gray;
+}
+
+.light-gray {
+  color: $light-gray;
+}
+
+.primary-color {
+  color: get-color(primary);
+}
+
+.secondary-color {
+  color: get-color(secondary);
+}
+
+.primary-background {
+  background-color: get-color(primary);
+  color: get-color(secondary);
+}
+
+.secondary-background {
+  background-color: get-color(primary);
+  color: get-color(secondary);
+}
+
+// 5. Typography
+// -------------
+
+.menu .menu-text {
+font-weight: normal;
+}
+
+strong, b {
+font-family: $sans-bold;
+}
+
+a {
+  transition: color .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.text-underline {
+  border-bottom: 1px solid get-color(primary);
+}
+
+i, cite, em, var, address, dfn {
+  font-style: normal;
+}
+
+p {
+  a {
+    border-bottom: 1px solid get-color(primary);
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+  }
+}
+
+.sans-regular {
+  font-family: $sans-regular;
+}
+
+.sans-bold {
+  font-family: $sans-bold;
+}
+
+// X. Header
+// ---------
+
+
+// X. Images
+// ---------
+
+
+// X. Offcanvas
+// ---------
+
+.offcanvas {
+  @include links ($white, $primary-color);
+}
+
+.offcanvas .menu .active a {
+  color: $primary-color;
+}
+
+.offcanvas .menu a, .offcanvas .menu .menu-text {
+  padding: 0.5rem 0.25rem;
+}
+
+// X. News
+// ---------
+
+// X. Clients
+// -----------
+
+.clients {
+  color: $medium-gray;
+  @include links ($medium-gray, $black);
+  border-top: 1px solid $light-gray;
+}
+
+.clients .icon {
+  font-size: 1.75rem;
+}
+
+
+// X. Footer
+// ---------
