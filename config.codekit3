@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -429,6 +436,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/hen-norton.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/huel-01.jpg": {
+		"ft": 16384,
+		"iS": 1103367,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/huel-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5179,6 +5197,231 @@
 		"oAP": "/bower_components/foundation-sites/shrinkwrap.yaml",
 		"oF": 0
 		},
+	"/bower_components/imgix.js/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/imgix.js/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/.gitignore",
+		"oF": 0
+		},
+	"/bower_components/imgix.js/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/.travis.yml",
+		"oF": 0
+		},
+	"/bower_components/imgix.js/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/imgix.js/CHANGELOG.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/CHANGELOG.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/imgix.js/CONTRIBUTING.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/CONTRIBUTING.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/imgix.js/dist/imgix.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/dist/imgix.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/dist/imgix.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/bower_components/imgix.js/dist/imgix.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/index.html",
+		"oF": 0
+		},
+	"/bower_components/imgix.js/LICENSE.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/LICENSE.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/imgix.js/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/imgix.js/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/imgix.js/spec/defaultConfigSpec.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/spec/defaultConfigSpec.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/spec/ImgixTagSpec.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/spec/ImgixTagSpec.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/spec/support/jasmine.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/spec/support/jasmine.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/imgix.js/spec/utilSpec.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/spec/utilSpec.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/src/defaultConfig.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/src/defaultConfig.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/src/imgix.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/src/imgix.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/src/ImgixTag.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/src/ImgixTag.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/src/targetWidths.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/src/targetWidths.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/bower_components/imgix.js/src/util.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/imgix.js/src/util.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/bower_components/jquery/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -9173,20 +9416,26 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
+			"linkedFileAbbreviatedPath": "/bower_components/imgix.js/dist/imgix.min.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
+			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
+			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
 			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
+			"position": 5,
 			"type": 0
 			}
 		],

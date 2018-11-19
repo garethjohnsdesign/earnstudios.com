@@ -1,14 +1,14 @@
 ---
 title: Huel
 client: Huel
-excerpt-text: Asylum seekers live inside the arrivals terminal of a decaying airport
-  in Greece.
+excerpt-text: On board of one of the fastest growing food brands in the world
 description-text: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
 vimeo: 143015938
-image: "/uploads/abandoned-airport-in-greece.jpg"
+image: "/uploads/huel-01.jpg"
+is-carousel: true
 is-selected: true
 images:
 - image: "/uploads/toyota-runner-3.jpg"

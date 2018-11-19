@@ -1,4 +1,4 @@
-$(document).on('turbolinks:load', function() {
+// $(document).on('turbolinks:load', function() {
 
 // 1. Foundation
 // --------------------
@@ -22,4 +22,4 @@ window.addEventListener('load', AOS.refresh);
 
 // Smallchat.reboot()
 
-});
+// });
