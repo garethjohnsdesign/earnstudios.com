@@ -202,6 +202,13 @@
 		"oAP": "/_includes/header.html",
 		"oF": 0
 		},
+	"/_includes/images/carousel-js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/images/carousel-js.html",
+		"oF": 0
+		},
 	"/_includes/images/carousel.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -221,6 +228,20 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_includes/images/feature.html",
+		"oF": 0
+		},
+	"/_includes/images/interchange-image-12-cell.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/images/interchange-image-12-cell.html",
+		"oF": 0
+		},
+	"/_includes/images/interchange-image-6-cell.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/images/interchange-image-6-cell.html",
 		"oF": 0
 		},
 	"/_includes/offcanvas.html": {
@@ -436,6 +457,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/hen-norton.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/huel-01-small.jpg": {
+		"ft": 16384,
+		"iS": 108189,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/huel-01-small.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5277,7 +5309,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/imgix.js/dist/imgix.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -9416,26 +9448,20 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/imgix.js/dist/imgix.min.js",
+			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
+			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
-			"position": 5,
+			"position": 4,
 			"type": 0
 			}
 		],

@@ -9,20 +9,14 @@ layout: default
       <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></button>
       <button class="orbit-next"><span class="show-for-sr">Next Slide</span><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></button>
     </div>
+
+
     
-    <ul class="orbit-container">      
+    <ul class="orbit-container"  style="height: 70vh">      
       {% assign projects = site.projects | sort: 'position' | where: "is-carousel", "true" %}
       {% for project in projects %}
-      <li class="orbit-slide">
-        <img
-          class="js-img"
-          ix-path="{{project.image}}"
-          ix-params='{
-            "auto": "compress"
-          }'
-          sizes="(max-width: 700px) 100vw, 40vw"
-        >
-      </li>
+      {% assign image = project.image %}
+      <li class="orbit-slide text-center" style="height: 100%; background-size: cover; background-position: 50%" data-interchange="{% include images/interchange-image-12-cell.html %}"</li>
       {% endfor %}
     </ul>
 
@@ -59,7 +53,7 @@ layout: default
         <a href="{{ project.url }}">
           <div class="margin-bottom-1">
             {% assign image = project.image %}
-            {% include images/excerpt.html %}
+            <img data-interchange="{% include images/interchange-image-12-cell.html %}">
           </div>
         </a>
 
