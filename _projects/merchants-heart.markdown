@@ -7,7 +7,7 @@ description-text: We were commissioned to cover the growing by the Guardian sed 
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
 vimeo: 143015938
-image: "/uploads/huel-01.jpg"
+image: "/uploads/merchants-heart-01.jpg"
 is-carousel: true
 is-selected: true
 images:
