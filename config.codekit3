@@ -202,46 +202,32 @@
 		"oAP": "/_includes/header.html",
 		"oF": 0
 		},
-	"/_includes/images/carousel-js.html": {
+	"/_includes/images/interchange-img-small-12-medium-12-cell-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/images/carousel-js.html",
+		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell-dev.html",
 		"oF": 0
 		},
-	"/_includes/images/carousel.html": {
+	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/images/carousel.html",
+		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell.html",
 		"oF": 0
 		},
-	"/_includes/images/excerpt.html": {
+	"/_includes/images/interchange-img-small-12-medium-6-cell-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/images/excerpt.html",
+		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell-dev.html",
 		"oF": 0
 		},
-	"/_includes/images/feature.html": {
+	"/_includes/images/interchange-img-small-12-medium-6-cell.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/images/feature.html",
-		"oF": 0
-		},
-	"/_includes/images/interchange-image-12-cell.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-image-12-cell.html",
-		"oF": 0
-		},
-	"/_includes/images/interchange-image-6-cell.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-image-6-cell.html",
+		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell.html",
 		"oF": 0
 		},
 	"/_includes/offcanvas.html": {
@@ -340,6 +326,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_projects/huel.markdown",
+		"oF": 0
+		},
+	"/_projects/merchants-heart.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/merchants-heart.markdown",
 		"oF": 0
 		},
 	"/_projects/universal-studios.markdown": {
@@ -515,6 +508,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-01.jpg": {
+		"ft": 16384,
+		"iS": 435745,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/mixed-irish.jpg": {
