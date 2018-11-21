@@ -113,6 +113,7 @@ url('/assets/img/arrow-left@3x.png') 3x
 
 .black-background {
   background-color: $black;
+  @include links ($dark-gray, $medium-gray);
 }
 
 
