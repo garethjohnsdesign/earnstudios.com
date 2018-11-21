@@ -272,10 +272,17 @@
 		"oAP": "/_layouts/compress.html",
 		"oF": 0
 		},
+	"/_layouts/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/contact.html",
+		"oF": 0
+		},
 	"/_layouts/default.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/_layouts/default.html",
 		"oF": 0
 		},
@@ -319,6 +326,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/tags.html",
+		"oF": 0
+		},
+	"/_projects/footkhana.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/footkhana.markdown",
 		"oF": 0
 		},
 	"/_projects/gymshark-and-monster-energy.markdown": {
@@ -451,6 +465,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/footkhana-01.jpg": {
+		"ft": 16384,
+		"iS": 941917,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/gymshark-01.jpg": {
 		"ft": 16384,
 		"iS": 480316,
@@ -468,17 +493,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/hen-norton.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/huel-01-small.jpg": {
-		"ft": 16384,
-		"iS": 108189,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/huel-01-small.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -530,13 +544,13 @@
 		},
 	"/_uploads/merchants-heart-01.jpg": {
 		"ft": 16384,
-		"iS": 435745,
+		"iS": 371339,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/merchants-heart-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/mixed-irish.jpg": {
@@ -756,16 +770,6 @@
 		"oA": 2,
 		"oAP": "/assets/fonts/messina-sans-regular.woff2",
 		"oF": 0
-		},
-	"/assets/icons/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/icons/symbol-defs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"/assets/img/logo.svg": {
 		"ft": 2097152,
@@ -1380,6 +1384,24 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/book.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/book.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/bower.json": {
 		"ft": 524288,
@@ -9354,6 +9376,24 @@
 		"oAP": "/bower_components/what-input/yarn.lock",
 		"oF": 0
 		},
+	"/contact.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/contact.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
@@ -9428,7 +9468,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/projects.md",
+		"oAP": "/projects.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -9473,6 +9513,24 @@
 		"oA": 2,
 		"oAP": "/terms.md",
 		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/workshops.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/workshops.md",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

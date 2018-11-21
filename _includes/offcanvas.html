@@ -1,4 +1,4 @@
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x grid-padding-y padding-3">
   <div class="small-12 cell">
   
   {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
@@ -6,7 +6,7 @@
       <ul class="vertical menu" data-accordion-menu>
       {% for entry in site.data.navigation.header %}
       {% if entry.url == current_page %}
-      {% assign current = ' class="active"' %}
+      {% assign current = 'class="active"' %}
       {% else %}
       {% assign current = null %}
       {% endif %}
@@ -22,7 +22,7 @@
       
     <ul class="vertical menu">
       {% else %}
-        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}"><h3 class="margin-bottom-0">{{ entry.title }}</h3></a></li>
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="h4">{{ entry.title }}</a></li>
       {% endif %}
       {% endfor %}
     </ul>

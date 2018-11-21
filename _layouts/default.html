@@ -12,7 +12,7 @@ layout: compress
 <body>
 
 <!-- Off Canvas Navigation -->
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap" data-close-on-click="true">
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
 {% include offcanvas.html %}
 </div>
 <!-- End Off Canvas Navigation -->
@@ -25,6 +25,21 @@ layout: compress
 <!-- Content -->
 {{content}}
 <!-- End Content -->
+
+<!-- Call to Action -->
+<section class="light-gray-background">
+  <div class="grid-container padding-vertical-3">
+    <div class="grid-x grid-padding-x grid-padding-y">
+  
+      <div class="small-12 medium-8 cell">
+        <h4>Find out more about us or tell us about you</h4>
+        <h4 class="sans-regular medium-gray"><a href="mailto:{{site.email}}">{{site.email}}</a></h4>
+      </div>
+  
+    </div>
+  </div>
+</section>
+<!-- End Call to Action -->
 
 <!-- Footer -->
 {% include footer.html %}

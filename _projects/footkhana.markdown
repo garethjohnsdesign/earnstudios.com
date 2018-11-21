@@ -1,15 +1,15 @@
 ---
-title: Gymshark + Monster Energy
-client: Gymshark + Monster Energy
-excerpt-text: A strategic partnership to grow faster together
+title: Footkhana
+client: Castrol
+excerpt-text: Helping to become the most shared sponsor of the world cup
 description-text: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
 vimeo: 143015938
-image: "/uploads/gymshark-01.jpg"
-is-carousel: false
-is-selected: false
+image: "/uploads/footkhana-01.jpg"
+is-carousel: true
+is-selected: true
 images:
 - image: "/uploads/toyota-runner-3.jpg"
   caption: Test
