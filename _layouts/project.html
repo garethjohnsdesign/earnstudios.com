@@ -2,31 +2,35 @@
 layout: default
 ---
 
-<!-- Page Title -->
+<!-- Page Excerpt -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x padding-top-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell">
-      <h1>{{page.title}}</h1>
+      <h2>{{page.excerpt-text}}</h2>
+      <h3 class="sans-regular medium-gray">{{page.client}}</h3>
     </div>
   </div>
 </section>
-<!-- End Page Title -->
+<!-- End Page Excerpt -->
 
-<!-- Page Title -->
+
+<!-- Project Image -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x padding-top-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell">
-      <h2>{{page.description-text}}</h2>
+      {% assign image = page.image %}
+      <img data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
     </div>
   </div>
 </section>
-<!-- End Page Title -->
+<!-- End Page Image -->
+
 
 
 <!-- Page Content -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 cell">
+    <div class="small-12 medium-10 cell">
       {{page.content | markdownify}}
     </div>
   </div>

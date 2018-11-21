@@ -1,6 +1,6 @@
 ---
 title: Merchant's Heart
-client: Lucoaze Ribena Suntory
+client: Lucozade Ribena Suntory
 excerpt-text: A premium mixer range and magazine launched in six months
 description-text: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris

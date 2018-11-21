@@ -177,13 +177,29 @@ p {
 // X. Footer
 // ---------
 
-/*
-.orbit-slide {
-background-size: cover;
-background-position: 50% 0%;
+
+.home header {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+z-index: 11;
+@include links ($white, $black);
 }
 
-.orbit-slide img {
-display: none;
+footer {
+  color: $medium-gray;
+  @include links ($medium-gray, $black);
 }
-*/
+
+footer {
+  border-top: 2px solid $light-gray;
+  color: $medium-gray;
+  @include links ($medium-gray, $black);
+}
+
+.orbit-slide {
+  height: 100%; 
+  background-size: cover; 
+  background-position: 50%
+}

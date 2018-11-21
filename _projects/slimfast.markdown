@@ -1,10 +1,14 @@
 ---
-title: Born and Reared
-date: 2015-12-09 13:22:00 Z
-position: 27
-excerpt-text: Maecenas sed diam eget risus varius blandit sit amet non magna.
+title: Slimfast
+client: Slimfast
+excerpt-text: Reinvented the brand property for the digital age
+description-text: We were commissioned to cover the growing by the Guardian sed posuere
+  consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+  condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
+  vel augue laoreet rutrum faucibus dolor auctor.
 vimeo: 143015938
-image: "/uploads/born-and-reared.jpg"
+image: "/uploads/slimfast-01.jpg"
+is-carousel: true
 is-selected: true
 images:
 - image: "/uploads/toyota-runner-3.jpg"
@@ -21,16 +25,6 @@ images:
   caption: 
 - image: "/uploads/toyota-runner-3.jpg"
   caption: 
-discipline: Film
-press:
-- publication: Guardian
-  link: https://www.theguardian.com/uk
-- publication: VICE
-  link: https://www.theguardian.com/uk
-format:
-- 100+ press + marketing images
-- 2 social media films
-- 1 festival highlights film
 layout: project
 ---
 

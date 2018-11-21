@@ -15,7 +15,7 @@ layout: default
       {% assign projects = site.projects | sort: 'position' | where: "is-carousel", "true" %}
       {% for project in projects %}
       {% assign image = project.image %}
-      <li class="orbit-slide" style="height: 100%; background-size: cover; background-position: 50%" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+      <li class="orbit-slide height-100" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
         <a href="{{ project.url }}">
           <div class="grid-y align-center" style="height: 100%;">
             <div class="shrink cell"> 
@@ -43,7 +43,7 @@ layout: default
 
     <div class="small-12 medium-8 cell">
       <h2>{{page.header}}</h2>
-      <h3 class="sans-regular medium-gray">{{page.sub-header}}</h2>
+      <h3 class="sans-regular medium-gray">{{page.sub-header}}</h3>
     </div>
 
   </div>
@@ -79,4 +79,16 @@ layout: default
   </div>
 
 </div>
-<!-- End Home Selected Work -->
+<!-- End Home Selected Projects -->
+
+<!-- Home Intro -->
+<div class="grid-container margin-vertical-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
+
+    <div class="small-12 medium-8 cell">
+      <h3 class="sans-regular medium-gray">View all projects</h2>
+    </div>
+
+  </div>
+</div>
+<!-- End Home Intro -->

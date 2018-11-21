@@ -22,12 +22,12 @@
       
     <ul class="vertical menu">
       {% else %}
-        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}"><h3 class="margin-bottom-0">{{ entry.title }}</h3></a></li>
       {% endif %}
       {% endfor %}
     </ul>
 
-    <ul class="vertical menu">
+    <ul class="vertical menu margin-top-2">
       <li><a href="/terms">Terms</a></li>
       <li><a href="/privacy">Privacy</a></li>
     </ul>

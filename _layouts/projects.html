@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<!-- Projects Intro -->
+<div class="grid-container margin-vertical-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
+
+    <div class="small-12 medium-8 cell">
+      <h2>{{page.header}}</h2>
+    </div>
+
+  </div>
+</div>
+<!-- End Projects Intro -->
+
+<!-- Projects -->
+<div class="grid-container">
+
+  <div class="grid-x">
+    <div class="small-12 medium-8 cell">
+      <h2>{{page.selected-text}}</h2>
+    </div>
+  </div>
+
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
+    {% assign projects = site.projects %}
+    {% for project in projects %}
+      <div class="cell">
+
+        <a href="{{ project.url }}">
+          <div class="margin-bottom-1">
+            {% assign image = project.image %}
+            <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+          </div>
+        </a>
+
+        <h3>{{ project.excerpt-text }}</h3>
+        <h4 class="sans-regular medium-gray">{{ project.client }}</h4>
+
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
+<!-- End Projects -->
