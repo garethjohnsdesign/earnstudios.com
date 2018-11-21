@@ -8,7 +8,7 @@ description-text: We were commissioned to cover the growing by the Guardian sed 
   vel augue laoreet rutrum faucibus dolor auctor.
 vimeo: 143015938
 image: "/uploads/slimfast-01.jpg"
-is-carousel: true
+is-carousel: false
 is-selected: true
 images:
 - image: "/uploads/toyota-runner-3.jpg"

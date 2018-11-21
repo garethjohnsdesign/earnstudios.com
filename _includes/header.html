@@ -1,13 +1,19 @@
-<!-- Header -->  
-<header class="grid-x grid-padding-x grid-padding-y padding-1 align-justify align-middle">
-  <div class="shrink cell">
-   <a href="/"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
+<!-- Header -->
+<div class="navigation" data-sticky-container>
+  <div data-sticky data-options="marginTop:0;" style="width:100%" class="scrollhide-nav">
+  
+    <header class="grid-x grid-padding-x grid-padding-y padding-1 align-justify align-middle">
+      <div class="shrink cell">
+       <a href="/"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
+      </div>
+      <div class="shrink cell">
+        <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas">
+          <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
+    </header>
+  
   </div>
-  <div class="shrink cell">
-    <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas">
-      <span class="hamburger-box">
-      <span class="hamburger-inner"></span>
-      </span>
-    </button>
-  </div>
-</header>
+</div>

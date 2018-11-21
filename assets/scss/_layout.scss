@@ -86,6 +86,11 @@ url('/assets/img/arrow-left@3x.png') 3x
   color: $light-gray;
 }
 
+.dark-gray {
+  color: $dark-gray;
+  @include links ($dark-gray, $black);
+}
+
 .primary-color {
   color: get-color(primary);
 }
@@ -98,10 +103,18 @@ url('/assets/img/arrow-left@3x.png') 3x
   background-color: $light-gray;
 }
 
-.secondary-background {
-  background-color: get-color(primary);
-  color: get-color(secondary);
+.medium-gray-background {
+  background-color: $medium-gray;
 }
+
+.dark-gray-background {
+  background-color: $dark-gray;
+}
+
+.black-background {
+  background-color: $black;
+}
+
 
 // 5. Typography
 // -------------
@@ -188,7 +201,7 @@ p {
 // ---------
 
 
-.home header {
+.home .navigation {
 position: absolute;
 top: 0;
 left: 0;
@@ -219,5 +232,15 @@ footer {
   &::before,
   &::after {
     background-color: $white;
+  }
+}
+
+$scrollhide-nav-transition-speed: 1s;
+
+.scrollhide-nav {
+  transition: transform $scrollhide-nav-transition-speed cubic-bezier(0.86, 0, 0.07, 1);
+
+  &.hidden {
+    transform: translateY(-100%);
   }
 }

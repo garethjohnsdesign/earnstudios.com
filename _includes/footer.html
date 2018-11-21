@@ -10,9 +10,18 @@
   </div>
 
   <div class="small-12 medium-6 large-shrink cell">
+<!--
     <ul class="menu">
-    <li><a href="mailto:{{site.email}}">{{site.email}}</a></li>
+      <li><a href="mailto:{{site.email}}">{{site.email}}</a></li>
     </ul>
+-->
+
+    <ul class="menu">
+      {% for item in site.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %} 
+    </ul>
+
   </div>
 
 </footer>

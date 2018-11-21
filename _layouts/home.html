@@ -81,14 +81,30 @@ layout: default
 </div>
 <!-- End Home Selected Projects -->
 
-<!-- Home Intro -->
+<!-- Home Projects Link -->
 <div class="grid-container margin-vertical-3">
   <div class="grid-x grid-padding-x grid-padding-y">
 
-    <div class="small-12 medium-8 cell">
-      <h4 class="sans-regular"><a href="/projects/">View all projects</a></h4>
+    <div class="small-12 medium-8 cell medium-gray">
+      <a href="/projects/" class="h4 sans-regular">View all projects</a>
     </div>
 
   </div>
 </div>
-<!-- End Home Intro -->
+<!-- End Home Projects Link -->
+
+<!-- Home Clients -->
+<section class="black-background">
+  <div class="grid-container padding-vertical-3">
+    <div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-4 medium-gray">
+  
+      {% for item in site.clients %}  
+      <div class="cell text-center">
+          <a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-clients icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a>
+      </div>
+      {% endfor %} 
+  
+    </div>
+  </div>
+</section>
+<!-- End Home Clients -->

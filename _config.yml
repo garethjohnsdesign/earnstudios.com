@@ -62,8 +62,19 @@ per_page: 12
 date_format: "%b %Y"
 future: true
 social:
+  email: mailto:hello@earnstudios.com
   twitter: https://twitter.com/earnstudios
-  medium: https://medium.com/earnstudios
+  instagram: https://www.instagram.com/earnstudios
+  linkedin: https://www.linkedin.com/earnstudios
+clients:
+  castrol: https://www.castrol.com
+  diageo: https://www.diageo.com
+  ee: https://ee.co.uk
+  first-direct: https://www1.firstdirect.com/1/2/
+  huel: https://huel.com
+  qualcomm: https://www.qualcomm.com
+  samsung: https://www.samsung.com/uk/
+  universal: https://www.universalpictures.com
 compress_html:
   comments:
   - "<!-- "
