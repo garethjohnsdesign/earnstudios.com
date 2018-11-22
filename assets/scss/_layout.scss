@@ -248,29 +248,6 @@ $scrollhide-nav-transition-speed: 1s;
 }
 
 
-.margin-vertical-space-0 {
-  @include breakpoint(small) {
-    @include margin(0, 0, 0, 0);
-  }
-  @include breakpoint(medium) {
-    @include margin(0, 0, 0, 0);
-  }
-  @include breakpoint(large) {
-    @include margin(0, 0, 0, 0);
-  }
-}
-
-.margin-vertical-space-1 {
-  @include breakpoint(small) {
-    @include margin(1, 0, 1, 0);
-  }
-  @include breakpoint(medium) {
-    @include margin(2, 0, 2, 0);
-  }
-  @include breakpoint(large) {
-    @include margin(3, 0, 3, 0);
-  }
-}
 
 .padding-vertical-space-1 {
   @include breakpoint(small) {
