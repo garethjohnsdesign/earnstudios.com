@@ -61,11 +61,6 @@ logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %Y"
 future: true
-social:
-  email: mailto:hello@earnstudios.com
-  twitter: https://twitter.com/earnstudios
-  instagram: https://www.instagram.com/earnstudios
-  linkedin: https://www.linkedin.com/earnstudios
 clients:
   castrol: https://www.castrol.com
   diageo: https://www.diageo.com

@@ -225,7 +225,8 @@ footer {
 .orbit-slide {
   height: 100%; 
   background-size: cover; 
-  background-position: 50%
+  background-position: 50%;
+  background-color: $light-gray;
 }
 
 .home .hamburger-inner {
@@ -243,5 +244,42 @@ $scrollhide-nav-transition-speed: 1s;
 
   &.hidden {
     transform: translateY(-100%);
+  }
+}
+
+
+.margin-vertical-space-0 {
+  @include breakpoint(small) {
+    @include margin(0, 0, 0, 0);
+  }
+  @include breakpoint(medium) {
+    @include margin(0, 0, 0, 0);
+  }
+  @include breakpoint(large) {
+    @include margin(0, 0, 0, 0);
+  }
+}
+
+.margin-vertical-space-1 {
+  @include breakpoint(small) {
+    @include margin(1, 0, 1, 0);
+  }
+  @include breakpoint(medium) {
+    @include margin(2, 0, 2, 0);
+  }
+  @include breakpoint(large) {
+    @include margin(3, 0, 3, 0);
+  }
+}
+
+.padding-vertical-space-1 {
+  @include breakpoint(small) {
+    @include padding(1, 0, 1, 0);
+  }
+  @include breakpoint(medium) {
+    @include padding(2, 0, 2, 0);
+  }
+  @include breakpoint(large) {
+    @include padding(3, 0, 3, 0);
   }
 }
