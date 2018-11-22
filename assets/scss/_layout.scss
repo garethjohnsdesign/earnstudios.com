@@ -251,12 +251,12 @@ $scrollhide-nav-transition-speed: 1s;
 
 .padding-vertical-space-1 {
   @include breakpoint(small) {
-    @include padding(1, 0, 1, 0);
+    @include padding(1, null, 1, null);
   }
   @include breakpoint(medium) {
-    @include padding(2, 0, 2, 0);
+    @include padding(2, null, 2, null);
   }
   @include breakpoint(large) {
-    @include padding(3, 0, 3, 0);
+    @include padding(2, null, 2, null);
   }
 }

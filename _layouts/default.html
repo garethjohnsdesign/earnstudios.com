@@ -11,11 +11,17 @@ layout: compress
 
 <body>
 
-<!-- Off Canvas Navigation -->
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
-{% include offcanvas.html %}
+<!-- Off Canvas Right -->
+<div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
+{% include offcanvas-right.html %}
 </div>
-<!-- End Off Canvas Navigation -->
+<!-- End Off Canvas Right -->
+
+<!-- Off Canvas Bottom -->
+<div class="off-canvas position-bottom" id="offCanvasBottom" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
+{% include offcanvas-bottom.html %}
+</div>
+<!-- End Off Canvas Bottom  -->
 
 <div class="off-canvas-content {{page.layout | slugify}}" style="height: 100vh" data-off-canvas-content>
 <!-- Header -->

@@ -31,6 +31,18 @@
       <li><a href="/terms">Terms</a></li>
       <li><a href="/privacy">Privacy</a></li>
     </ul>
+
+    {% if site.social %}
+      <ul class="menu margin-top-2 medium-gray">
+        {% for item in site.social %}  
+        <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+        {% endfor %} 
+      </ul>
+    {% else %}
+        <ul class="menu margin-top-1 medium-gray">
+          <li><a href="mailto:{{site.email}}">{{site.email}}</a></li>
+        </ul>
+    {% endif %}
   
   </div>
 </div>

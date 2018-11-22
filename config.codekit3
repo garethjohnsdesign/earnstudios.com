@@ -230,11 +230,18 @@
 		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell.html",
 		"oF": 0
 		},
-	"/_includes/offcanvas.html": {
+	"/_includes/offcanvas-bottom.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/offcanvas.html",
+		"oAP": "/_includes/offcanvas-bottom.html",
+		"oF": 0
+		},
+	"/_includes/offcanvas-right.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/offcanvas-right.html",
 		"oF": 0
 		},
 	"/_includes/pagination-news.html": {
