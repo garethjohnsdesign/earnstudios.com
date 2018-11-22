@@ -244,25 +244,18 @@
 		"oAP": "/_includes/offcanvas-right.html",
 		"oF": 0
 		},
-	"/_includes/pagination-news.html": {
+	"/_includes/pagination-collection.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/pagination-news.html",
+		"oAP": "/_includes/pagination-collection.html",
 		"oF": 0
 		},
-	"/_includes/pagination-post.html": {
+	"/_includes/pagination-project.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/pagination-post.html",
-		"oF": 0
-		},
-	"/_includes/pagination-projects.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/pagination-projects.html",
+		"oAP": "/_includes/pagination-project.html",
 		"oF": 0
 		},
 	"/_includes/scripts.html": {
@@ -9539,8 +9532,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/projects.html",
-		"oF": 0,
+		"oAP": "/projects.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
