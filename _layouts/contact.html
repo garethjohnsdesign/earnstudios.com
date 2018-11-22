@@ -15,14 +15,14 @@ layout: default
 <div class="grid-container">
   
   <div class="grid-x grid-padding-x grid-padding-y">
-      <div class="cell">
-     {% for detail in page.details %}
-        <h2>{{detail.title}}</h2>
-        {{detail.text | markdownify}}
-      {% endfor %}
+       {% for detail in page.details %}
+      <div class="small-12 medium-8 cell">
+          <h2>{{detail.title}}</h2>
+          {{detail.text | markdownify}}
       </div>
+        {% endfor %}
       
-    <div class="cell">
+    <div class="small-12 medium-8 cell">
     
     <!-- Signup -->  
     <div class="margin-bottom-1"><h2>Newsletter<h2></div>

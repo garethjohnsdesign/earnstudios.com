@@ -262,5 +262,50 @@ $scrollhide-nav-transition-speed: 1s;
   }
 }
 
-.project {
+.padding-space-1 {
+  @include breakpoint(small) {
+    @include padding(1, 1, 1, 1);
+  }
+  @include breakpoint(medium) {
+    @include padding(3, 3, 3, 3);
+  }
+  @include breakpoint(large) {
+    @include padding(5, 5, 5, 5);
+  }
+}
+
+.pagination-image {
+  background-size: cover; 
+  background-position: 50%;
+  background-color: $light-gray;
+}
+
+.orbit-controls {
+  width: 100vw;
+}
+
+.orbit-container {
+}
+
+.orbit-previous, .orbit-next {
+  height: 100%;
+  width: 50vw;
+}
+
+.orbit-previous {
+cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-left.png') 1x,
+url('/assets/img/arrow-left@2x.png') 2x,
+url('/assets/img/arrow-left@3x.png') 3x
+) 16 16, auto !important;
+}
+
+.orbit-next {
+cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-right.png') 1x,
+url('/assets/img/arrow-right@2x.png') 2x,
+url('/assets/img/arrow-right@3x.png') 3x
+) 16 16, auto !important;
 }

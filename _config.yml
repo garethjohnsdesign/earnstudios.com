@@ -90,7 +90,7 @@ autopages:
   categories:
     enabled: false
   collections:
-    enabled: true
+    enabled: false
   tags:
     slugify:
       mode: raw

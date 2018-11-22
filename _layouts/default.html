@@ -33,18 +33,20 @@ layout: compress
 <!-- End Content -->
 
 <!-- Call to Action -->
+{% if page.has-call-to-action %}
 <section class="light-gray-background">
   <div class="grid-container padding-vertical-3">
     <div class="grid-x grid-padding-x grid-padding-y">
   
       <div class="small-12 medium-8 cell">
-        <h4>Find out more about us or tell us about you</h4>
-        <h4 class="sans-regular medium-gray"><a href="mailto:{{site.email}}">{{site.email}}</a></h4>
+        <h4>{{page.call-to-action}}</h4>
+        <h4 class="sans-regular medium-gray"><a href="mailto:{{page.call-to-action-email}}">{{page.call-to-action-email}}</a></h4>
       </div>
   
     </div>
   </div>
 </section>
+{% endif %}
 <!-- End Call to Action -->
 
 <!-- Footer -->

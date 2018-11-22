@@ -6,9 +6,9 @@ layout: default
 <div class="orbit" role="region" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;">
   <div class="orbit-wrapper">
     
-    <div class="orbit-controls show-for-xxlarge">
-      <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></button>
-      <button class="orbit-next"><span class="show-for-sr">Next Slide</span><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></button>
+    <div class="orbit-controls">
+      <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span></button>
+      <button class="orbit-next"><span class="show-for-sr">Next Slide</span></button>
     </div>
     
     <ul class="orbit-container"  style="height: 80vh">      
@@ -16,19 +16,17 @@ layout: default
       {% for project in projects %}
       {% assign image = project.image %}
       <li class="orbit-slide height-100" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
-        <a href="{{ project.url }}">
           <div class="grid-y align-center" style="height: 100%;">
             <div class="shrink cell"> 
               <div class="grid-container">
                 <div class="grid-x grid-padding-x grid-padding-y">
                   <div class="small-12 medium-10 large-8 cell">
-                    <h1 class="white">{{project.excerpt-text}}</h1>
+                    <a href="{{ project.url }}" class="h1 white" style="z-index: 100">{{project.excerpt-text}}</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </a>
       </li>
      {% endfor %}      
     </ul>

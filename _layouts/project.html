@@ -36,5 +36,17 @@ layout: default
 
 
 <!-- Pagination -->  
-{% include pagination-project.html %}
+{% if page.next.url %}
+<div class="grid-x light-gray-background">
+  {% assign image = page.next.image %}
+  <div class="small-6 cell pagination-image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+
+  </div>
+  
+  <div class="small-6 cell padding-space-1">
+    <h5 class="sans-regular">Next Project</h5>
+    <a href="{{page.next.url}}" class="h5 sans-regular">{{page.next.title}}</a>
+  </div>
+</div>
+{% endif %}
 <!-- End Pagination -->
