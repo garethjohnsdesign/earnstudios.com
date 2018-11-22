@@ -9,7 +9,7 @@ layout: compress
 {% include head.html %}
 <!-- End Head -->
 
-<body>
+<body class="{{page.layout | slugify}}">
 
 <!-- Off Canvas Right -->
 <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
@@ -23,7 +23,7 @@ layout: compress
 </div>
 <!-- End Off Canvas Bottom  -->
 
-<div class="off-canvas-content {{page.layout | slugify}}" style="height: 100vh" data-off-canvas-content>
+<div class="off-canvas-content" style="height: 100vh" data-off-canvas-content>
 <!-- Header -->
 {% include header.html %}
 <!-- End Header -->

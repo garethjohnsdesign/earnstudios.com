@@ -51,14 +51,15 @@ svg {
   outline: 0;
 }
 
-html {
-cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
+/*
+body {
+cursor: url('/assets/img/cursor.png') 16 16, auto !important;
 cursor: -webkit-image-set(
-url('/assets/img/arrow-left.png') 1x,
-url('/assets/img/arrow-left@2x.png') 2x,
-url('/assets/img/arrow-left@3x.png') 3x
+url('/assets/img/cursor.png') 1x,
+url('/assets/img/cursor@2x.png') 2x,
 ) 16 16, auto !important;
 }
+*/
 
 
 // 3. Plugins
@@ -259,4 +260,7 @@ $scrollhide-nav-transition-speed: 1s;
   @include breakpoint(large) {
     @include padding(2, null, 2, null);
   }
+}
+
+.project {
 }
