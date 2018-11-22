@@ -342,6 +342,13 @@
 		"oAP": "/_layouts/tags.html",
 		"oF": 0
 		},
+	"/_projects/ee.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/ee.markdown",
+		"oF": 0
+		},
 	"/_projects/footkhana.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -485,6 +492,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/dan-dennison.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/ee-01.jpg": {
+		"ft": 16384,
+		"iS": 579674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ee-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
