@@ -1,8 +1,10 @@
 ---
-title: Projects
+title: Workshops
 position: 0
-image: "/assets/img/og-image.png"
 header: We’ve helped ambitious companies re-imagine customer experiences, create new models for growth and build new capabilities.
-layout: projects
+has-call-to-action: true
+call-to-action: Find out more about us and how we can help your team
+call-to-action-email: workshops@earnstudios.com
+layout: workshops
 ---
 

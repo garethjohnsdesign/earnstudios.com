@@ -7,7 +7,7 @@ sub-header: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 selected-text: Some recent work we're really proud of
 has-call-to-action: true
 call-to-action: Find out more about us or tell us about you
-call-to-action-email: texts@earnstudios.com
+call-to-action-email: hello@earnstudios.com
 layout: home
 ---
 

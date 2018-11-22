@@ -342,6 +342,13 @@
 		"oAP": "/_layouts/tags.html",
 		"oF": 0
 		},
+	"/_layouts/workshops.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/workshops.html",
+		"oF": 0
+		},
 	"/_projects/ee.markdown": {
 		"cB": 0,
 		"ft": 8192,
