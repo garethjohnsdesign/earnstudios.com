@@ -280,19 +280,19 @@ $scrollhide-nav-transition-speed: 1s;
   background-color: $light-gray;
 }
 
-.orbit-controls {
+.home .orbit-controls {
   width: 100vw;
 }
 
-.orbit-container {
+.home .orbit-container {
 }
 
-.orbit-previous, .orbit-next {
+.home .orbit-previous, .orbit-next {
   height: 100%;
   width: 50vw;
 }
 
-.orbit-previous {
+.home .orbit-previous {
 cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
 cursor: -webkit-image-set(
 url('/assets/img/arrow-left.png') 1x,
@@ -301,7 +301,7 @@ url('/assets/img/arrow-left@3x.png') 3x
 ) 16 16, auto !important;
 }
 
-.orbit-next {
+.home .orbit-next {
 cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
 cursor: -webkit-image-set(
 url('/assets/img/arrow-right.png') 1x,
