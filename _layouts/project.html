@@ -35,28 +35,24 @@ layout: default
 <!-- End Project Description -->
 
 
+<!-- Flickity Working -->
 {% if page.images %}
-<!-- Project Carousel -->
-<div class="orbit" role="region" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;">
-  <div class="orbit-wrapper">
-    
-    <div class="orbit-controls">
-      <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span></button>
-      <button class="orbit-next"><span class="show-for-sr">Next Slide</span></button>
+<div class="grid-x grid-padding-y align-center">
+  <div class="small-12 cell">
+
+
+    <div class="index__gallery" style="height: 50vh">
+      {% for carouselimage in page.images %}
+      {% assign image = carouselimage.image %}
+        <div class="carousel-cell width-75 height-100 margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+      {% endfor %}
     </div>
-    
-    <ul class="orbit-container"  style="height: 80vh">      
-      {% for image in page.images %}
-      <li class="orbit-slide">
-          <img src="{{ image.image }}" />
-      </li>
-     {% endfor %}      
-    </ul>
-      
+
   </div>
 </div>
-<!-- End Project Carousel -->
 {% endif %}
+<!-- End Flickity Working -->
+
 
 <!-- Project Content -->
 <section class="grid-container">

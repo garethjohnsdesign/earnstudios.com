@@ -16,8 +16,10 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell">
-      {% assign image = page.image %}
-      <img data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+      <div class="light-gray-background">
+        {% assign image = page.image %}
+        <img data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+      </div>
     </div>
   </div>
 </section>
@@ -32,3 +34,17 @@ layout: default
   </div>
 </section>
 <!-- End Page Content -->
+
+<!-- Home Clients -->
+  <div class="grid-container padding-bottom-2">
+    <div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-4 medium-gray">
+  
+      {% for item in site.clients %}  
+      <div class="cell text-center">
+          <a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-clients icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a>
+      </div>
+      {% endfor %} 
+  
+    </div>
+  </div>
+<!-- End Home Clients -->

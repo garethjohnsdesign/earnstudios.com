@@ -280,6 +280,7 @@ $scrollhide-nav-transition-speed: 1s;
   background-color: $light-gray;
 }
 
+/*
 .home .orbit-controls {
   width: 100vw;
 }
@@ -309,9 +310,22 @@ url('/assets/img/arrow-right@2x.png') 2x,
 url('/assets/img/arrow-right@3x.png') 3x
 ) 16 16, auto !important;
 }
+*/
 
 .content {
 h2 {
 margin-top: 2rem;
 }
+}
+
+
+.carousel-cell {
+/*
+  width: 66%;
+  height: 100%;
+  margin-right: $global-padding;
+*/
+  background-size: cover; 
+  background-position: 50%;
+  background-color: $light-gray;
 }
