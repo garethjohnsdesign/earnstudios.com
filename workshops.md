@@ -8,20 +8,16 @@ description-text: We were commissioned to cover the growing by the Guardian sed 
   vel augue laoreet rutrum faucibus dolor auctor.
 image: "/uploads/workshops-01.jpg"
 images:
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/workshops-02.jpg"
   caption: Test
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/workshops-03.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/workshops-04.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/workshops-05.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/workshops-06.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
-  caption: 
-- image: "/uploads/placeholder.jpg"
-  caption:  
 has-call-to-action: true
 call-to-action: Find out more about us and how we can help your team
 call-to-action-email: workshops@earnstudios.com
