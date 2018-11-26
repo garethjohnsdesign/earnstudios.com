@@ -1,11 +1,15 @@
 ---
 title: About
-header: We’ve helped ambitious companies re-imagine customer experiences, create new models for growth and build new capabilities.
+header:
+excerpt-text: We’ve helped ambitious companies re-imagine customer experiences, create new models for growth and build new capabilities.
+description-text:
+vimeo: 143015938
 image: "/uploads/about.jpg"
 has-call-to-action: true
 call-to-action: Find out more about us or tell us about you
 call-to-action-email: hello@earnstudios.com
-layout: about
+has-clients: true
+layout: project
 ---
 
 ## We’re an innovation studio that builds brands customers love and participate in growing.

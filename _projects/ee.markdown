@@ -8,19 +8,19 @@ image: "/uploads/ee-01.jpg"
 is-carousel: false
 is-selected: false
 images:
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: Test
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/toyota-runner-3.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
 layout: project
 ---

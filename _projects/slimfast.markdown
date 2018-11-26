@@ -11,16 +11,20 @@ image: "/uploads/slimfast-01.jpg"
 is-carousel: false
 is-selected: true
 images:
-- image: "/uploads/slimfast-01.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: Test
-- image: "/uploads/huel-01.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/toyota-runner-3.jpg"
-  caption:
-- image: "/uploads/ee-01.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
-- image: "/uploads/footkhana-01.jpg"
+- image: "/uploads/placeholder.jpg"
   caption: 
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption:  
 layout: project
 ---
 

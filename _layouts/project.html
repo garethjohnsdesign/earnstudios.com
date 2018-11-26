@@ -2,29 +2,36 @@
 layout: default
 ---
 
-<!-- Project Excerpt -->
+<!-- Page Excerpt -->
+{% if page.excerpt-text %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-left">
     <div class="small-12 medium-10 large-8 large-offset-1 cell">
       <h2>{{page.excerpt-text}}</h2>
+      {% if page.client %}
       <h3 class="sans-regular medium-gray">{{page.client}}</h3>
+      {% endif %}
     </div>
   </div>
 </section>
-<!-- End Project Excerpt -->
+{% endif %}
+<!-- End Page Excerpt -->
 
-<!-- Project Image -->
+<!-- Page Image -->
+{% if page.image %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell">
       {% assign image = page.image %}
-      <img data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="light-gray-background">
+      <div data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="light-gray-background page__image" style="height:50vh;"></div>
     </div>
   </div>
 </section>
+{% endif %}
 <!-- End Page Image -->
 
-<!-- Project Description -->
+<!-- Page Description -->
+{% if page.description-text %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell">
@@ -32,10 +39,11 @@ layout: default
     </div>
   </div>
 </section>
-<!-- End Project Description -->
+{% endif %}
+<!-- End Page Description -->
 
 
-<!-- Flickity Working -->
+<!-- Page Carousel -->
 {% if page.images %}
 <div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell">
@@ -54,7 +62,8 @@ layout: default
 <!-- End Flickity Working -->
 
 
-<!-- Project Content -->
+<!-- Page Content -->
+{% if page.content %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell">
@@ -62,18 +71,19 @@ layout: default
     </div>
   </div>
 </section>
-<!-- End Project Content -->
+{% endif %}
+<!-- End Page Content -->
 
 
 <!-- Pagination -->  
 {% if page.next.url %}
 <div class="grid-x light-gray-background">
   {% assign image = page.next.image %}
-  <div class="small-6 cell pagination-image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+  <div class="small-12 medium-6 cell pagination-image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
 
   </div>
   
-  <div class="small-6 cell padding-space-1">
+  <div class="small-12 medium-6 cell padding-space-1">
     <h5 class="sans-regular medium-gray">Next Project</h5>
     <a href="{{page.next.url}}" class="h5 sans-regular">{{page.next.title}}</a>
   </div>

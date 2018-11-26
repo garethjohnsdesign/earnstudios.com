@@ -6,7 +6,7 @@ image: "/uploads/workshops-01.jpg"
 has-call-to-action: true
 call-to-action: Find out more about us and how we can help your team
 call-to-action-email: workshops@earnstudios.com
-layout: workshops
+layout: project
 ---
 
 ## What we do

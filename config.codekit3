@@ -342,13 +342,6 @@
 		"oAP": "/_layouts/tags.html",
 		"oF": 0
 		},
-	"/_layouts/workshops.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/workshops.html",
-		"oF": 0
-		},
 	"/_projects/ee.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -460,45 +453,12 @@
 		"oAP": "/_team/zosia-sztykowski.markdown",
 		"oF": 0
 		},
-	"/_uploads/abandoned-airport-in-greece.jpg": {
-		"ft": 16384,
-		"iS": 716654,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/abandoned-airport-in-greece.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/about.jpg": {
 		"ft": 16384,
 		"iS": 901360,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/about.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/born-and-reared.jpg": {
-		"ft": 16384,
-		"iS": 1066277,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/born-and-reared.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/dan-dennison.jpg": {
-		"ft": 16384,
-		"iS": 60280,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/dan-dennison.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -537,17 +497,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/hen-norton.jpg": {
-		"ft": 16384,
-		"iS": 70857,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/hen-norton.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/huel-01.jpg": {
 		"ft": 16384,
 		"iS": 1103367,
@@ -559,42 +508,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/irelands-forgotten-mixed-race-child-abuse-victims.jpg": {
-		"ft": 16384,
-		"iS": 350921,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/irelands-forgotten-mixed-race-child-abuse-victims.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/made-in-belfast.jpg": {
-		"ft": 16384,
-		"iS": 336671,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/made-in-belfast.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/mary-carson.jpg": {
-		"ft": 16384,
-		"iS": 270726,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/mary-carson.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/merchants-heart-01.jpg": {
 		"ft": 16384,
-		"iS": 435745,
+		"iS": 371339,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/merchants-heart-01.jpg",
@@ -603,15 +519,26 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/mixed-irish.jpg": {
+	"/_uploads/placeholder.jpg": {
 		"ft": 16384,
-		"iS": 695586,
+		"iS": 14020,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/mixed-irish.jpg",
+		"oAP": "/_uploads/placeholder.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/placeholder.png": {
+		"ft": 32768,
+		"iS": 16894,
+		"oA": 0,
+		"oAP": "/_uploads/placeholder.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/slimfast-01.jpg": {
@@ -625,45 +552,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/the-52-percent.jpg": {
-		"ft": 16384,
-		"iS": 695967,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/the-52-percent.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/toyota-runner-3.jpg": {
-		"ft": 16384,
-		"iS": 177936,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/toyota-runner-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/workshops-01.jpg": {
 		"ft": 16384,
 		"iS": 627742,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/workshops-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/yousef-eldin.jpg": {
-		"ft": 16384,
-		"iS": 67173,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/yousef-eldin.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1074,7 +968,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/assets/scss/_flickity-ck.css",
 		"oF": 0,
 		"oS": 0
@@ -2120,7 +2014,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/flickity/dist/flickity.pkgd.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -10061,26 +9955,20 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/flickity/dist/flickity.pkgd.min.js",
+			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
+			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
-			"position": 5,
+			"position": 4,
 			"type": 0
 			}
 		],

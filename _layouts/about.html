@@ -2,38 +2,84 @@
 layout: default
 ---
 
-<!-- Page Title -->
+<!-- Page Excerpt -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-10 cell">
-      <h2>{{page.header}}</h2>
+  <div class="grid-x grid-padding-x grid-padding-y align-left">
+    <div class="small-12 medium-10 large-8 large-offset-1 cell">
+      <h2>{{page.excerpt-text}}</h2>
+      <h3 class="sans-regular medium-gray">{{page.client}}</h3>
     </div>
   </div>
 </section>
-<!-- End Page Title -->
+<!-- End Page Excerpt -->
 
 <!-- Page Image -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell">
-      <div class="light-gray-background">
-        {% assign image = page.image %}
-        <img data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
-      </div>
+      {% assign image = page.image %}
+      <div data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="light-gray-background page__image" style="height:50vh;"></div>
     </div>
   </div>
 </section>
 <!-- End Page Image -->
 
-<!-- Page Content -->
-<section class="grid-container padding-vertical-space-1">
+<!-- Page Description -->
+<section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-10 cell content">
+    <div class="small-12 medium-10 cell">
+      <h2>{{page.description-text}}</h2>
+    </div>
+  </div>
+</section>
+<!-- End Page Description -->
+
+
+<!-- Page Carousel -->
+{% if page.images %}
+<div class="grid-x grid-padding-y align-center">
+  <div class="small-12 cell">
+
+
+    <div class="index__gallery" style="height: 50vh">
+      {% for carouselimage in page.images %}
+      {% assign image = carouselimage.image %}
+        <div class="carousel-cell width-75 height-100 margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>
+{% endif %}
+<!-- End Flickity Working -->
+
+
+<!-- Page Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-10 cell">
       {{page.content | markdownify}}
     </div>
   </div>
 </section>
 <!-- End Page Content -->
+
+
+<!-- Pagination -->  
+{% if page.next.url %}
+<div class="grid-x light-gray-background">
+  {% assign image = page.next.image %}
+  <div class="small-12 medium-6 cell pagination-image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+
+  </div>
+  
+  <div class="small-12 medium-6 cell padding-space-1">
+    <h5 class="sans-regular medium-gray">Next Project</h5>
+    <a href="{{page.next.url}}" class="h5 sans-regular">{{page.next.title}}</a>
+  </div>
+</div>
+{% endif %}
+<!-- End Pagination -->
 
 <!-- Home Clients -->
   <div class="grid-container padding-bottom-2">
