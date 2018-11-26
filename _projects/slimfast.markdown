@@ -6,7 +6,7 @@ description-text: We were commissioned to cover the growing by the Guardian sed 
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
-video: 143015938
+video: https://vimeo.com/264258464
 image: "/uploads/slimfast-01.jpg"
 is-carousel: false
 is-selected: true

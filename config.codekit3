@@ -2062,7 +2062,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/flickity/dist/flickity.pkgd.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -7506,7 +7506,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/lightgallery/dist/js/lightgallery.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -7593,7 +7593,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/lightgallery/modules/lg-autoplay.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -7713,7 +7713,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/lightgallery/modules/lg-video.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -10009,14 +10009,38 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
+			"linkedFileAbbreviatedPath": "/bower_components/flickity/dist/flickity.pkgd.min.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
+			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
 			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
+			"position": 5,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/dist/js/lightgallery.min.js",
+			"position": 6,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/modules/lg-video.min.js",
+			"position": 7,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/modules/lg-autoplay.min.js",
+			"position": 8,
 			"type": 0
 			}
 		],

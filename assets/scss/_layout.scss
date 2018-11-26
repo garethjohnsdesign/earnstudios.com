@@ -202,14 +202,18 @@ p {
 // X. Footer
 // ---------
 
+.navigation {
+//   border-bottom: 2px solid $light-gray;
+}
 
 .home .navigation {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-z-index: 11;
-@include links ($white, $black);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 11;
+  @include links ($white, $black);
+//   border-bottom: 0px solid $light-gray;
 }
 
 footer {
