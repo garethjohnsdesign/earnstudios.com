@@ -25,7 +25,7 @@ images:
   caption: 
 - image: "/uploads/placeholder.jpg"
   caption: 
-layout: project
+layout: page
 ---
 
 ## Overview

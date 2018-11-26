@@ -5,7 +5,7 @@
   stroke-width: 0;
   stroke: currentColor;
   fill: currentColor;
-  vertical-align: bottom;
+  vertical-align: center;
 }
 
 /* ==========================================
@@ -26,5 +26,9 @@ Single-colored icons can be modified like so:
 }
 
 .icon-clients {
+  font-size: 6rem;
+}
+
+.icon-play-circle {
   font-size: 6rem;
 }

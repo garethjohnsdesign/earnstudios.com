@@ -9,7 +9,7 @@ has-call-to-action: true
 call-to-action: Find out more about us or tell us about you
 call-to-action-email: hello@earnstudios.com
 has-clients: true
-layout: project
+layout: page
 ---
 
 ## We’re an innovation studio that builds brands customers love and participate in growing.

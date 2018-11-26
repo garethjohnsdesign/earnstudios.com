@@ -321,13 +321,6 @@
 		"oAP": "/_layouts/page.html",
 		"oF": 0
 		},
-	"/_layouts/project.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/project.html",
-		"oF": 0
-		},
 	"/_layouts/projects.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -558,6 +551,61 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/workshops-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-02.jpg": {
+		"ft": 16384,
+		"iS": 964704,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-03.jpg": {
+		"ft": 16384,
+		"iS": 1008515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-04.jpg": {
+		"ft": 16384,
+		"iS": 1544247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-05.jpg": {
+		"ft": 16384,
+		"iS": 1436977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-06.jpg": {
+		"ft": 16384,
+		"iS": 925939,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

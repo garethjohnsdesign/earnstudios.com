@@ -1,12 +1,31 @@
 ---
 title: Workshops
 position: 0
-header: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+excerpt-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description-text: We were commissioned to cover the growing by the Guardian sed posuere
+  consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+  condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
+  vel augue laoreet rutrum faucibus dolor auctor.
 image: "/uploads/workshops-01.jpg"
+images:
+- image: "/uploads/placeholder.jpg"
+  caption: Test
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption: 
+- image: "/uploads/placeholder.jpg"
+  caption:  
 has-call-to-action: true
 call-to-action: Find out more about us and how we can help your team
 call-to-action-email: workshops@earnstudios.com
-layout: project
+layout: page
 ---
 
 ## What we do
