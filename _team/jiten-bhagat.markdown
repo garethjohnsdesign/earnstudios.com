@@ -1,8 +1,8 @@
 ---
 title: Jiten Bhagat
+position: 3
 categories:
 - bods
-position: 3
 job-title: Developer
 social:
   twitter: https://twitter.com/

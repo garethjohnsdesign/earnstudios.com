@@ -1,8 +1,8 @@
 ---
 title: Zosia Sztykowski
+position: 0
 categories:
 - project-team
-position: 0
 job-title: Project Lead
 image: "/uploads/zosia.jpg"
 social:
