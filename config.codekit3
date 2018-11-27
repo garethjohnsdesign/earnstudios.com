@@ -41,111 +41,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_authors/aleksi-knuutila.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/aleksi-knuutila.markdown",
-		"oF": 0
-		},
-	"/_authors/andi-pawelke.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/andi-pawelke.markdown",
-		"oF": 0
-		},
-	"/_authors/brendan-gatens.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/brendan-gatens.markdown",
-		"oF": 0
-		},
-	"/_authors/chris-taggart.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/chris-taggart.markdown",
-		"oF": 0
-		},
-	"/_authors/eryn-schornick.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/eryn-schornick.markdown",
-		"oF": 0
-		},
-	"/_authors/hera-hussain.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/hera-hussain.markdown",
-		"oF": 0
-		},
-	"/_authors/jack-lord.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/jack-lord.markdown",
-		"oF": 0
-		},
-	"/_authors/kadie-armstrong.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/kadie-armstrong.markdown",
-		"oF": 0
-		},
-	"/_authors/laurence-bascle.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/laurence-bascle.markdown",
-		"oF": 0
-		},
-	"/_authors/louise-russell-prywata.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/louise-russell-prywata.markdown",
-		"oF": 0
-		},
-	"/_authors/madeleine-mccarroll.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/madeleine-mccarroll.markdown",
-		"oF": 0
-		},
-	"/_authors/the-b-team-leaders.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/the-b-team-leaders.markdown",
-		"oF": 0
-		},
-	"/_authors/tim-davies.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/tim-davies.markdown",
-		"oF": 0
-		},
-	"/_authors/zosia-sztykowski-and-chris-taggart.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/zosia-sztykowski-and-chris-taggart.markdown",
-		"oF": 0
-		},
-	"/_authors/zosia-sztykowski.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_authors/zosia-sztykowski.markdown",
-		"oF": 0
-		},
 	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -503,7 +398,7 @@
 		},
 	"/_uploads/merchants-heart-01.jpg": {
 		"ft": 16384,
-		"iS": 371339,
+		"iS": 435745,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/merchants-heart-01.jpg",
