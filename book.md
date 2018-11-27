@@ -1,6 +1,6 @@
 ---
 title: Book
-position: 0
+position: 3
 excerpt-text: 
 description-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
   eiusmod tempor incididunt ut labore

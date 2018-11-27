@@ -1,5 +1,6 @@
 ---
 title: About
+position: 1
 header: 
 excerpt-text: We’ve helped ambitious companies re-imagine customer experiences, create
   new models for growth and build new capabilities.
