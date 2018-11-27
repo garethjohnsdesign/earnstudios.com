@@ -1,5 +1,6 @@
 ---
 title: EE
+position: 1
 client: EE
 excerpt-text: Inventor of the world’s first mobile network with YouTubers
 description-text: We created the EE Limited Edition SIMs project, which enabled influential
