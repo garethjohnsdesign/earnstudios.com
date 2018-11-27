@@ -1,6 +1,6 @@
 ---
 title: Workshops
-position: 5
+position: 4
 excerpt-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 description-text: We were commissioned to cover the growing by the Guardian sed posuere

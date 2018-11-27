@@ -1,6 +1,6 @@
 ---
 title: Contact
-position: 4
+position: 5
 header: Find out more about us or tell us about you
 details:
 - title: General Enquiries
