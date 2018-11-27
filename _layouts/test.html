@@ -10,6 +10,10 @@ layout: default
   {% when 'video' %}
     <!-- special markup for video type -->
     {{ block.body | markdownify }}
+  {% when 'carousel' %}
+    {% for image in block.images %}
+     {% include excerpt.html %}
+    {% endfor %}
   {% else %}
     <!-- catchall for all other types -->
     <div class="{{ block.type }}">{{ block.content | markdownify }}</div>
