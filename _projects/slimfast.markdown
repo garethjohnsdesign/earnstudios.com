@@ -1,5 +1,6 @@
 ---
 title: Slimfast
+position: 5
 client: Slimfast
 excerpt-text: Reinvented the brand property for the digital age
 description-text: We were commissioned to cover the growing by the Guardian sed posuere
