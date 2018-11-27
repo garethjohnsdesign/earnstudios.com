@@ -9,7 +9,7 @@
 
   <h3>{{ project.excerpt-text }}</h3>
       {% if project.has-logo %}
-       <svg class="icon icon-clients icon-{{ project.client | slugify }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ project.client | slugify }}"></use></svg>
+       <svg class="icon icon-clients icon-{{ project.client | slugify }} medium-gray"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ project.client | slugify }}"></use></svg>
       {% else %}
       <h4 class="sans-regular medium-gray">{{ project.client }}</h4>
       {% endif %}
