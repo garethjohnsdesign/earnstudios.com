@@ -9861,6 +9861,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/test.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/test.markdown",
+		"oF": 0
+		},
 	"/workshops.md": {
 		"cB": 0,
 		"cS": 0,

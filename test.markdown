@@ -13,5 +13,6 @@ blocks:
     sagittis sem.
 - type: video
   body: This is video content
+layout: test
 ---
 
