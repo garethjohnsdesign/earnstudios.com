@@ -14,7 +14,10 @@ blocks:
 - type: video
   body: This is video content
 - type: carousel
-  images: 
+  images:
+  - "/uploads/placeholder.jpg"
+  - "/uploads/workshops-03.jpg"
+  - "/uploads/slimfast-01.jpg"
 layout: test
 ---
 
