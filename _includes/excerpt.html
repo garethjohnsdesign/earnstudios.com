@@ -1,9 +1,11 @@
 <div class="cell">
 
   <a href="{{ project.url }}">
-    <div class="margin-bottom-1 light-gray-background">
+    <div class="margin-bottom-1 light-gray-background excerpt">
       {% assign image = project.image %}
-      <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}" data-aos="fade-in">
+      <div data-aos="fade-in">
+        <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+      </div>
     </div>
   </a>
 

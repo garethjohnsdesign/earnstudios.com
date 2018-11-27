@@ -342,3 +342,12 @@ url('/assets/img/arrow-right@3x.png') 3x
   background-position: 50%;
   background-color: $light-gray;
 }
+
+.excerpt img {
+    opacity: 1.0;
+    transition: opacity .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.excerpt img:hover {
+    opacity: 0.9;
+}
