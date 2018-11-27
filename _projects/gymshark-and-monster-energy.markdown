@@ -42,6 +42,8 @@ filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html
 [Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
 inspiration for Markdown's syntax is the format of plain text email.
 
+### Video
+
 <iframe src="https://player.vimeo.com/video/112691712" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/112691712">GymShark Max Philisaire Shredded Workout</a> from <a href="https://vimeo.com/user23349132">GymShark</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
