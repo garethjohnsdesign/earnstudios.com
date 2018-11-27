@@ -2,7 +2,9 @@
 title: EE
 client: EE
 excerpt-text: Inventor of the world’s first mobile network with YouTubers
-description-text: We created the EE Limited Edition SIMs project, which enabled influential YouTube ambassadors to create their own limited edition SIM experience for their fans.
+description-text: We created the EE Limited Edition SIMs project, which enabled influential
+  YouTube ambassadors to create their own limited edition SIM experience for their
+  fans.
 video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
 is-carousel: false

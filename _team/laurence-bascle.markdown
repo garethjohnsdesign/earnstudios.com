@@ -1,8 +1,8 @@
 ---
 title: Laurence Bascle
+position: 2
 categories:
 - project-team
-position: 2
 job-title: Product Owner
 social:
   twitter: https://twitter.com/

@@ -5,11 +5,11 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   projects:
     title: Projects
+    output: true
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:
@@ -27,7 +27,8 @@ defaults:
     intro: 
     layout: page
 url: https://www.earnstudios.com
-description: We’re an innovation studio that builds brands customers love and participate in growing.
+description: We’re an innovation studio that builds brands customers love and participate
+  in growing.
 permalink: pretty
 exclude:
 - bower.json
@@ -56,7 +57,7 @@ highlighter: rouge
 colophon: https://www.garethjohnsdesign.com
 company: EARN Studios
 email: hello@earnstudios.com
-analytics:
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %Y"

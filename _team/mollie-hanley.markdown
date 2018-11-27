@@ -1,8 +1,8 @@
 ---
 title: Mollie Hanley
+position: 5
 categories:
 - project-team
-position: 5
 job-title: Job Title
 image: "/uploads/mollie-hanley.jpg"
 social:

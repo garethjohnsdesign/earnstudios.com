@@ -1,8 +1,9 @@
 ---
 title: Book
 position: 0
-excerpt-text:
-description-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+excerpt-text: 
+description-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+  eiusmod tempor incididunt ut labore
 image: "/uploads/placeholder.jpg"
 has-book: true
 layout: page

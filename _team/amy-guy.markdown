@@ -1,8 +1,8 @@
 ---
 title: Amy Guy
+position: 4
 categories:
 - project-team
-position: 4
 job-title: Job Title
 social:
   twitter: https://twitter.com/

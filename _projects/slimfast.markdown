@@ -24,7 +24,7 @@ images:
 - image: "/uploads/placeholder.jpg"
   caption: 
 - image: "/uploads/placeholder.jpg"
-  caption:  
+  caption: 
 layout: page
 ---
 

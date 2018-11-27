@@ -1,8 +1,8 @@
 ---
 title: Kadie Armstrong
+position: 1
 categories:
 - project-team
-position: 1
 job-title: Job Title
 social:
   twitter: https://twitter.com/
