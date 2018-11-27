@@ -60,19 +60,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
     {% assign projects = site.projects | where: "is-selected", "true" %}
     {% for project in projects %}
-      <div class="cell">
-
-        <a href="{{ project.url }}">
-          <div class="margin-bottom-1 light-gray-background">
-            {% assign image = project.image %}
-            <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}" data-aos="fade-in">
-          </div>
-        </a>
-
-        <h3>{{ project.excerpt-text }}</h3>
-        <h4 class="sans-regular medium-gray">{{ project.client }}</h4>
-
-      </div>
+     {% include excerpt.html %}
     {% endfor %}
   </div>
 
