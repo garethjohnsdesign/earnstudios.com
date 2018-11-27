@@ -7,6 +7,7 @@ video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
 is-carousel: false
 is-selected: false
+has-logo: true
 images:
 - image: "/uploads/placeholder.jpg"
   caption: Test

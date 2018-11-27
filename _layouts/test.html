@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% for block in page.blocks %}
+  {% case block.type %}
+  {% when 'quote' %}
+    <!-- special markup for quote type -->
+    {% include quote.html content=block.content %}
+  {% when 'video' %}
+    <!-- special markup for video type -->
+    {% include video.html content=block.content %}
+  {% else %}
+    <!-- catchall for all other types -->
+    <div class="{{ block.type }}">{{ block.content | markdownify }}</div>
+  {% endcase %}
+{% endfor %}

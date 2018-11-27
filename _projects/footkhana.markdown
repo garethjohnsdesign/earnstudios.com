@@ -8,6 +8,7 @@ description-text: We were commissioned to cover the growing by the Guardian sed 
   vel augue laoreet rutrum faucibus dolor auctor.
 vimeo: 143015938
 image: "/uploads/footkhana-01.jpg"
+has-logo: true
 is-carousel: true
 is-selected: true
 images:

@@ -62,13 +62,6 @@
 		"oAP": "/_includes/analytics.html",
 		"oF": 0
 		},
-	"/_includes/clients.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/clients.html",
-		"oF": 0
-		},
 	"/_includes/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -228,6 +221,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/tags.html",
+		"oF": 0
+		},
+	"/_layouts/test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/test.html",
 		"oF": 0
 		},
 	"/_projects/ee.markdown": {
