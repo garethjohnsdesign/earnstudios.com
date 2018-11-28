@@ -338,10 +338,53 @@ url('/assets/img/arrow-right@3x.png') 3x
 }
 
 .page__image {
+  @include breakpoint(small) {
+    height: 30vh;
+  }
+  @include breakpoint(medium) {
+    height: 50vh;
+  }
+  @include breakpoint(large) {
+    height: 60vh;
+  }
   background-size: cover; 
   background-position: 50%;
   background-color: $light-gray;
 }
+
+.carousel__container {
+  @include breakpoint(small) {
+    height: 35vh;
+  }
+  @include breakpoint(medium) {
+    height: 60vh;
+  }
+  @include breakpoint(large) {
+    height: 60vh;
+  }
+}
+
+.carousel {
+  height: 100%;
+}
+
+.carousel-image {
+  height: 100%;
+  @include breakpoint(small) {
+    width: 75%;
+  }
+  @include breakpoint(medium) {
+    width: 75%;
+  }
+  @include breakpoint(large) {
+    width: 66%;
+  }
+  
+  background-size: cover; 
+  background-position: 50%;
+  background-color: $light-gray;
+}
+
 
 .excerpt img {
     opacity: 1.0;

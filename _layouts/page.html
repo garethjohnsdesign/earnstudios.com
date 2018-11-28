@@ -6,7 +6,7 @@ layout: default
 {% if page.excerpt-text %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-left">
-    <div class="small-12 medium-10 large-8 medium-offset-1 large-offset-1 cell">
+    <div class="small-12 medium-10 large-9 medium-offset-1 large-offset-1 cell">
       <h2>{{page.excerpt-text}}</h2>
       {% if page.client %}
       <h3 class="sans-regular medium-gray">{{page.client}}</h3>
@@ -23,7 +23,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell">
       {% assign image = page.image %}
-      <div data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="light-gray-background page__image" style="height:50vh;">
+      <div data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="light-gray-background page__image">
 
       {% if page.video %}
       <div class="grid-y height-100 align-center" id="video-gallery">
@@ -52,22 +52,44 @@ layout: default
 {% endif %}
 <!-- End Page Description -->
 
-
 <!-- Page Carousel -->
 {% if page.images %}
 <div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell">
 
-    <div class="index__gallery" style="height: 70vh">
+<div class="carousel__container">
+    <div class="carousel">
       {% for carouselimage in page.images %}
       {% assign image = carouselimage.image %}
-        <div class="carousel-cell width-75 height-100 margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+        <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+      {% endfor %}
+    </div>
+</div>
+
+  </div>
+</div>
+{% endif %}
+<!-- End Page Carousel -->
+
+<!-- Page Carousel -->
+<!--
+{% if page.images %}
+<div class="grid-x grid-padding-y align-center">
+  <div class="small-12 cell">
+
+    <div class="carousel">
+      {% for carouselimage in page.images %}
+      <div class="carousel-cell">
+      {% assign image = carouselimage.image %}
+        <img src="{{image}}">
+      </div>
       {% endfor %}
     </div>
 
   </div>
 </div>
 {% endif %}
+-->
 <!-- End Page Carousel -->
 
 

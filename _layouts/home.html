@@ -11,9 +11,12 @@ layout: default
       <button class="orbit-next"><span class="show-for-sr">Next Slide</span><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></button>
     </div>
     
-    <ul class="orbit-container"  style="height: 80vh">      
-      {% assign projects = site.projects | sort: 'position' | where: "is-carousel", "true" %}
-      {% for project in projects %}
+    <ul class="orbit-container"  style="height: 85vh">
+    {% assign pages = site.pages | where: "is-carousel", "true" %}   
+    {% assign projects = site.projects | where: "is-carousel", "true" %}
+    {% assign everything = pages | concat: projects %}
+
+      {% for project in everything %}
       {% assign image = project.image %}
       <li class="orbit-slide height-100" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
           <div class="grid-y align-center" style="height: 100%;">
