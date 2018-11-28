@@ -10,7 +10,6 @@ video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
 is-carousel: false
 is-selected: false
-has-logo: true
 images:
 - image: "/uploads/placeholder.jpg"
   caption: Test
@@ -26,6 +25,8 @@ images:
   caption: 
 - image: "/uploads/placeholder.jpg"
   caption: 
+quote: Smart, collaborative, focused
+cite: Spencer McHugh, Marketing Director, EE
 layout: page
 ---
 

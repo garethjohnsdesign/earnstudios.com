@@ -41,7 +41,9 @@ layout: default
 
     <div class="small-12 medium-8 cell">
       <h2>{{page.header}}</h2>
+      {% if page.sub-header %}
       <h3 class="sans-regular medium-gray">{{page.sub-header}}</h3>
+      {% endif %}
     </div>
 
   </div>
