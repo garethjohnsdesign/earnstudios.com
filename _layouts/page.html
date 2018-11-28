@@ -71,28 +71,6 @@ layout: default
 {% endif %}
 <!-- End Page Carousel -->
 
-<!-- Page Carousel -->
-<!--
-{% if page.images %}
-<div class="grid-x grid-padding-y align-center">
-  <div class="small-12 cell">
-
-    <div class="carousel">
-      {% for carouselimage in page.images %}
-      <div class="carousel-cell">
-      {% assign image = carouselimage.image %}
-        <img src="{{image}}">
-      </div>
-      {% endfor %}
-    </div>
-
-  </div>
-</div>
-{% endif %}
--->
-<!-- End Page Carousel -->
-
-
 <!-- Page Content -->
 {% if page.content %}
 <section class="grid-container">
@@ -135,6 +113,7 @@ layout: default
 {% endif %}
 <!-- End Pagination -->
 
+<!-- Book Form -->  
 {% if page.has-book %}
 <section class="light-gray-background">
 <div class="grid-container padding-vertical-2">
@@ -179,7 +158,7 @@ layout: default
 
 <div class="grid-x padding-vertical-2">
 <div class="small-12 cell">
-<small>By clicking the Submit button below you are agreeing to receive email marketing communications from EARN Studios from time to time. We will not share your details with any 3rd parties. Please review our Privacy Policy for more information.</small>
+<small>By clicking the Submit button below you are agreeing to receive email marketing communications from EARN Studios from time to time. We will not share your details with any 3rd parties. Please review our <a href="/privacy/">privacy policy</a> for more information.</small>
 </div>
 </div>
       
@@ -198,3 +177,4 @@ layout: default
 </div>
 </section>
 {% endif %}
+<!-- End Book Form -->  

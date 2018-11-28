@@ -317,12 +317,15 @@ url('/assets/img/arrow-right@3x.png') 3x
 */
 
 .page__content {
-  h2 {
+  h2:nth-child(n+2) {
   margin-top: 2rem;
   }
-  h3 {
+  h3:nth-child(n+2) {
   margin-top: 2rem;
   }
+  img {
+padding: 2rem;
+}
 }
 
 
@@ -342,10 +345,10 @@ url('/assets/img/arrow-right@3x.png') 3x
     height: 30vh;
   }
   @include breakpoint(medium) {
-    height: 50vh;
+    height: 60vh;
   }
   @include breakpoint(large) {
-    height: 60vh;
+    height: 70vh;
   }
   background-size: cover; 
   background-position: 50%;

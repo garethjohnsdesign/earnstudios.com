@@ -1,8 +1,7 @@
 ---
 title: Workshops
 position: 4
-excerpt-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+excerpt-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 description-text: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus

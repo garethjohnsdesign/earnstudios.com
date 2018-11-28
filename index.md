@@ -12,6 +12,12 @@ has-call-to-action: true
 call-to-action: Find out more about us or tell us about you
 call-to-action-email: hello@earnstudios.com
 has-clients: true
+pagination:
+  enabled: true
+  collection: projects
+  sort_field: date
+  sort_reverse: true
+  per_page: 10
 layout: home
 ---
 
