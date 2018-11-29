@@ -6,7 +6,7 @@ layout: default
 <div class="orbit" role="region" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;">
   <div class="orbit-wrapper">
     
-   <div class="orbit-controls show-for-xxlarge">
+    <div class="orbit-controls show-for-xxlarge">
       <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></button>
       <button class="orbit-next"><span class="show-for-sr">Next Slide</span><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></button>
     </div>
@@ -18,20 +18,16 @@ layout: default
 
       {% for project in everything %}
       {% assign image = project.image %}
-      <li class="orbit-slide height-100" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+      <li class="orbit-slide" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" href="{{ project.url }}">
+<a href="{{ project.url }}" style="z-index: 99; height: 100vh; width: 100vw">
           <div class="grid-y align-center" style="height: 100%;">
-            <div class="shrink cell"> 
-              <div class="grid-container">
-                <div class="grid-x grid-padding-x grid-padding-y">
-                  <div class="small-12 medium-10 large-9 cell">
-                    <a href="{{ project.url }}" class="h1 white" style="z-index: 100">{{project.excerpt-text}}</a>
-                  </div>
-                </div>
-              </div>
+            <div class="auto cell"> 
             </div>
           </div>
+</a>
       </li>
-     {% endfor %}      
+
+     {% endfor %}
     </ul>
       
   </div>
@@ -47,7 +43,7 @@ layout: default
       {% if page.sub-header %}
       <h3 class="sans-regular medium-gray">{{page.sub-header}}</h3>
       {% endif %}
-      <div class="padding-top-1"><a href="/about/" class="h4 sans-regular {% unless page.sub-header %}medium-gray{% endunless %}">Find out more <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a></div>
+      <div class="padding-top-1"><a href="/about/" class="h4 sans-regular medium-gray">Find out more <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a></div>
     </div>
 
   </div>
@@ -74,7 +70,7 @@ layout: default
 <!-- End Home Selected Projects -->
 
 <!-- Home Projects Link -->
-<div class="grid-container margin-vertical-3">
+<div class="grid-container margin-bottom-3">
   <div class="grid-x grid-padding-x grid-padding-y">
 
     <div class="small-12 medium-8 cell medium-gray">
