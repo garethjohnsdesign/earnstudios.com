@@ -2,8 +2,10 @@
 title: Drone Racing
 position: 1
 client: Qualcomm
-excerpt: Qualcomm asked us for help demonstrating the groundbreaking power of their technology. 
-description: Qualcomm asked us for help demonstrating the groundbreaking power of their technology. 
+excerpt: Qualcomm asked us for help demonstrating the groundbreaking power of their
+  technology.
+description: Qualcomm asked us for help demonstrating the groundbreaking power of
+  their technology.
 vimeo: https://vimeo.com/225428254
 image: "/uploads/qualcomm-01.jpg"
 is-carousel: false
