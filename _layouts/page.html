@@ -26,8 +26,8 @@ layout: default
       <div data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" class="light-gray-background page__image">
 
       {% if page.video %}
-      <div class="grid-y height-100 align-center" id="video-gallery">
-        <div class="shrink cell text-center excerpt" data-src="{{page.video}}">
+      <div class="grid-y height-100 align-center video">
+        <div class="shrink cell text-center" data-src="{{page.video}}">
           <a href="{{page.video}}" class="white"><svg class="icon icon-play-circle"><use xlink:href="/assets/icons/symbol-defs.svg#icon-play-circle"></use></svg></a>
         </div>
       </div>
@@ -57,14 +57,14 @@ layout: default
 <div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell">
 
-<div class="carousel__container">
-    <div class="carousel">
-      {% for carouselimage in page.images %}
-      {% assign image = carouselimage.image %}
-        <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
-      {% endfor %}
+    <div class="carousel__container">
+      <div class="carousel">
+        {% for carouselimage in page.images %}
+        {% assign image = carouselimage.image %}
+          <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+        {% endfor %}
+      </div>
     </div>
-</div>
 
   </div>
 </div>
@@ -96,6 +96,7 @@ layout: default
 {% endif %}
 <!-- End Page Quote -->
 
+<!-- Pagination -->
 {% if page.collection %}
   {% assign links = site[page.collection] | sort: 'position'  %}
 {% endif %}
@@ -119,7 +120,6 @@ layout: default
 	{% assign tmpprev = link %}
 {% endfor %}
 
-<!-- Pagination -->
 {% if next %}
 <div class="grid-x margin-top-2 light-gray-background" style="min-height: 350px">
   {% assign image = next.image %}
