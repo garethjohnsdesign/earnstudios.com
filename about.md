@@ -2,10 +2,8 @@
 title: About
 position: 1
 header: 
-excerpt-text: We’ve helped ambitious companies re-imagine customer experiences, create
-  new models for growth and build new capabilities.
+excerpt-text: We’re an innovation studio that builds brands customers love and participate in growing.
 description-text: 
-vimeo: 143015938
 image: "/uploads/about.jpg"
 has-call-to-action: true
 call-to-action: Find out more about us or tell us about you
@@ -13,8 +11,6 @@ call-to-action-email: hello@earnstudios.com
 has-clients: true
 layout: page
 ---
-
-## We’re an innovation studio that builds brands customers love and participate in growing.
 
 In a world where the average customer grows up seeing 170,000 marketing messages by their 17th birthday; where 86% of people admit to sharing social media content in the bathroom; where 20% of smartphone users have installed adblocking browsers because of their loathing of advertising; customers only talk about the brands they LOVE. And, if customers aren’t talking about your brand, you might as well not exist.
 
