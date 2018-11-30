@@ -1,11 +1,8 @@
 ---
 title: Workshops
 position: 4
-excerpt-text: Lorem ipsum dolor sit amet, consectetur adipisicing elit
-description-text: We were commissioned to cover the growing by the Guardian sed posuere
-  consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-  condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
-  vel augue laoreet rutrum faucibus dolor auctor.
+excerpt-text: Innovative business planning workshops
+description-text: We train internal marketing and innovation teams to build disruptive and entrepreneurial business plans
 is-carousel: true
 image: "/uploads/workshops-01.jpg"
 images:
@@ -19,28 +16,27 @@ images:
   caption: 
 - image: "/uploads/workshops-06.jpg"
   caption: 
+quote: EARN are brilliant, smart and push the boundaries as our business partners
+cite: "Michelle Topping, Marketing Head, PepsiCo"
 has-call-to-action: true
 call-to-action: Find out more about us and how we can help your team
 call-to-action-email: workshops@earnstudios.com
 layout: page
 ---
 
-## What we do
-We show in-house teams how to think differently and develop innovative, commercially-minded solutions to common business challenges
+### Our aim with our business planning workshops is to show in–house teams how to think differently and develop innovative, commercially minded solutions to common business challenges.
 
-Led by EARN Studios and Jamal Benmiloud, former VP of Marketing at Red Bull and Monster, and author of Brand Love – How To Build A Brand Worth Talking About
+Led by Jamal Benmiloud, former VP of Marketing at Red Bull and Monster and author of Brand Love: How to build a brand worth talking about, we use live briefs and business challenges that come directly from you, to build ideas and plans that create value and drive long term growth whilst also building brand love.
 
-We use live briefs and business challenges from you, to build ideas and plans that create value, drive long-term growth and build brand love
+### One-Day Workshops
+Our one-day workshops include talks, Q&As and interactive groups sessions tailored to specific requirements. 
 
-Our one day workshops include talks, Q&As and interactive group sessions tailored to your specific requirements.
+### Topics include
 
-## Topics include
-Understanding the key to building and maintaining brand love
+- Understanding the key to building and maintaining brand love
+- Unlocking an entrepreneurial mindset (from marketeers to entrepreneurs)
+- Internal alignment on business objectives and the road map to get there
+- Generating value based ideas that drive revenue and achieve company goals
+- Developing entrepreneurial and astute business plans designed for long term growth
 
-Developing entrepreneurial and astute business plans designed for long term growth
-
-Unlocking an entrepreneurial mindset (from marketeers to entrepreneurs)
-
-Internal alignment on business objectives and the roadmap to get there
-
-Generating value based ideas that drive revenue and achieve company goals
+EARN are committed to helping our clients’ marketing to become a long-term business asset that grows in value. We partner with businesses that can make change happen and it is our priority to create value and nurture the entrepreneurial spirit to drive long-term growth.

@@ -2,14 +2,12 @@
 title: Home
 position: 0
 image: "/assets/img/og-image.png"
-header: We’re an innovation studio that builds brands customers love and participate
-  in growing.
-sub-header: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa
+header: We’re an innovation studio that builds brands customers love and participate in growing.
+sub-header: The secret to brand love is customer participation. It’s not about selling products, but the desire to be part of something. We earn brand love by inventing products; experiences and content people want to share on our client’s behalf.
+sign-off: Together, anything is possible.
 selected-text: Some recent work we're really proud of
 has-call-to-action: true
-call-to-action: Find out more about us or tell us about you
+call-to-action: If you’d like to get in touch
 call-to-action-email: hello@earnstudios.com
 has-clients: true
 pagination:
