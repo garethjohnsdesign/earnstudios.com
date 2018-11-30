@@ -7,7 +7,7 @@ description-text: We were commissioned to cover the growing by the Guardian sed 
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
-vimeo: 143015938
+vimeo: https://vimeo.com/225428254
 image: "/uploads/footkhana-01.jpg"
 has-logo: true
 is-carousel: true
@@ -27,9 +27,16 @@ images:
   caption: 
 - image: "/uploads/placeholder.jpg"
   caption: 
-quote: Lorem ipsum dolor sit amet, consectetur adipisicing
-cite: Julian Hearn
+quote: An agency that thinks differently, with a focus on brand ownership where the brand’s values are at the heart of the idea
+cite: Paul Goodmaker, Sponsorship Director, Castrol
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam
+### Brief
+To communicate Castrol’s heritage and relevance to the World Cup audience through the brand’s sponsorship of the 2014 tournament.
+
+### Solution
+EARN Studios worked with Brazilian football superstar Neymar Jr. and motorsports king Ken Block to become Castrol ambassadors and co-create Castrol Footkhana, creating buzz and talkability for Castrol and helping them to become the most shared sponsor of the FIFA World Cup 2014.
+
+### Results
+Over 1 million shares of the Castrol Footkhana video on YouTube. Over 25 million views of the video worldwide.
