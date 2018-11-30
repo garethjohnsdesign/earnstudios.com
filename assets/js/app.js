@@ -49,8 +49,8 @@ $('.carousel').flickity({
   percentPosition:false,
 });
 
-$('#video-gallery').lightGallery({
-    selector: '.excerpt',
+$('.video').lightGallery({
+    counter: false,
     youtubePlayerParams: {
         modestbranding: 1,
         showinfo: 0,
