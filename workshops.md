@@ -18,7 +18,7 @@ images:
 - image: "/uploads/workshops-06.jpg"
   caption: 
 quote: EARN are brilliant, smart and push the boundaries as our business partners
-cite: "Michelle Topping, Marketing Head, PepsiCo"
+cite: Michelle Topping, Marketing Head, PepsiCo
 has-call-to-action: true
 call-to-action: Find out more about us and how we can help your team
 call-to-action-email: workshops@earnstudios.com
