@@ -27,7 +27,8 @@ images:
   caption: 
 - image: "/uploads/placeholder.jpg"
   caption: 
-quote: An agency that thinks differently, with a focus on brand ownership where the brand’s values are at the heart of the idea
+quote: An agency that thinks differently, with a focus on brand ownership where the
+  brand’s values are at the heart of the idea
 cite: Paul Goodmaker, Sponsorship Director, Castrol
 layout: page
 ---
