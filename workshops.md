@@ -2,7 +2,8 @@
 title: Workshops
 position: 4
 excerpt-text: Innovative business planning workshops
-description-text: We train internal marketing and innovation teams to build disruptive and entrepreneurial business plans
+description-text: We train internal marketing and innovation teams to build disruptive
+  and entrepreneurial business plans
 is-carousel: true
 image: "/uploads/workshops-01.jpg"
 images:
@@ -17,7 +18,7 @@ images:
 - image: "/uploads/workshops-06.jpg"
   caption: 
 quote: EARN are brilliant, smart and push the boundaries as our business partners
-cite: "Michelle Topping, Marketing Head, PepsiCo"
+cite: Michelle Topping, Marketing Head, PepsiCo
 has-call-to-action: true
 call-to-action: Find out more about us and how we can help your team
 call-to-action-email: workshops@earnstudios.com
