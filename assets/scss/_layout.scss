@@ -343,6 +343,18 @@ padding: 2rem;
   background-color: $light-gray;
 }
 
+.orbit-container {
+  @include breakpoint(small) {
+    height: 35vh;
+  }
+  @include breakpoint(medium) {
+    height: 60vh;
+  }
+  @include breakpoint(large) {
+    height: 80vh;
+  }
+}
+
 .carousel__container {
   @include breakpoint(small) {
     height: 35vh;
@@ -385,3 +397,4 @@ padding: 2rem;
 .excerpt img:hover {
     opacity: 0.9;
 }
+
