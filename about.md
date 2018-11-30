@@ -2,8 +2,8 @@
 title: About
 position: 1
 header: 
-excerpt-text: We’re an  innovation studio that builds brands people love
-description-text: 
+excerpt: We’re an  innovation studio that builds brands people love
+description: 
 image: "/uploads/about.jpg"
 has-call-to-action: true
 call-to-action: Find out more about us or tell us about you

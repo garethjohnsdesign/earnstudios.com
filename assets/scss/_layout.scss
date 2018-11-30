@@ -343,7 +343,7 @@ padding: 2rem;
   background-color: $light-gray;
 }
 
-.orbit-container {
+.orbit-container, orbit {
   @include breakpoint(small) {
     height: 35vh;
   }

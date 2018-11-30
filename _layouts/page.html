@@ -3,11 +3,11 @@ layout: default
 ---
 
 <!-- Page Excerpt -->
-{% if page.excerpt-text %}
+{% if page.excerpt %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-left">
     <div class="small-12 medium-10 large-9 medium-offset-1 large-offset-1 cell">
-      <h2>{{page.excerpt-text}}</h2>
+      <h2>{{page.excerpt}}</h2>
       {% if page.client %}
       <h3 class="sans-regular medium-gray">{{page.client}}</h3>
       {% endif %}
@@ -41,11 +41,11 @@ layout: default
 <!-- End Page Image -->
 
 <!-- Page Description -->
-{% if page.description-text %}
+{% if page.description %}
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell">
-      <h2>{{page.description-text}}</h2>
+      <h2>{{page.description}}</h2>
     </div>
   </div>
 </section>

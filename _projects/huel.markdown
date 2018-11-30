@@ -2,8 +2,8 @@
 title: Huel
 position: 4
 client: Huel
-excerpt-text: On board of one of the fastest growing food brands in the world
-description-text: We were commissioned to cover the growing by the Guardian sed posuere
+excerpt: On board of one of the fastest growing food brands in the world
+description: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.

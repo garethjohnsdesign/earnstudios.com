@@ -2,8 +2,8 @@
 title: Gymshark + Monster Energy
 position: 0
 client: Gymshark + Monster Energy
-excerpt-text: A strategic partnership to grow faster together
-description-text: We were commissioned to cover the growing by the Guardian sed posuere
+excerpt: A strategic partnership to grow faster together
+description: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.

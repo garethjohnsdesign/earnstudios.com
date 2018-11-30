@@ -2,8 +2,8 @@
 title: Footkhana
 position: 1
 client: Castrol
-excerpt-text: Helping to become the most shared sponsor of the world cup
-description-text: We were commissioned to cover the growing by the Guardian sed posuere
+excerpt: Helping to become the most shared sponsor of the world cup
+description: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
@@ -11,6 +11,7 @@ vimeo: https://vimeo.com/225428254
 image: "/uploads/footkhana-01.jpg"
 has-logo: true
 is-carousel: true
+has-carousel-text: true
 is-selected: true
 images:
 - image: "/uploads/placeholder.jpg"

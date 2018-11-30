@@ -18,16 +18,28 @@ layout: default
 
       {% for project in everything %}
       {% assign image = project.image %}
-      <li class="orbit-slide" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}" href="{{ project.url }}">
-        <a href="{{ project.url }}" style="z-index: 99; height: 100vh; width: 100vw">
-          <div class="grid-y align-bottom" style="height: 100%;">
+      <li class="orbit-slide" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+        <a href="{{ project.url }}">
+          <div class="grid-y align-center" style="height: 100%;">
             <div class="shrink cell">
+            
+            {% if project.has-carousel-text %}
+            <div class="grid-container">
+
+                <div class="grid-x grid-padding-x grid-padding-y">
+                  <div class="small-12 medium-10 large-8 cell">
+                    <h1 class="white">{{project.excerpt}}</h1>
+                  </div>
+                </div>
+
+            </div>
+            {% endif %}
+            
 
             </div>
           </div>
         </a>
       </li>
-
      {% endfor %}
     </ul>
       

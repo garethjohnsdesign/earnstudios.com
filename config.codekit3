@@ -272,6 +272,13 @@
 		"oAP": "/_projects/merchants-heart.markdown",
 		"oF": 0
 		},
+	"/_projects/qualcomm.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/qualcomm.markdown",
+		"oF": 0
+		},
 	"/_projects/slimfast.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -434,6 +441,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/qualcomm-01.jpg": {
+		"ft": 16384,
+		"iS": 252086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/qualcomm-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/slimfast-01.jpg": {
@@ -889,16 +907,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/assets/js/min/min/svgxuse-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/assets/js/project.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/min/project-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
