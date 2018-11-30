@@ -344,7 +344,7 @@ padding: 2rem;
 
 .orbit-container, orbit {
   @include breakpoint(small) {
-    height: 35vh;
+    height: 60vh;
   }
   @include breakpoint(medium) {
     height: 60vh;
