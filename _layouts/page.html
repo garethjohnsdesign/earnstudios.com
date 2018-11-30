@@ -96,13 +96,41 @@ layout: default
 {% endif %}
 <!-- End Page Quote -->
 
+{% capture the_collection %}{{page.collection}}{% endcapture %}
 
-<!-- Pagination -->  
+  {% if page.collection %}
+    {% assign  document = site[the_collection] | sort: 'position'  %}
+  {% endif %}
+
+  {% for links in document  %}
+    {% if links.title == page.title %}
+      {% unless forloop.first %}
+        {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next = document[forloop.index] %}
+        {% assign nexturl = next.url %}
+      {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
+  {% endfor %}
+
+<script>
+document.body.onkeyup = function(e){
+if (e.keyCode == '37') { window.location = '{{prevurl}}'; }
+if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
+};
+</script>
+
+{% if prevurl %}<a href="{{prevurl}}" class="prev">PREV {{prevurl}}</a>{% endif %}<br />
+{% if nexturl %}<a href="{{nexturl}}" class="nxt">Next {{nexturl}}</a>{% endif %}
+
+<!-- Pagination -->
+<!--
 {% if page.next.url %}
 <div class="grid-x margin-top-2 light-gray-background" style="min-height: 350px">
   {% assign image = page.next.image %}
   <div class="small-12 medium-6 cell pagination-image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}" style="min-height: 350px">
-
   </div>
   
   <div class="small-12 medium-6 cell padding-space-1">
@@ -111,6 +139,7 @@ layout: default
   </div>
 </div>
 {% endif %}
+-->
 <!-- End Pagination -->
 
 <!-- Book Form -->  

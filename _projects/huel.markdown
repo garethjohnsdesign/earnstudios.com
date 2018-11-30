@@ -1,6 +1,6 @@
 ---
 title: Huel
-position: 3
+position: 5
 client: Huel
 excerpt-text: On board of one of the fastest growing food brands in the world
 description-text: We were commissioned to cover the growing by the Guardian sed posuere

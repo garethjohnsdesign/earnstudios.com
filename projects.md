@@ -10,8 +10,8 @@ layout: projects
 pagination:
   enabled: true
   collection: projects
-  sort_field: date
-  sort_reverse: true
+  sort_field: position
+  sort_reverse: false
   per_page: 10
 ---
 

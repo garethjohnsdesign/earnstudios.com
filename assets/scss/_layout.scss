@@ -328,18 +328,6 @@ padding: 2rem;
 }
 }
 
-
-.carousel-cell {
-/*
-  width: 66%;
-  height: 100%;
-  margin-right: $global-padding;
-*/
-  background-size: cover; 
-  background-position: 50%;
-  background-color: $light-gray;
-}
-
 .page__image {
   @include breakpoint(small) {
     height: 30vh;
