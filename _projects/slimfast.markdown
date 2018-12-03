@@ -9,8 +9,8 @@ image: "/uploads/slimfast-01.jpg"
 is-carousel: false
 is-selected: false
 images:
-- image:
-  caption:
+- image: 
+  caption: 
 layout: page
 ---
 

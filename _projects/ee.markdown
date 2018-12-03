@@ -10,9 +10,9 @@ has-carousel-text: true
 is-selected: false
 images:
 - image: "/uploads/ee-02.jpg"
-  caption:
+  caption: 
 - image: "/uploads/ee-03.jpg"
-  caption:
+  caption: 
 quote: Smart, collaborative, focused
 cite: Spencer McHugh, Marketing Director, EE
 layout: page

@@ -10,7 +10,7 @@ is-carousel: false
 is-selected: false
 images:
 - image: "/uploads/qualcomm-02.jpg"
-  caption:
+  caption: 
 - image: "/uploads/qualcomm-03.jpg"
   caption: 
 - image: "/uploads/qualcomm-04.jpg"
