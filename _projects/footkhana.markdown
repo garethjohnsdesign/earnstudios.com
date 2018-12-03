@@ -2,7 +2,7 @@
 title: Footkhana
 position: 1
 client: Castrol
-excerpt: "The most shared film in the world"
+excerpt: The most shared film in the world
 description: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
@@ -15,7 +15,7 @@ has-carousel-text: true
 is-selected: true
 images:
 - image: "/uploads/footkhana-02.jpg"
-  caption:
+  caption: 
 - image: "/uploads/footkhana-03.jpg"
   caption: 
 - image: "/uploads/footkhana-04.jpg"

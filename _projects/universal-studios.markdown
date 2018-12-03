@@ -2,7 +2,7 @@
 title: Fast & Furious 8
 position: 1
 client: Universal Studios
-excerpt: "Breaking the global box office record with digital art made for the fans"
+excerpt: Breaking the global box office record with digital art made for the fans
 description: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
@@ -15,7 +15,7 @@ has-carousel-text: true
 is-selected: true
 images:
 - image: "/uploads/universal-studios-01.jpg"
-  caption:
+  caption: 
 - image: "/uploads/universal-studios-02.jpg"
   caption: 
 - image: "/uploads/universal-studios-03.jpg"

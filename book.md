@@ -1,12 +1,14 @@
 ---
 title: Book
 position: 3
-excerpt: According to research 81% of people choose brands based on what their friends (not agencies) said*
-description: If customers like you, be afraid, be very afraid. Today, people only recommend brands they love.
+excerpt: According to research 81% of people choose brands based on what their friends
+  (not agencies) said*
+description: If customers like you, be afraid, be very afraid. Today, people only
+  recommend brands they love.
 image: "/uploads/book-02.jpg"
 images:
 - image: "/uploads/book-01.jpg"
-  caption:
+  caption: 
 - image: "/uploads/book-02.jpg"
   caption: 
 - image: "/uploads/book-03.jpg"
