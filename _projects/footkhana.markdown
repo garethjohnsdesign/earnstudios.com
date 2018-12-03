@@ -2,7 +2,7 @@
 title: Footkhana
 position: 1
 client: Castrol
-excerpt: Helping to become the most shared sponsor of the world cup
+excerpt: "The most shared film in the world"
 description: We were commissioned to cover the growing by the Guardian sed posuere
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
@@ -14,19 +14,23 @@ is-carousel: true
 has-carousel-text: true
 is-selected: true
 images:
-- image: "/uploads/placeholder.jpg"
-  caption: Test
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/footkhana-02.jpg"
+  caption:
+- image: "/uploads/footkhana-03.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/footkhana-04.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/footkhana-05.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/footkhana-06.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/footkhana-07.jpg"
   caption: 
-- image: "/uploads/placeholder.jpg"
+- image: "/uploads/footkhana-08.jpg"
+  caption: 
+- image: "/uploads/footkhana-09.jpg"
+  caption: 
+- image: "/uploads/footkhana-10.jpg"
   caption: 
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
@@ -34,11 +38,8 @@ cite: Paul Goodmaker, Sponsorship Director, Castrol
 layout: page
 ---
 
-### Brief
-To communicate Castrol’s heritage and relevance to the World Cup audience through the brand’s sponsorship of the 2014 tournament.
+The brief was to communicate Castrol’s heritage and relevance to the World Cup audience through the brand’s sponsorship of the 2014 tournament.
 
-### Solution
-EARN Studios worked with Brazilian football superstar Neymar Jr. and motorsports king Ken Block to become Castrol ambassadors and co-create Castrol Footkhana, creating buzz and talkability for Castrol and helping them to become the most shared sponsor of the FIFA World Cup 2014.
+EARN Studios worked with Brazilian football superstar Neymar Jr. and motorsports king Ken Block to become Castrol ambassadors and co-create Castrol Footkhana, creating buzz and talkability for Castrol and helping them to become the most shared sponsor of the FIFA World Cup 2014.
 
-### Results
-Over 1 million shares of the Castrol Footkhana video on YouTube. Over 25 million views of the video worldwide.
+There were over 1 million shares of the Castrol Footkhana video on YouTube, with over 25 million views of the video worldwide.

@@ -14,17 +14,8 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    feature-image: 
-    author: 
-    layout: post
-    permalink: "/news/:title/"
-- scope:
-    path: ''
     type: pages
   values:
-    intro: 
     layout: page
 url: https://www.earnstudios.com
 description: An innovation studio that builds brands people love. The secret to brand
@@ -88,18 +79,6 @@ pagination:
   sort_field: date
   sort_reverse: true
 autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    slugify:
-      mode: raw
-      cased: true
-    layouts:
-    - tags.html
-    title: Posts tagged with :tag
-    permalink: "/tag/:tag"
+  enabled: false
 imgix:
   source: earn-studios.imgix.net

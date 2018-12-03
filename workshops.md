@@ -2,27 +2,30 @@
 title: Workshops
 position: 4
 excerpt: Innovative business planning workshops
-description: We train internal marketing and innovation teams to build disruptive
-  and entrepreneurial business plans
+description: We train internal marketing and innovation teams to build disruptive and entrepreneurial business plans
 is-carousel: true
 has-carousel-text: true
-image: "/uploads/workshops-01.jpg"
+image: "/uploads/workshops-feature.jpg"
 images:
-- image: "/uploads/workshops-02.jpg"
-  caption: Test
-- image: "/uploads/workshops-03.jpg"
+- image: "/uploads/workshops-01-rev.jpg"
+  caption:
+- image: "/uploads/workshops-02-rev.jpg"
+  caption:
+- image: "/uploads/workshops-03-rev.jpg"
   caption: 
-- image: "/uploads/workshops-04.jpg"
+- image: "/uploads/workshops-04-rev.jpg"
   caption: 
-- image: "/uploads/workshops-05.jpg"
+- image: "/uploads/workshops-05-rev.jpg"
   caption: 
-- image: "/uploads/workshops-06.jpg"
+- image: "/uploads/workshops-06-rev.jpg"
+  caption: 
+- image: "/uploads/workshops-07-rev.jpg"
   caption: 
 quote: EARN are brilliant, smart and push the boundaries as our business partners
 cite: Michelle Topping, Marketing Head, PepsiCo
 has-call-to-action: true
-call-to-action: Find out more about us and how we can help your team
-call-to-action-email: workshops@earnstudios.com
+call-to-action: To find out more contact us at
+call-to-action-email: hello@earnstudios.com
 layout: page
 ---
 

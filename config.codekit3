@@ -90,32 +90,11 @@
 		"oAP": "/_includes/header.html",
 		"oF": 0
 		},
-	"/_includes/images/interchange-img-small-12-medium-12-cell-dev.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell-dev.html",
-		"oF": 0
-		},
-	"/_includes/images/interchange-img-small-12-medium-12-cell-test.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell-test.html",
-		"oF": 0
-		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell.html",
-		"oF": 0
-		},
-	"/_includes/images/interchange-img-small-12-medium-6-cell-dev.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell-dev.html",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-6-cell.html": {
@@ -146,13 +125,6 @@
 		"oAP": "/_includes/pagination-collection.html",
 		"oF": 0
 		},
-	"/_includes/pagination-project.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/pagination-project.html",
-		"oF": 0
-		},
 	"/_includes/scripts.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -167,25 +139,11 @@
 		"oAP": "/_includes/subscribe.html",
 		"oF": 0
 		},
-	"/_layouts/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/about.html",
-		"oF": 0
-		},
 	"/_layouts/compress.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/compress.html",
-		"oF": 0
-		},
-	"/_layouts/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/contact.html",
 		"oF": 0
 		},
 	"/_layouts/default.html": {
@@ -223,18 +181,11 @@
 		"oAP": "/_layouts/projects.html",
 		"oF": 0
 		},
-	"/_layouts/tags.html": {
+	"/_projects/castrol-edge.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_layouts/tags.html",
-		"oF": 0
-		},
-	"/_layouts/test.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/test.html",
+		"oAP": "/_projects/castrol-edge.markdown",
 		"oF": 0
 		},
 	"/_projects/ee.markdown": {
@@ -251,13 +202,6 @@
 		"oAP": "/_projects/footkhana.markdown",
 		"oF": 0
 		},
-	"/_projects/gymshark-and-monster-energy.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/gymshark-and-monster-energy.markdown",
-		"oF": 0
-		},
 	"/_projects/huel.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -265,11 +209,11 @@
 		"oAP": "/_projects/huel.markdown",
 		"oF": 0
 		},
-	"/_projects/merchants-heart.markdown": {
+	"/_projects/lucozade-ribena-suntory.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_projects/merchants-heart.markdown",
+		"oAP": "/_projects/lucozade-ribena-suntory.markdown",
 		"oF": 0
 		},
 	"/_projects/qualcomm.markdown": {
@@ -286,74 +230,29 @@
 		"oAP": "/_projects/slimfast.markdown",
 		"oF": 0
 		},
+	"/_projects/universal-studios.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/universal-studios.markdown",
+		"oF": 0
+		},
 	"/_site": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "/build/_site",
 		"oF": 0
 		},
-	"/_team/aimen-chouchane.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/aimen-chouchane.markdown",
-		"oF": 0
-		},
-	"/_team/amy-guy.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/amy-guy.markdown",
-		"oF": 0
-		},
-	"/_team/jack-lord.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/jack-lord.markdown",
-		"oF": 0
-		},
-	"/_team/jiten-bhagat.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/jiten-bhagat.markdown",
-		"oF": 0
-		},
-	"/_team/kadie-armstrong.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/kadie-armstrong.markdown",
-		"oF": 0
-		},
-	"/_team/laurence-bascle.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/laurence-bascle.markdown",
-		"oF": 0
-		},
-	"/_team/louise-russell-prywata.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/louise-russell-prywata.markdown",
-		"oF": 0
-		},
-	"/_team/mollie-hanley.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/mollie-hanley.markdown",
-		"oF": 0
-		},
-	"/_team/zosia-sztykowski.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/zosia-sztykowski.markdown",
-		"oF": 0
+	"/_uploads/about-rev.jpg": {
+		"ft": 16384,
+		"iS": 1101862,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/about-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_uploads/about.jpg": {
 		"ft": 16384,
@@ -361,6 +260,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/book-01.jpg": {
+		"ft": 16384,
+		"iS": 745767,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/book-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/book-02.jpg": {
+		"ft": 16384,
+		"iS": 16072905,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/book-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/book-03.jpg": {
+		"ft": 16384,
+		"iS": 16035408,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/book-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -377,6 +309,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/ee-02.jpg": {
+		"ft": 16384,
+		"iS": 744469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ee-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/ee-03.jpg": {
+		"ft": 16384,
+		"iS": 1072977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ee-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/footkhana-01.jpg": {
 		"ft": 16384,
 		"iS": 941917,
@@ -388,12 +342,100 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/gymshark-01.jpg": {
+	"/_uploads/footkhana-02.jpg": {
 		"ft": 16384,
-		"iS": 480316,
+		"iS": 602463,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/gymshark-01.jpg",
+		"oAP": "/_uploads/footkhana-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-03.jpg": {
+		"ft": 16384,
+		"iS": 236777,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-04.jpg": {
+		"ft": 16384,
+		"iS": 372496,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-05.jpg": {
+		"ft": 16384,
+		"iS": 448681,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-06.jpg": {
+		"ft": 16384,
+		"iS": 498972,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-07.jpg": {
+		"ft": 16384,
+		"iS": 749200,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-08.jpg": {
+		"ft": 16384,
+		"iS": 632447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-09.jpg": {
+		"ft": 16384,
+		"iS": 271686,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/footkhana-10.jpg": {
+		"ft": 16384,
+		"iS": 563638,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/footkhana-10.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -410,12 +452,133 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/merchants-heart-01-rev.jpg": {
+		"ft": 16384,
+		"iS": 375954,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-01-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/merchants-heart-01.jpg": {
 		"ft": 16384,
 		"iS": 435745,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/merchants-heart-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-02.jpg": {
+		"ft": 16384,
+		"iS": 388411,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-03.jpg": {
+		"ft": 16384,
+		"iS": 429459,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-04.jpg": {
+		"ft": 16384,
+		"iS": 362005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-05.jpg": {
+		"ft": 16384,
+		"iS": 372424,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-06.jpg": {
+		"ft": 16384,
+		"iS": 511004,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-07.jpg": {
+		"ft": 16384,
+		"iS": 587301,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/merchants-heart-08.jpg": {
+		"ft": 16384,
+		"iS": 164634,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/merchants-heart-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/need-for-speed-01.jpg": {
+		"ft": 16384,
+		"iS": 701209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/need-for-speed-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/need-for-speed-02.jpg": {
+		"ft": 16384,
+		"iS": 706414,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/need-for-speed-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/need-for-speed-03.jpg": {
+		"ft": 16384,
+		"iS": 299593,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/need-for-speed-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -443,12 +606,67 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/_uploads/qualcomm-01.jpg": {
+	"/_uploads/qualcomm-01-rev.jpg": {
 		"ft": 16384,
-		"iS": 252086,
+		"iS": 1564154,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/qualcomm-01.jpg",
+		"oAP": "/_uploads/qualcomm-01-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/qualcomm-02.jpg": {
+		"ft": 16384,
+		"iS": 2040544,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/qualcomm-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/qualcomm-03.jpg": {
+		"ft": 16384,
+		"iS": 2105463,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/qualcomm-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/qualcomm-04.jpg": {
+		"ft": 16384,
+		"iS": 1224718,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/qualcomm-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/qualcomm-05.jpg": {
+		"ft": 16384,
+		"iS": 1174121,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/qualcomm-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/qualcomm-06.jpg": {
+		"ft": 16384,
+		"iS": 1169902,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/qualcomm-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -465,67 +683,100 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/workshops-01.jpg": {
+	"/_uploads/universal-studios-feature.jpg": {
+		"ft": 16384,
+		"iS": 905425,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/universal-studios-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-01-rev.jpg": {
+		"ft": 16384,
+		"iS": 1066968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-01-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-02-rev.jpg": {
+		"ft": 16384,
+		"iS": 1004614,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-02-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-03-rev.jpg": {
+		"ft": 16384,
+		"iS": 952561,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-03-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-04-rev.jpg": {
+		"ft": 16384,
+		"iS": 1131685,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-04-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-05-rev.jpg": {
+		"ft": 16384,
+		"iS": 1335732,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-05-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-06-rev.jpg": {
+		"ft": 16384,
+		"iS": 1295403,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-06-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-07-rev.jpg": {
+		"ft": 16384,
+		"iS": 1302061,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/workshops-07-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/workshops-feature.jpg": {
 		"ft": 16384,
 		"iS": 627742,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/workshops-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/workshops-02.jpg": {
-		"ft": 16384,
-		"iS": 964704,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/workshops-02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/workshops-03.jpg": {
-		"ft": 16384,
-		"iS": 1008515,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/workshops-03.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/workshops-04.jpg": {
-		"ft": 16384,
-		"iS": 1544247,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/workshops-04.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/workshops-05.jpg": {
-		"ft": 16384,
-		"iS": 1436977,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/workshops-05.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/workshops-06.jpg": {
-		"ft": 16384,
-		"iS": 925939,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/workshops-06.jpg",
+		"oAP": "/_uploads/workshops-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1473,7 +1724,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/book.html",
+		"oAP": "/book.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -9732,24 +9983,6 @@
 		"oAP": "/bower_components/what-input/yarn.lock",
 		"oF": 0
 		},
-	"/contact.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "/contact.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
@@ -9875,13 +10108,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/test.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/test.markdown",
-		"oF": 0
 		},
 	"/workshops.md": {
 		"cB": 0,

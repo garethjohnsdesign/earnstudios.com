@@ -2,40 +2,22 @@
 title: EE
 position: 2
 client: EE
-excerpt: Inventor of the world’s first mobile network with YouTubers
-description: We created the EE Limited Edition SIMs project, which enabled influential
-  YouTube ambassadors to create their own limited edition SIM experience for their
-  fans.
+excerpt: The world’s first mobile network with YouTubers
 video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
 is-carousel: false
 has-carousel-text: true
 is-selected: false
 images:
-- image: "/uploads/placeholder.jpg"
-  caption: Test
-- image: "/uploads/placeholder.jpg"
-  caption: 
-- image: "/uploads/placeholder.jpg"
-  caption: 
-- image: "/uploads/placeholder.jpg"
-  caption: 
-- image: "/uploads/placeholder.jpg"
-  caption: 
-- image: "/uploads/placeholder.jpg"
-  caption: 
-- image: "/uploads/placeholder.jpg"
-  caption: 
+- image: "/uploads/ee-02.jpg"
+  caption:
+- image: "/uploads/ee-03.jpg"
+  caption:
 quote: Smart, collaborative, focused
 cite: Spencer McHugh, Marketing Director, EE
 layout: page
 ---
 
-### Brief
-Drive sales of EE SIM cards amongst young, data hungry people.
+The brief from EE was to drive the sales of EE SIM cards amongst data hungry people. Our solution was to create the EE Limited Editions project, which enabled influential YouTube ambassadors to create their own mobile network for their fans, with bespoke content and unique interaction.
 
-### Solution
-We created the EE Limited Edition project, which enabled influential YouTube ambassadors to create their own mobile network for their fans.
-
-### Results
-Over 50,000 new customers in just 3 months and £millions in revenue for EE.
+The project garnered over 50,000 new customers in just 3 months and £millions in revenue for EE.
