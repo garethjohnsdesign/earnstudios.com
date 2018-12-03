@@ -7,7 +7,7 @@ description: We were commissioned to cover the growing by the Guardian sed posue
   consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
   condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
   vel augue laoreet rutrum faucibus dolor auctor.
-vimeo: https://vimeo.com/225428254
+vimeo:
 image: "/uploads/universal-studios-feature.jpg"
 has-logo: true
 is-carousel: true
