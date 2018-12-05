@@ -11,7 +11,7 @@ vimeo:
 image: "/uploads/universal-studios-feature.jpg"
 has-logo: true
 is-carousel: true
-has-carousel-text: true
+has-carousel-text: 
 is-selected: true
 images:
 - image: "/uploads/universal-studios-01.jpg"
