@@ -10,8 +10,8 @@ description: We were commissioned to cover the growing by the Guardian sed posue
 vimeo: 
 image: "/uploads/universal-studios-feature.jpg"
 has-logo: true
-is-carousel: true
-has-carousel-text: 
+is-carousel: false
+has-carousel-text: false
 is-selected: true
 images:
 - image: "/uploads/universal-studios-01.jpg"
