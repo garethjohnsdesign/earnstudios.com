@@ -7,7 +7,7 @@ video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
 is-carousel: true
 has-carousel-text: false
-is-selected: false
+is-selected: true
 images:
 - image: "/uploads/ee-02.jpg"
   caption: 
