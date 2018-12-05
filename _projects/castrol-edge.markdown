@@ -9,7 +9,7 @@ image: "/uploads/need-for-speed-03.jpg"
 has-logo: true
 is-carousel: false
 has-carousel-text: false
-is-selected: false
+is-selected: true
 images:
 - image: "/uploads/need-for-speed-01.jpg"
   caption: 
