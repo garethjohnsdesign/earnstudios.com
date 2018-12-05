@@ -13,7 +13,7 @@ images:
 - image: "/uploads/book-03.jpg"
   caption: 
 is-carousel: true
-has-carousel-text: true
+has-carousel-text: 
 has-book: true
 layout: page
 ---
