@@ -5,7 +5,7 @@ image: "/assets/img/og-image.png"
 header: We invent and build brands people love
 sub-header: "The secret to brand love is customer participation. \nIt’s not just about
   selling products to people, but creating the desire to be part of something extraordinary"
-sign-off:
+sign-off: 
 selected-text: Some of our recent work
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
