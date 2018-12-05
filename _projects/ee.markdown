@@ -5,8 +5,8 @@ client: EE
 excerpt: The world’s first mobile network with YouTubers
 video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
-is-carousel: false
-has-carousel-text: true
+is-carousel: true
+has-carousel-text: 
 is-selected: false
 images:
 - image: "/uploads/ee-02.jpg"
