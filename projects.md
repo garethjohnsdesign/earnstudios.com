@@ -1,7 +1,9 @@
 ---
 title: Projects
 position: 2
-header: Dream big, experiment small
+header: |-
+  Dream big
+  Experiment small
 has-call-to-action: true
 call-to-action: Get in touch
 call-to-action-email: hello@earnstudios.com
