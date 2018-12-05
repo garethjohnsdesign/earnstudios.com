@@ -5,7 +5,7 @@ client: Lucozade Ribena Suntory
 excerpt: Co-created a premium mixer brand with its own magazine for sale
 description: Taking a range of premium mixers to market in six months
 image: "/uploads/merchants-heart-01-rev.jpg"
-has-carousel-text: 
+has-carousel-text: false
 is-carousel: true
 is-selected: true
 images:
