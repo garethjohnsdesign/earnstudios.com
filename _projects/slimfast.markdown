@@ -7,10 +7,7 @@ description: SlimFast Challenge 2.0 achieved the highest sales results
 video: https://vimeo.com/264258464
 image: "/uploads/slimfast-01.jpg"
 is-carousel: false
-is-selected: false
-images:
-- image: 
-  caption: 
+is-selected: false 
 layout: page
 ---
 

@@ -323,7 +323,8 @@ url('/assets/img/arrow-right@3x.png') 3x
   margin-top: 2rem;
   }
   img {
-padding: 2rem;
+padding-top: 2rem;
+padding-bottom: 2rem;
 }
 }
 
@@ -344,7 +345,7 @@ padding: 2rem;
 
 .orbit-container, orbit {
   @include breakpoint(small) {
-    height: 60vh;
+    height: 35vh;
   }
   @include breakpoint(medium) {
     height: 60vh;

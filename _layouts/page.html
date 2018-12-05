@@ -53,7 +53,7 @@ layout: default
 <!-- End Page Description -->
 
 <!-- Page Carousel -->
-{% if page.images < 1 %}
+{% if page.images %}
 <div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell">
 
@@ -76,7 +76,7 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell page__content padding-bottom-2">
-      {{page.content | markdownify}}
+      {{ page.content | replace: "/uploads", "https://earn-studios.imgix.net/uploads" | markdownify }}
     </div>
   </div>
 </section>

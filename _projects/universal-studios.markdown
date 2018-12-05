@@ -3,29 +3,13 @@ title: Fast & Furious 8
 position: 5
 client: Universal Studios
 excerpt: Breaking the global box office record with digital art made for the fans
-description: We were commissioned to cover the growing by the Guardian sed posuere
-  consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-  condimentum nibh, ut fermentum massa justo sit amet risus. Vivamus sagittis lacus
-  vel augue laoreet rutrum faucibus dolor auctor.
+description:
 vimeo: 
 image: "/uploads/universal-studios-feature.jpg"
 has-logo: true
 is-carousel: false
 has-carousel-text: false
 is-selected: true
-images:
-- image: "/uploads/universal-studios-01.jpg"
-  caption: 
-- image: "/uploads/universal-studios-02.jpg"
-  caption: 
-- image: "/uploads/universal-studios-03.jpg"
-  caption: 
-- image: "/uploads/universal-studios-04.jpg"
-  caption: 
-- image: "/uploads/universal-studios-05.jpg"
-  caption: 
-- image: "/uploads/universal-studios-06.jpg"
-  caption: 
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
 cite: Paul Goodmaker, Sponsorship Director, Castrol

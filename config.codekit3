@@ -243,6 +243,28 @@
 		"oAP": "/build/_site",
 		"oF": 0
 		},
+	"/_uploads/About-Huel.jpg": {
+		"ft": 16384,
+		"iS": 1185479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/About-Huel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/About-Kanpai.jpg": {
+		"ft": 16384,
+		"iS": 297235,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/About-Kanpai.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/about-rev.jpg": {
 		"ft": 16384,
 		"iS": 1101862,
@@ -260,6 +282,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/About_Image.jpg": {
+		"ft": 16384,
+		"iS": 954785,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/About_Image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/About_Main.jpg": {
+		"ft": 16384,
+		"iS": 1771545,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/About_Main.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -350,7 +394,7 @@
 		"oAP": "/_uploads/footkhana-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-03.jpg": {
@@ -361,7 +405,7 @@
 		"oAP": "/_uploads/footkhana-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-04.jpg": {
@@ -372,7 +416,7 @@
 		"oAP": "/_uploads/footkhana-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-05.jpg": {
@@ -383,7 +427,7 @@
 		"oAP": "/_uploads/footkhana-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-06.jpg": {
@@ -394,7 +438,7 @@
 		"oAP": "/_uploads/footkhana-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-07.jpg": {
@@ -405,7 +449,7 @@
 		"oAP": "/_uploads/footkhana-07.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-08.jpg": {
@@ -416,7 +460,7 @@
 		"oAP": "/_uploads/footkhana-08.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-09.jpg": {
@@ -427,7 +471,7 @@
 		"oAP": "/_uploads/footkhana-09.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/footkhana-10.jpg": {
@@ -460,7 +504,7 @@
 		"oAP": "/_uploads/merchants-heart-01-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-01.jpg": {
@@ -482,7 +526,7 @@
 		"oAP": "/_uploads/merchants-heart-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-03.jpg": {
@@ -493,7 +537,7 @@
 		"oAP": "/_uploads/merchants-heart-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-04.jpg": {
@@ -504,7 +548,7 @@
 		"oAP": "/_uploads/merchants-heart-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-05.jpg": {
@@ -515,7 +559,7 @@
 		"oAP": "/_uploads/merchants-heart-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-06.jpg": {
@@ -526,7 +570,7 @@
 		"oAP": "/_uploads/merchants-heart-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-07.jpg": {
@@ -537,7 +581,7 @@
 		"oAP": "/_uploads/merchants-heart-07.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/merchants-heart-08.jpg": {
@@ -548,7 +592,7 @@
 		"oAP": "/_uploads/merchants-heart-08.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/need-for-speed-01.jpg": {
@@ -608,7 +652,7 @@
 		},
 	"/_uploads/qualcomm-01-rev.jpg": {
 		"ft": 16384,
-		"iS": 1564154,
+		"iS": 1526195,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/qualcomm-01-rev.jpg",
@@ -619,7 +663,7 @@
 		},
 	"/_uploads/qualcomm-02.jpg": {
 		"ft": 16384,
-		"iS": 2040544,
+		"iS": 1989211,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/qualcomm-02.jpg",
@@ -630,7 +674,7 @@
 		},
 	"/_uploads/qualcomm-03.jpg": {
 		"ft": 16384,
-		"iS": 2105463,
+		"iS": 2033996,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/qualcomm-03.jpg",
@@ -641,7 +685,7 @@
 		},
 	"/_uploads/qualcomm-04.jpg": {
 		"ft": 16384,
-		"iS": 1224718,
+		"iS": 1175992,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/qualcomm-04.jpg",
@@ -652,7 +696,7 @@
 		},
 	"/_uploads/qualcomm-05.jpg": {
 		"ft": 16384,
-		"iS": 1174121,
+		"iS": 1121316,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/qualcomm-05.jpg",
@@ -1724,7 +1768,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/book.md",
+		"oAP": "/book.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
