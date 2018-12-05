@@ -5,7 +5,7 @@ excerpt: Together, anything is possible
 description: We work with marketing and innovation teams to invent products and build
   entrepreneurial marketing plans together
 is-carousel: false
-has-carousel-text: 
+has-carousel-text: false
 image: "/uploads/workshops-feature.jpg"
 images:
 - image: "/uploads/workshops-01-rev.jpg"
@@ -34,6 +34,8 @@ layout: page
 
 Led by Jamal Benmiloud, former VP of Marketing at Red Bull and Monster and author of Brand Love: How to build a brand worth talking about, we use live briefs and business challenges that come directly from you, to build ideas and plans that create value and drive long term growth whilst also building brand love.
 
+![workshops-03-rev.jpg](/uploads/workshops-03-rev.jpg)
+
 ### One-Day Workshops
 
 Our one-day workshops include talks, Q&As and interactive groups sessions tailored to specific requirements.
@@ -49,5 +51,7 @@ Our one-day workshops include talks, Q&As and interactive groups sessions tailor
 * Generating value based ideas that drive revenue and achieve company goals
 
 * Developing entrepreneurial and astute business plans designed for long term growth
+
+![workshops-06-rev.jpg](/uploads/workshops-06-rev.jpg)
 
 EARN are committed to helping our clients’ marketing to become a long-term business asset that grows in value. We partner with businesses that can make change happen and it is our priority to create value and nurture the entrepreneurial spirit to drive long-term growth.
