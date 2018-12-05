@@ -3,8 +3,8 @@ title: Home
 position: 0
 image: "/assets/img/og-image.png"
 header: We invent and build brands people love
-sub-header: The secret to brand love is customer participation. It’s not just about
-  selling products to people, but creating the desire to be part of something extraordinary
+sub-header: "The secret to brand love is customer participation. \nIt’s not just about
+  selling products to people, but creating the desire to be part of something extraordinary"
 sign-off: 
 selected-text: Some of our recent work
 has-call-to-action: true
