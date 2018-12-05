@@ -4,7 +4,7 @@ position: 4
 excerpt: Together, anything is possible
 description: We work with marketing and innovation teams to invent products and build
   entrepreneurial marketing plans together
-is-carousel: true
+is-carousel: false
 has-carousel-text: 
 image: "/uploads/workshops-feature.jpg"
 images:
