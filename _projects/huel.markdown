@@ -7,7 +7,7 @@ description: Nutritionally complete food, simply delivered.
 image: "/uploads/huel-01.jpg"
 is-carousel: true
 is-selected: true
-has-carousel-text: true
+has-carousel-text: 
 layout: page
 ---
 
