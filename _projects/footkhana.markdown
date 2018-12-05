@@ -11,7 +11,7 @@ vimeo: https://vimeo.com/225428254
 image: "/uploads/footkhana-01.jpg"
 has-logo: true
 is-carousel: true
-has-carousel-text: true
+has-carousel-text: 
 is-selected: true
 images:
 - image: "/uploads/footkhana-02.jpg"
