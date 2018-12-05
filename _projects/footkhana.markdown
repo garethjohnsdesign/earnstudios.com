@@ -10,7 +10,7 @@ description: We were commissioned to cover the growing by the Guardian sed posue
 vimeo: https://vimeo.com/225428254
 image: "/uploads/footkhana-01.jpg"
 has-logo: true
-is-carousel: true
+is-carousel: false
 has-carousel-text: 
 is-selected: true
 images:
