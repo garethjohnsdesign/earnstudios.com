@@ -1,6 +1,6 @@
 ---
 title: Slimfast
-position: 5
+position: 7
 client: Slimfast
 excerpt: Reinventing the SlimFast Challenge for the digital age to drive record sales
 description: SlimFast Challenge 2.0 achieved the highest sales results

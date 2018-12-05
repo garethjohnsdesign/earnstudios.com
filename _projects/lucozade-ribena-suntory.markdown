@@ -1,6 +1,6 @@
 ---
 title: Merchant's Heart
-position: 3
+position: 6
 client: Lucozade Ribena Suntory
 excerpt: Co-created a premium mixer brand with its own magazine for sale
 description: Taking a range of premium mixers to market in six months
