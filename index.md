@@ -2,11 +2,10 @@
 title: Home
 position: 0
 image: "/assets/img/og-image.png"
-header: We’re an innovation studio that builds brands people love
-sub-header: The secret to brand love is customer participation. It’s not about selling
-  products, but the desire to be part of something. We earn brand love by inventing
-  products; experiences and content people want to share on our client’s behalf.
-sign-off: Together, anything is possible.
+header: We invent and build brands people love
+sub-header: The secret to brand love is customer participation. It’s not just about
+  selling products to people, but creating the desire to be part of something extraordinary
+sign-off: 
 selected-text: Some of our recent work
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
