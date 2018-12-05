@@ -6,7 +6,7 @@ excerpt: The world’s first mobile network with YouTubers
 video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
 is-carousel: true
-has-carousel-text: 
+has-carousel-text: false
 is-selected: false
 images:
 - image: "/uploads/ee-02.jpg"
