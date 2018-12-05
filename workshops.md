@@ -1,9 +1,9 @@
 ---
 title: Workshops
 position: 4
-excerpt: Innovative business planning workshops
-description: We train internal marketing and innovation teams to build disruptive
-  and entrepreneurial business plans
+excerpt: Together, anything is possible
+description: We work with marketing and innovation teams to invent products and build
+  entrepreneurial marketing plans together
 is-carousel: true
 has-carousel-text: true
 image: "/uploads/workshops-feature.jpg"
