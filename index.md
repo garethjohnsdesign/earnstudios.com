@@ -10,7 +10,7 @@ selected-text: Some of our recent work
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
 call-to-action-email: hello@earnstudios.com
-has-clients: true
+has-clients: false
 pagination:
   enabled: true
   collection: projects
