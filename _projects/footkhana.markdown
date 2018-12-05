@@ -12,7 +12,7 @@ image: "/uploads/footkhana-01.jpg"
 has-logo: true
 is-carousel: false
 has-carousel-text: false
-is-selected: true
+is-selected: false
 images:
 - image: "/uploads/footkhana-02.jpg"
   caption: 
