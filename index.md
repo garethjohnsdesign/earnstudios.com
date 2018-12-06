@@ -3,8 +3,8 @@ title: Home
 position: 0
 image: "/assets/img/og-image.png"
 header: We invent products and grow brands people want to share
-sub-header: "The secret is customer participation. \nIt’s not just about selling products
-  to people, but creating the desire to be part of something extraordinary"
+sub-header: "The secret is customer participation. \nIt’s not about selling products
+  to people, but creating the desire to be part of something extraordinary."
 sign-off: Together, anything is possible
 selected-text: Some of our recent work
 has-call-to-action: true
