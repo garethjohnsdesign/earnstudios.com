@@ -4,7 +4,7 @@ position: 3
 excerpt: Why be liked when you can be loved?
 description: If customers like you, be afraid, be very afraid. Today, people only
   recommend brands they love.
-image: "/uploads/book-rev2.jpg"
+image: "/uploads/book-rev3.jpg"
 has-carousel: true
 images:
 - image: "/uploads/book-01.jpg"
