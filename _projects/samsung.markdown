@@ -1,6 +1,7 @@
 ---
 title: Samsung
 date: 2018-12-06 16:19:00 Z
+published: false
 position: 10
 client: Samsung
 excerpt: Making Samsung's marketing as innovative as their products
@@ -18,8 +19,6 @@ images:
   caption: 
 - image: "/uploads/samsung-brand-book-2.jpg"
   caption: 
-quote: 
-cite: 
 video: 
 layout: page
 ---
