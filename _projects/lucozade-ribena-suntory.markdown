@@ -24,8 +24,6 @@ images:
   caption: 
 - image: "/uploads/merchants-heart-07.jpg"
   caption: 
-- image: "/uploads/merchants-heart-08.jpg"
-  caption: 
 quote: EARN have helped transform our culture to live and breathe innovative thinking.
   We have happy people who are delivering great results.
 cite: Peter Harding, CEO, Lucozade Ribena Suntory
