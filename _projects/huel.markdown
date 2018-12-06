@@ -16,4 +16,4 @@ Huel is a nutritionally complete powdered food ​that contains all the proteins
 
 Our founder, Jamal Benmiloud, sits on the board of the company and provides strategic consultancy to help them in their mission to become the global number one ‘complete food’ business.
 
-Huel has grown phenomenally quickly in its first two years due to ground-breaking products, customer service and a focus on social media marketing
+Huel has grown phenomenally quickly in its first two years due to ground-breaking products, customer service and a focus on social media marketing.
