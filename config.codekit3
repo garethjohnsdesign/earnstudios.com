@@ -320,6 +320,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/book-rev.jpg": {
+		"ft": 16384,
+		"iS": 761923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/book-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/book.jpg": {
 		"ft": 16384,
 		"iS": 761998,
@@ -1758,6 +1769,13 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/book.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/book.html",
+		"oF": 0
 		},
 	"/book.md": {
 		"cB": 0,
