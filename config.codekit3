@@ -287,28 +287,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/About_Image.jpg": {
-		"ft": 16384,
-		"iS": 954785,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/About_Image.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/About_Main.jpg": {
-		"ft": 16384,
-		"iS": 1771545,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/About_Main.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/book-01.jpg": {
 		"ft": 16384,
 		"iS": 745767,
@@ -337,6 +315,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/book-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/book.jpg": {
+		"ft": 16384,
+		"iS": 761998,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/book.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
