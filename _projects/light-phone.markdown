@@ -1,6 +1,7 @@
 ---
 title: Light Phone
 date: 2018-12-06 16:52:00 Z
+position: 8
 client: Light Phone
 excerpt: A second phone designed to be used as little as possible
 image: "/uploads/light-phone.jpg"

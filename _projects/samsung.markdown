@@ -1,7 +1,7 @@
 ---
 title: Samsung
 date: 2018-12-06 16:19:00 Z
-position: 9
+position: 10
 client: Samsung
 excerpt: Making Samsung's marketing as innovative as their products
 description: We helped Samsung to activate their brand in a more engaging way that
