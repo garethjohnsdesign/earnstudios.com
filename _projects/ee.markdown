@@ -8,6 +8,7 @@ image: "/uploads/ee-01.jpg"
 is-carousel: true
 has-carousel-text: false
 is-selected: true
+has-carousel: true
 images:
 - image: "/uploads/ee-02.jpg"
   caption: 

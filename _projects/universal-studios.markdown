@@ -10,6 +10,7 @@ has-logo: true
 is-carousel: false
 has-carousel-text: false
 is-selected: true
+has-carousel: false
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
 cite: Paul Goodmaker, Sponsorship Director, Castrol

@@ -8,6 +8,7 @@ video: https://vimeo.com/264258464
 image: "/uploads/slimfast-01.jpg"
 is-carousel: false
 is-selected: false
+has-carousel: false
 layout: page
 ---
 

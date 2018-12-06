@@ -8,6 +8,7 @@ image: "/uploads/huel-01.jpg"
 is-carousel: true
 is-selected: true
 has-carousel-text: false
+has-carousel: false
 layout: page
 ---
 

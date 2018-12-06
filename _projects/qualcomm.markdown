@@ -8,6 +8,7 @@ vimeo: https://vimeo.com/221755151
 image: "/uploads/qualcomm-01-rev.jpg"
 is-carousel: false
 is-selected: true
+has-carousel: true
 images:
 - image: "/uploads/qualcomm-02.jpg"
   caption: 

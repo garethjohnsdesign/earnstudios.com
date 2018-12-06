@@ -10,6 +10,7 @@ has-logo: true
 is-carousel: false
 has-carousel-text: false
 is-selected: true
+has-carousel: true
 images:
 - image: "/uploads/need-for-speed-01.jpg"
   caption: 

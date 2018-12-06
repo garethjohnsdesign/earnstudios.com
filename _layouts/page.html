@@ -53,7 +53,7 @@ layout: default
 <!-- End Page Description -->
 
 <!-- Page Carousel -->
-{% if page.images %}
+{% if page.has-carousel %}
 <div class="grid-x grid-padding-y align-center">
   <div class="small-12 cell">
 
@@ -61,7 +61,7 @@ layout: default
       <div class="carousel">
         {% for carouselimage in page.images %}
         {% assign image = carouselimage.image %}
-          <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+          <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
         {% endfor %}
       </div>
     </div>

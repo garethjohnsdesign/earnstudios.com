@@ -8,9 +8,10 @@ image: "/uploads/merchants-heart-01-rev.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
+has-carousel: true
 images:
 - image: "/uploads/merchants-heart-01-rev.jpg"
-  caption: Test
+  caption:
 - image: "/uploads/merchants-heart-02.jpg"
   caption: 
 - image: "/uploads/merchants-heart-03.jpg"
