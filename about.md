@@ -2,7 +2,7 @@
 title: About
 position: 1
 header: 
-excerpt: Marketing can earn history
+excerpt: If you want things to be better, invent better thing
 description: 
 image: "/uploads/about-rev.jpg"
 has-call-to-action: true
@@ -12,7 +12,7 @@ has-clients: true
 layout: page
 ---
 
-EARN Studios is an entrepreneurial marketing consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love ](http://www.earnstudios.com/book), current Non-Exec at Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
+EARN Studios is an entrepreneurial marketing consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love ](http://www.earnstudios.com/book), Non-Exec at Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
 
 "You can buy the opportunity to be in front of someone, but you can’t buy attention, loyalty and devotion of hearts, minds and souls. You have to earn these things.”
 
@@ -26,11 +26,11 @@ We love the challenge of the seemingly impossible and the potential to have an i
 
 ## What we do
 
-Develop an entrepreneurial marketing plan to build brand love![About-Huel.jpg](/uploads/About-Huel.jpg)
+### Develop an entrepreneurial marketing plan to get the world talking about your brand![About-Huel.jpg](/uploads/About-Huel.jpg)
 
-Invent products that people want to share on our behalf![ee-01.jpg](/uploads/ee-01.jpg)
+### Invent products that people want to share on our behalf![ee-01.jpg](/uploads/ee-01.jpg)
 
-Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
+### Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
 
 ## **How we work**
 
