@@ -21,20 +21,20 @@ defaults:
     path: ''
     type: projects
   values:
-    client:
-    excerpt:
-    description:
-    image:
-    vimeo:
-    has-carousel-text:
-    is-carousel:
-    is-selected:
-    has-carousel:
+    client: 
+    excerpt: 
+    description: 
+    image: 
+    vimeo: 
+    has-carousel-text: 
+    is-carousel: 
+    is-selected: 
+    has-carousel: 
     images:
-    - image:
-      caption:
-    quote:
-    cite:
+    - image: 
+      caption: 
+    quote: 
+    cite: 
     layout: page
 quote: EARN have helped transform our culture to live and breathe innovative thinking.
   We have happy people who are delivering great results.
