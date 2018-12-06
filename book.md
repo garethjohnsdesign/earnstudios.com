@@ -19,7 +19,7 @@ has-book: true
 layout: page
 ---
 
-Co-authored by our founder [Jamal Benmiloud](https://www.jamalbenmiloud.com/), [Brand Love](https://www.amazon.co.uk/Brand-Love-Build-Worth-Talking/dp/1515201198/ref=sr_1_1?ie=UTF8&qid=1544006893&sr=8-1&keywords=brand\+love\+book)  takes you on a journey around the world in search of businesses well-adapted to the digital age; that build multi-billion dollar market caps without significant sums spent on advertising; and defy the expectations of both investors and their category by breaking the rules.
+Co-authored by our founder [Jamal Benmiloud](https://www.jamalbenmiloud.com/),  [Brand Love](https://www.amazon.co.uk/Brand-Love-Build-Worth-Talking/dp/1515201198/ref=sr_1_1?ie=UTF8&qid=1544006893&sr=8-1&keywords=brand\+love\+book)  takes you on a journey around the world in search of businesses well-adapted to the digital age; that build multi-billion dollar market caps without significant sums spent on advertising; and defy the expectations of both investors and their category by breaking the rules.
 
 Monster Energy has become the most successful energy drinks business in the US with a market cap of $35billion, without a single dollar spent on advertising.
 
