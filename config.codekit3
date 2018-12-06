@@ -1770,13 +1770,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/book.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/book.html",
-		"oF": 0
-		},
 	"/book.md": {
 		"cB": 0,
 		"cS": 0,
@@ -1786,8 +1779,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/book.html",
-		"oF": 0,
+		"oAP": "/book.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
