@@ -2,7 +2,7 @@
 title: About
 position: 1
 header: 
-excerpt: If you want things to be better, invent better thing
+excerpt: If you want things to be better, invent better things
 description: 
 image: "/uploads/about-rev.jpg"
 has-call-to-action: true
