@@ -4,7 +4,7 @@ position: 0
 client: Huel
 excerpt: The fastest growing food brand in the world
 description: Nutritionally complete food, simply delivered.
-image: "/uploads/huel-ready-to-drink-flavours.png"
+image: "/uploads/huel-02.jpg"
 is-carousel: true
 is-selected: true
 has-carousel-text: false
