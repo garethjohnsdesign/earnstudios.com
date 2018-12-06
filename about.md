@@ -12,7 +12,7 @@ has-clients: true
 layout: page
 ---
 
-EARN Studios is an entrepreneurial marketing consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love ](http://www.earnstudios.com/book), Non-Exec at Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
+EARN Studios is an entrepreneurial marketing consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love](http://www.earnstudios.com/book), Non-Exec of Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
 
 "You can buy the opportunity to be in front of someone, but you can’t buy attention, loyalty and devotion of hearts, minds and souls. You have to earn these things.”
 
