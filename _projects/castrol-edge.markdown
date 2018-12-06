@@ -18,6 +18,8 @@ images:
   caption: 
 - image: "/uploads/need-for-speed-03.jpg"
   caption: 
+- image: "/uploads/castrol-edge-car-rig.jpg"
+  caption: 
 layout: page
 ---
 
