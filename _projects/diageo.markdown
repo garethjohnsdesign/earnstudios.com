@@ -6,13 +6,13 @@ Client: Diageo
 excerpt: Inventing spirit brands of the future
 description: Working together as an innovation partner with Diageo Europe to deliver
   business ideas for the next three years and beyond
-image: 
-has-carousel-text: 
-is-carousel: 
-is-selected: 
-has-carousel: 
+image: "/uploads/diageo-main.jpg"
+has-carousel-text: false
+is-carousel: false
+is-selected: false
+has-carousel: false
 images:
-- 
+- "/uploads/diageo-image.jpg"
 quote: 
 cite: 
 ---
