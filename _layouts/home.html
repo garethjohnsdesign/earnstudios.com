@@ -11,10 +11,10 @@ layout: default
       <button class="orbit-next"><span class="show-for-sr">Next Slide</span><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></button>
     </div>
     
-    <ul class="orbit-container">
-    {% assign pages = site.pages | where: "is-carousel", "true" %}   
+    <ul class="orbit-container">  
     {% assign projects = site.projects | where: "is-carousel", "true" %}
-    {% assign everything = pages | concat: projects %}
+    {% assign pages = site.pages | where: "is-carousel", "true" %} 
+    {% assign everything = projects | concat: pages %}
 
       {% for project in everything %}
       {% assign image = project.image %}
