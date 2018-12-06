@@ -5,13 +5,15 @@ client: Samsung
 excerpt: Making Samsung's marketing as innovative as their products
 description: We helped Samsung to activate their brand in a more engaging way that
   is both meaningful and consistent across EMEA
-image: 
-has-carousel-text: 
-is-carousel: 
-is-selected: 
-has-carousel: 
+image: "/uploads/samsung.jpg"
+has-carousel-text: false
+is-carousel: false
+is-selected: false
+has-carousel: true
 images:
-- 
+- "/uploads/samsung-brand-book.jpg"
+- "/uploads/samsung-brand-book-3.jpg"
+- "/uploads/samsung-brand-book-2.jpg"
 quote: 
 cite: 
 video: 
