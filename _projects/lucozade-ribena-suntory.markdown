@@ -11,7 +11,7 @@ is-selected: true
 has-carousel: true
 images:
 - image: "/uploads/merchants-heart-01-rev.jpg"
-  caption:
+  caption: 
 - image: "/uploads/merchants-heart-02.jpg"
   caption: 
 - image: "/uploads/merchants-heart-03.jpg"
