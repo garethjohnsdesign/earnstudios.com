@@ -9412,13 +9412,6 @@
 		"oAP": "/bower_components/turbolinks5/Gemfile",
 		"oF": 0
 		},
-	"/bower_components/turbolinks5/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/Gemfile.lock",
-		"oF": 0
-		},
 	"/bower_components/turbolinks5/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
@@ -10372,7 +10365,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 499797547,
-	"displayValue": "EARN Studios Gamma",
+	"displayValue": "EARN Studios",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/assets/favicons/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
