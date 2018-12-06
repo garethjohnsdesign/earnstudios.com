@@ -10,7 +10,7 @@ pagination:
   collection: projects
   sort_field: position
   sort_reverse: false
-  per_page: 10
+  per_page: 12
 layout: projects
 ---
 

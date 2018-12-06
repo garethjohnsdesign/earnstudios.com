@@ -12,9 +12,12 @@ is-carousel: false
 is-selected: false
 has-carousel: true
 images:
-- "/uploads/samsung-brand-book.jpg"
-- "/uploads/samsung-brand-book-3.jpg"
-- "/uploads/samsung-brand-book-2.jpg"
+- image: "/uploads/samsung-brand-book.jpg"
+  caption: 
+- image: "/uploads/samsung-brand-book-3.jpg"
+  caption: 
+- image: "/uploads/samsung-brand-book-2.jpg"
+  caption: 
 quote: 
 cite: 
 video: 

@@ -7,7 +7,8 @@ excerpt: A second phone designed to be used as little as possible
 image: "/uploads/light-phone.jpg"
 has-carousel: true
 images:
-- "/uploads/light-phone-2.jpg"
+- image: "/uploads/light-phone-2.jpg"
+  caption: 
 layout: page
 ---
 

@@ -17,6 +17,28 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: projects
+  values:
+    client:
+    excerpt:
+    description:
+    image:
+    vimeo:
+    has-carousel-text:
+    is-carousel:
+    is-selected:
+    has-carousel:
+    images:
+    - image:
+      caption:
+    quote:
+    cite:
+    layout: page
+quote: EARN have helped transform our culture to live and breathe innovative thinking.
+  We have happy people who are delivering great results.
+cite: Peter Harding, CEO, Lucozade Ribena Suntory
 url: https://www.earnstudios.com
 description: An innovation studio that builds brands people love. The secret to brand
   love is customer participation. It’s not about selling products, but the desire

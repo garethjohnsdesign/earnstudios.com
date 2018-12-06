@@ -6,7 +6,6 @@ excerpt: The Castrol Xbox game downloaded by five million people
 description: Drive the Castrol EDGE race in the world’s biggest driving game
 vimeo: https://vimeo.com/264258464
 image: "/uploads/need-for-speed-03.jpg"
-has-logo: true
 is-carousel: false
 has-carousel-text: false
 is-selected: true

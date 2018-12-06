@@ -188,6 +188,13 @@
 		"oAP": "/_projects/castrol-edge.markdown",
 		"oF": 0
 		},
+	"/_projects/diageo.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/diageo.markdown",
+		"oF": 0
+		},
 	"/_projects/ee.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -209,6 +216,13 @@
 		"oAP": "/_projects/huel.markdown",
 		"oF": 0
 		},
+	"/_projects/light-phone.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/light-phone.markdown",
+		"oF": 0
+		},
 	"/_projects/lucozade-ribena-suntory.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -221,6 +235,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_projects/qualcomm.markdown",
+		"oF": 0
+		},
+	"/_projects/samsung.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_projects/samsung.markdown",
 		"oF": 0
 		},
 	"/_projects/slimfast.markdown": {
@@ -359,6 +380,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/book.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/castrol-edge-car-rig.jpg": {
+		"ft": 16384,
+		"iS": 646146,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/castrol-edge-car-rig.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/diageo-image.jpg": {
+		"ft": 16384,
+		"iS": 337267,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/diageo-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/diageo-main.jpg": {
+		"ft": 16384,
+		"iS": 386640,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/diageo-main.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -535,6 +589,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/kanpai-covers.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/light-phone-01.jpg": {
+		"ft": 16384,
+		"iS": 459681,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/light-phone-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/light-phone-2.jpg": {
+		"ft": 16384,
+		"iS": 153267,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/light-phone-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/light-phone.jpg": {
+		"ft": 16384,
+		"iS": 267872,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/light-phone.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -766,6 +853,50 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/qualcomm-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/samsung-brand-book-2.jpg": {
+		"ft": 16384,
+		"iS": 647049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/samsung-brand-book-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/samsung-brand-book-3.jpg": {
+		"ft": 16384,
+		"iS": 336196,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/samsung-brand-book-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/samsung-brand-book.jpg": {
+		"ft": 16384,
+		"iS": 92431,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/samsung-brand-book.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/samsung.jpg": {
+		"ft": 16384,
+		"iS": 308727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/samsung.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1208,7 +1339,7 @@
 		"oA": 0,
 		"oAP": "/assets/js/min/app-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"/assets/js/links.js": {
@@ -10230,62 +10361,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"/assets/js/app.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "/bower_components/jquery/dist/jquery.js",
-			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/foundation-sites/dist/js/foundation.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/flickity/dist/flickity.pkgd.min.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
-			"position": 5,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/dist/js/lightgallery.min.js",
-			"position": 6,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/modules/lg-video.min.js",
-			"position": 7,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/lightgallery/modules/lg-autoplay.min.js",
-			"position": 8,
-			"type": 0
-			}
-		],
 	"/assets/js/links.js": [
 		{
 			"followForSyntaxChecking": 0,
