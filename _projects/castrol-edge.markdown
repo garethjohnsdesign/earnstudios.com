@@ -4,7 +4,7 @@ position: 4
 client: Castrol
 excerpt: The Castrol Xbox game downloaded by five million people
 description: Drive the Castrol EDGE race in the world’s biggest driving game
-image: "/uploads/nfs-payback-reveal.jpg"
+image: "/uploads/nfs-payback-reveal-eebc3a.jpg"
 vimeo: https://vimeo.com/264258464
 has-carousel-text: false
 is-carousel: false
