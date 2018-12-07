@@ -19,6 +19,7 @@ images:
   caption: 
 - image: "/uploads/castrol-edge-car-rig.jpg"
   caption: 
+video: https://vimeo.com/264258464
 layout: page
 ---
 
