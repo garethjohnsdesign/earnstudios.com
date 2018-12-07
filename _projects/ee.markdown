@@ -3,10 +3,9 @@ title: EE
 position: 1
 client: EE
 excerpt: The world’s first mobile network with YouTubers
-video: https://vimeo.com/125559691
 image: "/uploads/ee-01.jpg"
-is-carousel: true
 has-carousel-text: false
+is-carousel: false
 is-selected: true
 has-carousel: true
 images:
@@ -16,6 +15,7 @@ images:
   caption: 
 quote: Smart, collaborative, focused
 cite: Spencer McHugh, Marketing Director, EE
+video: https://vimeo.com/125559691
 layout: page
 ---
 
