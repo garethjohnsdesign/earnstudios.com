@@ -19,7 +19,6 @@ images:
   caption: 
 - image: "/uploads/samsung-brand-book-2.jpg"
   caption: 
-video: 
 layout: page
 ---
 

@@ -4,8 +4,8 @@ position: 6
 client: Castrol
 excerpt: The most shared film in the world
 description: 
-vimeo: https://vimeo.com/225428254
 image: "/uploads/footkhana-01.jpg"
+video: https://vimeo.com/225428254
 has-logo: true
 is-carousel: false
 has-carousel-text: false

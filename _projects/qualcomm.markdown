@@ -5,7 +5,7 @@ client: Qualcomm
 excerpt: Freestyle Drone Racing
 description: The first ever drone race at Wembley Stadium
 image: "/uploads/qualcomm-04.jpg"
-vimeo: https://vimeo.com/221755151
+video: https://vimeo.com/221755151
 is-carousel: false
 is-selected: true
 has-carousel: true
