@@ -4,8 +4,8 @@ position: 5
 client: Qualcomm
 excerpt: Freestyle Drone Racing
 description: The first ever drone race at Wembley Stadium
+image: "/uploads/qualcomm-04.jpg"
 vimeo: https://vimeo.com/221755151
-image: "/uploads/qualcomm-01-rev.jpg"
 is-carousel: false
 is-selected: true
 has-carousel: true
@@ -13,8 +13,6 @@ images:
 - image: "/uploads/qualcomm-02.jpg"
   caption: 
 - image: "/uploads/qualcomm-03.jpg"
-  caption: 
-- image: "/uploads/qualcomm-04.jpg"
   caption: 
 - image: "/uploads/qualcomm-05.jpg"
   caption: 
