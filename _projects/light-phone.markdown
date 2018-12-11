@@ -1,6 +1,7 @@
 ---
 title: Light Phone
 date: 2018-12-06 16:52:00 Z
+published: false
 position: 8
 client: Light Phone
 excerpt: A second phone designed to be used as little as possible
@@ -8,7 +9,6 @@ image: "/uploads/light-phone-01.jpg"
 has-carousel: true
 images:
 - image: "/uploads/light-phone-2.jpg"
-  caption: 
 layout: page
 ---
 
