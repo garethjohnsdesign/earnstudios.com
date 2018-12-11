@@ -16,6 +16,7 @@ images:
 is-carousel: true
 has-carousel-text: false
 has-book: true
+is-selected: true
 layout: page
 ---
 
