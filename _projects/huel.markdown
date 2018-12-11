@@ -9,6 +9,8 @@ has-carousel-text: false
 is-carousel: true
 is-selected: true
 has-carousel: false
+images:
+- image: "/uploads/Huel-ready-to-drink%20group.jpg"
 layout: page
 ---
 
