@@ -8,9 +8,12 @@ image: "/uploads/image-1.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
-has-carousel: false
+has-carousel: true
 images:
 - image: "/uploads/Huel-ready-to-drink%20group.jpg"
+  caption: 
+- image: "/uploads/huel-ready-to-drink.jpg"
+  caption: 
 layout: page
 ---
 
