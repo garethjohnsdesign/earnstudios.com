@@ -4,7 +4,7 @@ position: 1
 header: 
 excerpt: If you want things to be better, invent better things
 description: 
-image: "/uploads/about-rev.jpg"
+image: 
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
 call-to-action-email: hello@earnstudios.com
@@ -14,7 +14,7 @@ layout: page
 
 Earn Studios is an innovation consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love](http://www.earnstudios.com/book), Non-Exec of Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
 
-![workshops-03-rev.jpg](/uploads/workshops-03-rev.jpg)
+![about-rev.jpg](/uploads/about-rev.jpg)
 
 ## Why we exist
 
