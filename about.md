@@ -8,7 +8,7 @@ image: "/uploads/about-rev.jpg"
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
 call-to-action-email: hello@earnstudios.com
-has-clients: true
+has-clients: false
 layout: page
 ---
 
