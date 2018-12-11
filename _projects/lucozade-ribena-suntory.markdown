@@ -1,7 +1,7 @@
 ---
-title: Merchant's Heart
+title: Suntory
 position: 2
-client: Lucozade Ribena Suntory
+client: Suntory
 excerpt: Co-created a premium mixer brand with its own magazine for sale
 description: Taking a range of premium mixers to market in six months
 image: "/uploads/Merchants-heart-bottles.jpg"
