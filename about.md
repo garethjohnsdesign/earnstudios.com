@@ -4,7 +4,7 @@ position: 1
 header: 
 excerpt: If you want things to be better, invent better things
 description: 
-image: 
+image: "/uploads/workshops-03-rev.jpg"
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
 call-to-action-email: hello@earnstudios.com
