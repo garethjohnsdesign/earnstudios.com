@@ -12,29 +12,29 @@ has-clients: true
 layout: page
 ---
 
-EARN Studios is an entrepreneurial marketing consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love](http://www.earnstudios.com/book), Non-Exec of Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
+Earn Studios is an innovation consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love](http://www.earnstudios.com/book), Non-Exec of Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
 
-"You can buy the opportunity to be in front of someone, but you can’t buy attention, loyalty and devotion of hearts, minds and souls. You have to earn these things.”
+![workshops-03-rev.jpg](/uploads/workshops-03-rev.jpg)
 
-![book-01.jpg](/uploads/book-01.jpg)
+## Why we exist
+
+To invent things people love and talk about
 
 ## Who we are
 
-We are a team of creatives, strategists, marketers, inventors and entrepreneurs from a wide variety of backgrounds and locations.
+We are a team of creatives, strategists, marketers, inventors and entrepreneurs from a wide variety of backgrounds and locations
 
-We love the challenge of the seemingly impossible and the potential to have an impact on millions of people’s lives.
+## How we work
 
-## What we do
+We start by asking what the target audience would love the brand to invent for them, so if we do it well enough they'll share it on our behalf
 
-### Develop an entrepreneurial marketing plan to get the world talking about your brand![About-Huel.jpg](/uploads/About-Huel.jpg)
+### What we do
 
-### Invent products that people want to share on our behalf![ee-01.jpg](/uploads/ee-01.jpg)
+### Invent products for people to share![ee-dan-phil-string.jpg](/uploads/ee-dan-phil-string.jpg)
 
 ### Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
 
-## **How we work**
-
-We start by asking what the audience would love the brand to invent for them, so if we do it well enough they’ll share it on our behalf.
+## **Board level strategy to grow brands people love**![huel-forest.jpg](/uploads/huel-forest.jpg)
 
 ## **Brands**
 
