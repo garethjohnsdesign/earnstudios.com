@@ -25,7 +25,7 @@ defaults:
     excerpt: 
     description: 
     image: 
-    video:
+    video: 
     has-carousel-text: 
     is-carousel: 
     is-selected: 
