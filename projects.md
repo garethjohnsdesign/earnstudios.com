@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Work
 position: 2
 header: Dream big, experiment small
 has-call-to-action: true
