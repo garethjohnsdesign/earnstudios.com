@@ -1,6 +1,5 @@
 ---
 title: Workshops
-published: false
 position: 4
 excerpt: Together, anything is possible
 description: We work with marketing and innovation teams to invent products and build
