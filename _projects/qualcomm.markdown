@@ -1,6 +1,6 @@
 ---
 title: Drone Racing
-position: 7
+position: 8
 client: Qualcomm
 excerpt: Freestyle Drone Racing
 description: The first ever drone race at Wembley Stadium
