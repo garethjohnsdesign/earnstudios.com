@@ -1,7 +1,7 @@
 ---
 title: Diageo
 date: 2018-12-06 15:46:00 Z
-position: 7
+position: 6
 client: Diageo
 excerpt: Inventing spirit brands of the future
 description: Working together as an innovation partner with Diageo Europe to deliver
