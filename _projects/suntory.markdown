@@ -25,8 +25,8 @@ images:
   caption: 
 - image: "/uploads/merchants-heart-07.jpg"
   caption: 
-quote: EARN have helped transform our culture to live and breathe innovative thinking
-  whilst delivering great results.
+quote: Earn Studios have helped transform our culture to live and breathe innovative
+  thinking whilst delivering great results.
 cite: Peter Harding, CEO, Lucozade Ribena Suntory
 layout: page
 ---
