@@ -15,4 +15,4 @@ images:
 layout: page
 ---
 
-As part of our innovation project with Diageo, we developed 30\+ business, product and partnership concepts for testing. Two of those concepts were marked “accelerate to launch” and three were so well received that they were marked “just do it”.
+As part of our innovation project with Diageo, we developed 30+ business, product and partnership concepts for testing. Two of those concepts were marked “accelerate to launch” and three were so well received that they were marked “just do it”.

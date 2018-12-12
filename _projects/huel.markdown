@@ -8,7 +8,6 @@ image: "/uploads/image-1.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
-has-carousel: true
 layout: page
 ---
 

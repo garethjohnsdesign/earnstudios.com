@@ -1,6 +1,5 @@
 ---
 title: Drone Racing
-published: false
 position: 9
 client: Qualcomm
 excerpt: Freestyle Drone Racing
