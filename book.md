@@ -6,13 +6,6 @@ description: If customers like you, be afraid, be very afraid. Today, people onl
   recommend brands they love.
 image: "/uploads/book-rev3.jpg"
 has-carousel: true
-images:
-- image: "/uploads/book-01.jpg"
-  caption: 
-- image: "/uploads/book-02.jpg"
-  caption: 
-- image: "/uploads/book-03.jpg"
-  caption: 
 is-carousel: true
 has-carousel-text: false
 has-book: true
