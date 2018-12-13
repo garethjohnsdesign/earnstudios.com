@@ -8,7 +8,6 @@ image: "/uploads/footkhana-01.jpg"
 video: https://vimeo.com/225428254
 has-carousel-text: false
 is-carousel: false
-is-selected: false
 has-carousel: true
 images:
 - image: "/uploads/footkhana-02.jpg"
