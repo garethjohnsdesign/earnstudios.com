@@ -4,7 +4,7 @@ position: 0
 client: Huel
 excerpt: Nutritionally complete food, simply delivered
 description: 'The fasting growing food brand in the world '
-image: "/uploads/huel-bottles-hands.jpg"
+image: "/uploads/huel-hands-bottles.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
