@@ -18,7 +18,7 @@ Information We collect and use employee information only for business purposes, 
 
 ## Choice
 
-Earn Studios will provide you with the opportunity to opt-out of having your personal information (1) disclosed to a third party who is not currently working for Earn Studios, and (2) used for a purpose that is different from the original use purpose when it was collected or authorised for use by you. The only exception to this choice is the requirement of disclosure of personal information by government or judicial order, or other legal requirements. You can choose to opt-out of marketing materials from EARN Studios at any time. If you have any additional questions or would like to be removed from our database, please email [hello@earnstudios.com](mailto:hello@earnstudios.com)
+Earn Studios will provide you with the opportunity to opt-out of having your personal information (1) disclosed to a third party who is not currently working for Earn Studios, and (2) used for a purpose that is different from the original use purpose when it was collected or authorised for use by you. The only exception to this choice is the requirement of disclosure of personal information by government or judicial order, or other legal requirements. You can choose to opt-out of marketing materials from EARN Studios at any time. If you have any additional questions or would like to be removed from our database, please email [hello@earnstudios.com](mailto:hello@earnstudios.com).
 
 ## Accountability for Onward Transfer of Personal Data
 
