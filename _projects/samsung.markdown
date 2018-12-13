@@ -9,7 +9,6 @@ description: We helped Samsung to activate their brand in a more engaging way th
 image: "/uploads/samsung.jpg"
 has-carousel-text: false
 is-carousel: false
-is-selected: false
 has-carousel: true
 images:
 - image: "/uploads/samsung-brand-book.jpg"
