@@ -8,7 +8,7 @@ description: The first ever drone race at Wembley Stadium
 image: "/uploads/qualcomm-04.jpg"
 video: https://vimeo.com/221755151
 is-carousel: false
-is-selected: true
+is-selected: false
 has-carousel: true
 images:
 - image: "/uploads/qualcomm-02.jpg"
