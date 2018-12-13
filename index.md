@@ -6,7 +6,7 @@ header: Earn Studios is an innovation consultancy that helps companies create sh
   products
 sub-header: 
 sign-off: 
-selected-text: Some of our work.
+selected-text: Some of our work
 has-call-to-action: true
 call-to-action: If you’d like to get in touch
 call-to-action-email: hello@earnstudios.com
