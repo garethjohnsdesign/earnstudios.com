@@ -8,7 +8,6 @@ description: Delivered innovative business and product ideas for the next three 
 image: "/uploads/diageo-main.jpg"
 has-carousel-text: false
 is-carousel: false
-is-selected: false
 has-carousel: false
 images:
 - "/uploads/diageo-image.jpg"
