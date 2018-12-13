@@ -1,0 +1,77 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body class="{{page.layout | slugify}}">
+
+<!-- Off Canvas Right -->
+<div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
+{% include offcanvas-right.html %}
+</div>
+<!-- End Off Canvas Right -->
+
+<!-- Off Canvas Bottom -->
+<div class="off-canvas position-bottom" id="offCanvasBottom" data-off-canvas data-transition="overlap" data-close-on-click="true" data-auto-focus="false">
+{% include offcanvas-bottom.html %}
+</div>
+<!-- End Off Canvas Bottom  -->
+
+<div class="off-canvas-content" style="height: 100vh" data-off-canvas-content>
+<!-- Header -->
+{% include header.html %}
+<!-- End Header -->
+
+<!-- Content -->
+{{content}}
+<!-- End Content -->
+
+<!-- Clients -->
+{% if page.has-clients %}
+<section class="black-background">
+  <div class="grid-container padding-vertical-3">
+    <div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-4 medium-gray">
+  
+      {% for item in site.clients %}  
+      <div class="cell text-center">
+          <a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-clients icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a>
+      </div>
+      {% endfor %} 
+  
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Clients -->
+
+<!-- Call to Action -->
+{% if page.has-call-to-action %}
+<section class="light-gray-background">
+  <div class="grid-container padding-vertical-3">
+    <div class="grid-x grid-padding-x grid-padding-y">
+  
+      <div class="small-12 medium-8 cell">
+        <h4>{{page.call-to-action}}</h4>
+        <h4 class="sans-regular medium-gray"><a href="mailto:{{page.call-to-action-email}}">{{page.call-to-action-email}}</a></h4>
+      </div>
+  
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Call to Action -->
+
+<!-- Footer -->
+{% include footer.html %}
+<!-- End Footer-->
+</div>
+
+</body>
+
+</html>

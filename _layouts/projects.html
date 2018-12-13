@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<!-- Projects Intro -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 medium-8 cell">
+      <h1>{{page.header}}</h1>
+    </div>
+  </div>
+</div>
+<!-- End Projects Intro -->
+
+<!-- Projects -->
+<div class="grid-container padding-vertical-space-1">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
+    {% assign projects = paginator.posts %}
+    {% for project in projects %}
+    {% include excerpt.html %}
+    {% endfor %}
+  </div>
+</div>
+<!-- End Projects -->
+
+<!-- Pagination -->  
+{% include pagination-collection.html %}
+<!-- End Pagination -->

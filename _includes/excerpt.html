@@ -1,0 +1,15 @@
+<div class="cell">
+
+  <a href="{{ project.url }}">
+    <div class="margin-bottom-1 light-gray-background excerpt">
+      {% assign image = project.image %}
+      <div data-aos="fade-in">
+        <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+      </div>
+    </div>
+  </a>
+
+  <h3>{{ project.excerpt }}</h3>
+  <h4 class="sans-regular medium-gray">{{ project.client }}</h4>
+
+</div>

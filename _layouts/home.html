@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+<!-- Home Carousel -->
+<div class="orbit" role="region" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out;">
+  <div class="orbit-wrapper">
+    
+    <div class="orbit-controls show-for-xxlarge">
+      <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></button>
+      <button class="orbit-next"><span class="show-for-sr">Next Slide</span><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></button>
+    </div>
+    
+    <ul class="orbit-container">  
+    {% assign projects = site.projects | where: "is-carousel", "true" %}
+    {% assign pages = site.pages | where: "is-carousel", "true" %} 
+    {% assign everything = projects | concat: pages %}
+
+      {% for project in everything %}
+      {% assign image = project.image %}
+      <li class="orbit-slide" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+        <a href="{{ project.url }}">
+          <div class="grid-y align-center" style="height: 100%;">
+            <div class="shrink cell">
+            
+            {% if project.has-carousel-text %}
+            <div class="grid-container">
+
+                <div class="grid-x grid-padding-x grid-padding-y">
+                  <div class="small-12 medium-10 large-8 cell">
+                    <h1 class="white">{{project.excerpt}}</h1>
+                  </div>
+                </div>
+
+            </div>
+            {% endif %}
+            
+
+            </div>
+          </div>
+        </a>
+      </li>
+     {% endfor %}
+    </ul>
+      
+  </div>
+</div>
+<!-- End Home Carousel -->
+
+<!-- Home Intro -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y padding-vertical-space-1">
+
+    <div class="small-12 medium-8 cell">
+      <h2>{{page.header}}</h2>
+      {% if page.sub-header %}
+      <h3 class="sans-regular medium-gray">{{page.sub-header}}</h3>
+      {% endif %}
+      {% if page.sign-off %}
+      <h3 class="sans-regular medium-gray">{{page.sign-off}}</h3>
+      {% endif %}
+      <div class="padding-top-1"><a href="/about/" class="h4 sans-regular medium-gray">Find out more <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a></div>
+    </div>
+
+  </div>
+</div>
+<!-- End Home Intro -->
+
+<!-- Home Selected Projects -->
+<div class="grid-container">
+
+  <div class="grid-x">
+    <div class="small-12 medium-8 cell">
+      <h2>{{page.selected-text}}</h2>
+    </div>
+  </div>
+
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
+    {% assign projects = paginator.posts | where: "is-selected", "true" %}
+    {% for project in projects %}
+     {% include excerpt.html %}
+    {% endfor %}
+  </div>
+
+</div>
+<!-- End Home Selected Projects -->
+
+<!-- Home Projects Link -->
+<div class="grid-container margin-bottom-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
+
+    <div class="small-12 medium-8 cell medium-gray">
+      <a href="/projects/" class="h4 sans-regular">View all projects <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
+    </div>
+
+  </div>
+</div>
+<!-- End Home Projects Link -->
