@@ -9,7 +9,7 @@ video: https://vimeo.com/125559691
 has-carousel-text: false
 is-carousel: false
 is-selected: true
-has-carousel: true
+has-carousel: false
 quote: Earn Studios are smart, collaborative and focused
 cite: Spencer McHugh, Marketing Director, EE
 layout: page
