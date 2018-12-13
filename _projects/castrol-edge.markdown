@@ -9,7 +9,7 @@ image: "/uploads/nfs-payback-reveal.jpg"
 video: https://vimeo.com/264258464
 has-carousel-text: false
 is-carousel: false
-is-selected: true
+is-selected: false
 layout: page
 ---
 
