@@ -19,7 +19,7 @@ layout: page
 
 Led by Jamal Benmiloud, former VP of Marketing at Red Bull and Monster and author of Brand Love: How to build a brand worth talking about, we use live briefs and business challenges that come directly from you, to build ideas and plans that create value and drive long term growth whilst also building brand love.
 
-![workshops-02-rev.jpg](/uploads/workshops-02-rev.jpg)
+![workshops-05-rev.jpg](/uploads/workshops-05-rev.jpg)
 
 ### One-Day Workshops
 
@@ -37,7 +37,7 @@ Our one-day workshops include talks, Q&As and interactive groups sessions tailor
 
 * Developing entrepreneurial and astute business plans designed for long term growth
 
-![workshops-05-rev.jpg](/uploads/workshops-05-rev.jpg)
+![workshops-07-rev.jpg](/uploads/workshops-07-rev.jpg)
 
 EARN are committed to helping our clients’ marketing to become a long-term business asset that grows in value. We partner with businesses that can make change happen and it is our priority to create value and nurture the entrepreneurial spirit to drive long-term growth.
 
