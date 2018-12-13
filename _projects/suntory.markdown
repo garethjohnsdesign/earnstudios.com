@@ -33,7 +33,7 @@ layout: page
 
 The role of this project had two commercial objectives.
 
-1. Shift the business away from its usual two-year development cycles and embed a lean and fast product innovation culture at the heart of the company.\
+1. Shift the business away from its usual two-year development cycles and embed a lean and fast product innovation culture at the heart of the company.
 
 2. Give Suntory a product that it could credibly challenge within the exploding premium tonics category in the UK.
 
