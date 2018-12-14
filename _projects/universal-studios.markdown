@@ -18,3 +18,13 @@ layout: page
 We were tasked by Universal Studios to find creative ways to drive box office sales and pre-booking for Fast & Furious 8.
 
 Working with a collective of street artists and film’s producers, we created a collection of 12 bespoke digital posters and rewarded fans that pre-booked at any cinema around the world on the first two weeks of theatrical release.
+
+A selection of the poster artwork from the project:
+
+![Universal-image-Suiko4.jpg](/uploads/Universal-image-Suiko4.jpg)
+
+![Universal-image-Vibes2.jpg](/uploads/Universal-image-Vibes2.jpg)
+
+![Universal-image-Suiko1.jpg](/uploads/Universal-image-Suiko1.jpg)
+
+![Universal-image-Pref3.jpg](/uploads/Universal-image-Pref3.jpg)
