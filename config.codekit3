@@ -62,11 +62,11 @@
 		"oAP": "/_includes/analytics.html",
 		"oF": 0
 		},
-	"/_includes/excerpt.html": {
+	"/_includes/blocks/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/excerpt.html",
+		"oAP": "/_includes/blocks/excerpt.html",
 		"oF": 0
 		},
 	"/_includes/footer.html": {
@@ -1076,6 +1076,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/workshops-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/xiaomi.jpg": {
+		"ft": 16384,
+		"iS": 1036633,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/xiaomi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9479,13 +9490,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/bower_components/turbolinks5/Gemfile",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/Gemfile.lock",
 		"oF": 0
 		},
 	"/bower_components/turbolinks5/LICENSE": {

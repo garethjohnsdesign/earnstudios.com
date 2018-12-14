@@ -1,0 +1,9 @@
+<div class="cell">
+  <a href="{{ project.url }}">
+    {% assign image = project.image %}
+    <div class="margin-bottom-1 light-gray-background excerpt" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+  </a>
+
+  <h4 class="sans-regular medium-gray">{{ project.title }}</h4>
+  <h4>{{ project.excerpt }}</h4>
+</div>
