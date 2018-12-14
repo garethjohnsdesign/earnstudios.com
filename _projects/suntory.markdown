@@ -2,7 +2,7 @@
 title: Suntory
 position: 2
 client: Suntory
-excerpt: Merchant’s Heart is the spirit enhancer that tastes better than Fever Tree
+excerpt: Spirit enhancing tonics
 description: Invented and launched a range of premium mixers in 6 months that is now
   in 1000s of locations in the UK.
 image: "/uploads/Merchants-heart-bottles.jpg"
