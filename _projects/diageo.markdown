@@ -1,7 +1,7 @@
 ---
 title: Diageo
 date: 2018-12-06 15:46:00 Z
-position: 6
+position: 7
 client: Diageo
 excerpt: Inventing spirit brands and businesses of the future
 description: Delivered innovative business and product ideas for the next three years

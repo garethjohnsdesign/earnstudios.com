@@ -2,7 +2,7 @@
 title: EE
 position: 1
 client: EE
-excerpt: The world’s first mobile network with YouTubers
+excerpt: Mobile network by YouTubers
 description: 50,000 new customers in just 3 months and £millions in revenue for EE
 image: "/uploads/ee-alia-logo.jpg"
 video: https://vimeo.com/125559691

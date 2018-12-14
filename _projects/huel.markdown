@@ -2,9 +2,9 @@
 title: Huel
 position: 0
 client: Huel
-excerpt: Nutritionally complete food, simply delivered
+excerpt: Fast food, not junk food
 description: 'The fasting growing food brand in the world '
-image: "/uploads/huel-hands-bottles-1815.jpg"
+image: "/uploads/huel-ready-to-drink.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
