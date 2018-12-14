@@ -2,7 +2,7 @@
 title: Footkhana
 position: 5
 client: Castrol
-excerpt: A new sport created with Neymar and Ken Block
+excerpt: Motorsport created with Neymar
 description: Castrol Footkhana became the most shared film in the world
 image: "/uploads/Castrol-Footkhana-Main.jpg"
 video: https://vimeo.com/225428254
