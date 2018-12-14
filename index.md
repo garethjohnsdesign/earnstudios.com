@@ -7,7 +7,7 @@ header: Earn Studios is an innovation consultancy that helps companies create sh
 sub-header: 
 sign-off: 
 selected-text: Some of our work
-has-call-to-action: true
+has-call-to-action: false
 call-to-action: 
 call-to-action-email: 
 has-clients: false
