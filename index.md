@@ -8,8 +8,8 @@ sub-header:
 sign-off: 
 selected-text: Some of our work
 has-call-to-action: true
-call-to-action: If you’d like to get in touch
-call-to-action-email: hello@earnstudios.com
+call-to-action: 
+call-to-action-email: 
 has-clients: false
 pagination:
   enabled: true
