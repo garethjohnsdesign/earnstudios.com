@@ -7,7 +7,7 @@ description: 50,000 new customers in just 3 months and £millions in revenue for
 image: "/uploads/ee-alia-logo.jpg"
 video: https://vimeo.com/125559691
 has-carousel-text: false
-is-carousel: false
+is-carousel: true
 is-selected: true
 has-carousel: false
 quote: Earn Studios are smart, collaborative and focused

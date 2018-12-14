@@ -17,7 +17,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
     {% assign projects = paginator.posts %}
     {% for project in projects %}
-    {% include excerpt.html %}
+    {% include blocks/excerpt.html %}
     {% endfor %}
   </div>
 </div>

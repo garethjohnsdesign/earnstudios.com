@@ -20,6 +20,8 @@ Monster Energy has become the most successful energy drinks business in the US w
 
 When Chinese mobile brand Xiaomi, the world’s most valuable tech start up with a valuation of over $50bn, launched their new tablet it sold out in 2.7 seconds.
 
+![xiaomi.jpg](/uploads/xiaomi.jpg)
+
 LEGO continues to defy critics and analyst expectations selling billions of dollars of analogue toys in the digital age.
 
 ![lego-movie-banner.jpg](/uploads/lego-movie-banner.jpg)
