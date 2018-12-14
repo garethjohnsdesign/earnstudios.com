@@ -9,7 +9,6 @@ description: Our digital posters were released in 52 markets, the largest film p
 image: "/uploads/universal-studios-feature.jpg"
 has-carousel-text: false
 is-carousel: false
-is-selected: true
 has-carousel: false
 has-logo: true
 layout: page
