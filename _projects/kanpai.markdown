@@ -2,6 +2,7 @@
 title: Kanpai!
 date: 2018-12-12 12:39:00 Z
 position: 3
+client: Suntory
 excerpt: Magazine for drink-makers
 description: Sold in bespoke magazine sellers and distributed to over 500 bartenders
   and 2,000 venues
