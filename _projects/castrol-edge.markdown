@@ -2,7 +2,7 @@
 title: Castrol
 position: 4
 client: Castrol
-excerpt: The Castrol driving experience you can play yourself
+excerpt: Our Xbox game in Need for Speed
 description: Our Xbox game within Need for Speed has been downloaded by 5 million
   and shared with a billion people
 image: "/uploads/nfs-payback-reveal.jpg"
