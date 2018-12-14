@@ -1,7 +1,7 @@
 ---
 title: Kanpai!
 date: 2018-12-12 12:39:00 Z
-position: 7
+position: 3
 excerpt: A magazine that celebrates the creative world of bartending
 description: Sold in bespoke magazine sellers and distributed to over 500 bartenders
   and 2,000 venues
