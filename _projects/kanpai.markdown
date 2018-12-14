@@ -7,7 +7,7 @@ excerpt: Magazine for drink-makers
 description: Sold in bespoke magazine sellers and distributed to over 500 bartenders
   and 2,000 venues
 image: "/uploads/kanpai-three-covers.jpg"
-is-carousel: true
+is-carousel: false
 is-selected: true
 ---
 
