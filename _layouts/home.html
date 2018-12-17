@@ -12,9 +12,9 @@ layout: default
     </div>
     
     <ul class="orbit-container">  
-    {% assign works = site.work | where: "is-carousel", "true" %}
     {% assign pages = site.pages | where: "is-carousel", "true" %} 
-    {% assign everything = works | concat: pages %}
+    {% assign works = site.work | where: "is-carousel", "true" %}
+    {% assign everything = pages | concat: works %}
 
       {% for work in everything %}
       {% assign image = work.image %}
