@@ -2,7 +2,7 @@
 title: Fast & Furious 8
 position: 6
 client: Universal Studios
-excerpt: Giving Fast & Furious fans a reason to pre-book their cinema seat
+excerpt: The gift of art that broke box office records
 description: Our digital posters were released in 52 markets, the largest film promotion
   uptake in Universal’s history which smashed global box office records, previously
   held by Star Wars
