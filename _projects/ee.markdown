@@ -4,7 +4,7 @@ position: 1
 client: EE
 excerpt: Mobile network by YouTubers
 description: 50,000 new customers in just 3 months and £millions in revenue for EE
-image: "/uploads/ee-confetti-logo.jpg"
+image: "/uploads/ee-streamers-logo.jpg"
 video: https://vimeo.com/125559691
 has-carousel-text: false
 is-carousel: true
@@ -19,4 +19,4 @@ The brief from EE was to drive the sales of EE SIM cards amongst data hungry you
 ![ee-pinata-quote.jpg](/uploads/ee-pinata-quote.jpg)
 The project garnered over 50,000 new customers in just 3 months and £millions in revenue for EE.
 
-![ee-dan-phil-string.jpg](/uploads/ee-dan-phil-string.jpg)
+![ee-alia-logo.jpg](/uploads/ee-alia-logo.jpg)
