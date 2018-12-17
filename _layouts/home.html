@@ -17,7 +17,13 @@ layout: default
     {% assign everything = pages | concat: works %}
 
       {% for work in everything %}
-      {% assign image = work.image %}
+
+      {% if work.carousel-image %}
+       {% assign image = work.carousel-image %}
+      {% else %}
+        {% assign image = work.image %}
+      {% endif %}
+
       <li class="orbit-slide" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
         <a href="{{ work.url }}">
           <div class="grid-y align-center" style="height: 100%;">
