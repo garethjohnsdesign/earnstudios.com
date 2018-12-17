@@ -5,8 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
-  projects:
-    title: Projects
+  work:
+    title: Work
     output: true
   uploads:
     title: Uploads
@@ -19,7 +19,7 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: projects
+    type: work
   values:
     client: 
     excerpt: 

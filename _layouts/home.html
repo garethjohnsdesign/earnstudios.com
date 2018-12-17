@@ -12,23 +12,23 @@ layout: default
     </div>
     
     <ul class="orbit-container">  
-    {% assign projects = site.projects | where: "is-carousel", "true" %}
+    {% assign works = site.work | where: "is-carousel", "true" %}
     {% assign pages = site.pages | where: "is-carousel", "true" %} 
-    {% assign everything = projects | concat: pages %}
+    {% assign everything = works | concat: pages %}
 
-      {% for project in everything %}
-      {% assign image = project.image %}
+      {% for work in everything %}
+      {% assign image = work.image %}
       <li class="orbit-slide" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
-        <a href="{{ project.url }}">
+        <a href="{{ work.url }}">
           <div class="grid-y align-center" style="height: 100%;">
             <div class="shrink cell">
             
-            {% if project.has-carousel-text %}
+            {% if work.has-carousel-text %}
             <div class="grid-container">
 
                 <div class="grid-x grid-padding-x grid-padding-y">
                   <div class="small-12 medium-10 large-8 cell">
-                    <h1 class="white">{{project.excerpt}}</h1>
+                    <h1 class="white">{{work.excerpt}}</h1>
                   </div>
                 </div>
 
@@ -76,8 +76,8 @@ layout: default
   </div>
 
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2">
-    {% assign projects = paginator.posts | where: "is-selected", "true" %}
-    {% for project in projects %}
+    {% assign works = paginator.posts | where: "is-selected", "true" %}
+    {% for work in works %}
       {% include blocks/excerpt.html %}
     {% endfor %}
   </div>
@@ -90,7 +90,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y">
 
     <div class="small-12 medium-8 cell medium-gray">
-      <a href="/projects/" class="h4 sans-regular">View all projects <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
+      <a href="/projects/" class="h4 sans-regular">View all work <svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
     </div>
 
   </div>

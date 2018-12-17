@@ -13,7 +13,7 @@ call-to-action-email:
 has-clients: false
 pagination:
   enabled: true
-  collection: projects
+  collection: work
   sort_field: position
   sort_reverse: false
   per_page: 10

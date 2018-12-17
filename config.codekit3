@@ -174,102 +174,11 @@
 		"oAP": "/_layouts/page.html",
 		"oF": 0
 		},
-	"/_layouts/projects.html": {
+	"/_layouts/work.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_layouts/projects.html",
-		"oF": 0
-		},
-	"/_projects/castrol-edge.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/castrol-edge.markdown",
-		"oF": 0
-		},
-	"/_projects/diageo.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/diageo.markdown",
-		"oF": 0
-		},
-	"/_projects/ee.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/ee.markdown",
-		"oF": 0
-		},
-	"/_projects/footkhana.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/footkhana.markdown",
-		"oF": 0
-		},
-	"/_projects/gymshark.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/gymshark.markdown",
-		"oF": 0
-		},
-	"/_projects/huel.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/huel.markdown",
-		"oF": 0
-		},
-	"/_projects/kanpai.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/kanpai.markdown",
-		"oF": 0
-		},
-	"/_projects/light-phone.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/light-phone.markdown",
-		"oF": 0
-		},
-	"/_projects/qualcomm.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/qualcomm.markdown",
-		"oF": 0
-		},
-	"/_projects/samsung.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/samsung.markdown",
-		"oF": 0
-		},
-	"/_projects/slimfast.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/slimfast.markdown",
-		"oF": 0
-		},
-	"/_projects/suntory.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/suntory.markdown",
-		"oF": 0
-		},
-	"/_projects/universal-studios.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_projects/universal-studios.markdown",
+		"oAP": "/_layouts/work.html",
 		"oF": 0
 		},
 	"/_site": {
@@ -377,6 +286,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/castrol-nfs-titanium.jpg": {
+		"ft": 16384,
+		"iS": 320473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/castrol-nfs-titanium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/diageo-image.jpg": {
 		"ft": 16384,
 		"iS": 337267,
@@ -438,6 +358,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/ee-alia-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/ee-confetti-logo-2.jpg": {
+		"ft": 16384,
+		"iS": 872114,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ee-confetti-logo-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -663,6 +594,83 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/kanpai-page-2.jpg": {
+		"ft": 16384,
+		"iS": 378771,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-page-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kanpai-page-3.jpg": {
+		"ft": 16384,
+		"iS": 499045,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-page-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kanpai-page-4.jpg": {
+		"ft": 16384,
+		"iS": 575264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-page-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kanpai-page-5.jpg": {
+		"ft": 16384,
+		"iS": 1021487,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-page-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kanpai-page-6.jpg": {
+		"ft": 16384,
+		"iS": 384490,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-page-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kanpai-page-7.jpg": {
+		"ft": 16384,
+		"iS": 785469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-page-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kanpai-pages-1.jpg": {
+		"ft": 16384,
+		"iS": 672005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kanpai-pages-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/kanpai-three-covers.jpg": {
 		"ft": 16384,
 		"iS": 377800,
@@ -828,6 +836,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/mh-bottle-group.jpg": {
+		"ft": 16384,
+		"iS": 417528,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/mh-bottle-group.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/mh-on-ice.jpg": {
+		"ft": 16384,
+		"iS": 447684,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/mh-on-ice.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/nfs-payback-reveal.jpg": {
 		"ft": 16384,
 		"iS": 665540,
@@ -982,6 +1012,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/Universal-image-Pref3.jpg": {
+		"ft": 16384,
+		"iS": 320706,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Universal-image-Pref3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/Universal-image-Suiko1.jpg": {
+		"ft": 16384,
+		"iS": 1210019,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Universal-image-Suiko1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/Universal-image-Suiko4.jpg": {
+		"ft": 16384,
+		"iS": 1310814,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Universal-image-Suiko4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/Universal-image-Vibes2.jpg": {
+		"ft": 16384,
+		"iS": 994675,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Universal-image-Vibes2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/universal-studios-feature.jpg": {
 		"ft": 16384,
 		"iS": 905425,
@@ -1091,6 +1165,97 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_work/castrol-edge.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/castrol-edge.markdown",
+		"oF": 0
+		},
+	"/_work/diageo.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/diageo.markdown",
+		"oF": 0
+		},
+	"/_work/ee.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/ee.markdown",
+		"oF": 0
+		},
+	"/_work/footkhana.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/footkhana.markdown",
+		"oF": 0
+		},
+	"/_work/gymshark.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/gymshark.markdown",
+		"oF": 0
+		},
+	"/_work/huel.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/huel.markdown",
+		"oF": 0
+		},
+	"/_work/kanpai.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/kanpai.markdown",
+		"oF": 0
+		},
+	"/_work/light-phone.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/light-phone.markdown",
+		"oF": 0
+		},
+	"/_work/qualcomm.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/qualcomm.markdown",
+		"oF": 0
+		},
+	"/_work/samsung.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/samsung.markdown",
+		"oF": 0
+		},
+	"/_work/slimfast.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/slimfast.markdown",
+		"oF": 0
+		},
+	"/_work/suntory.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/suntory.markdown",
+		"oF": 0
+		},
+	"/_work/universal-studios.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_work/universal-studios.markdown",
+		"oF": 0
 		},
 	"/about.md": {
 		"cB": 0,
@@ -10351,24 +10516,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/projects.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "/projects.md",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -10404,6 +10551,24 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "/terms.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/work.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/work.md",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
