@@ -14,27 +14,25 @@ layout: page
 
 Earn Studios is an innovation consultancy founded by Jamal Benmiloud, former marketing leader of Red Bull and Monster Energy, author of [Brand Love](http://www.earnstudios.com/book), Non-Exec of Huel and top-rated [keynote speaker](https://www.jamalbenmiloud.com).
 
-![about-rev.jpg](/uploads/about-rev.jpg)
-
 ## Why we exist
 
 To invent things people love and talk about
 
 ## Who we are
 
-We are a team of creatives, strategists, marketers, inventors and entrepreneurs from a wide variety of backgrounds and locations
+We are a team of creatives, strategists, marketers, inventors and entrepreneurs from a wide variety of backgrounds and locations![about-rev.jpg](/uploads/about-rev.jpg)
 
 ## How we work
 
 We start by asking what the target audience would love the brand to invent for them, so if we do it well enough they'll share it on our behalf
 
-### What we do
+## What we do
 
 ### Invent products for people to share![ee-confetti-logo.jpg](/uploads/ee-confetti-logo.jpg)
 
 ### Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
 
-## **Board level strategy to grow brands people love**![huel-forest.jpg](/uploads/huel-forest.jpg)
+### **Board level strategy to grow brands people love**![huel-forest.jpg](/uploads/huel-forest.jpg)
 
 ## **Brands**
 
