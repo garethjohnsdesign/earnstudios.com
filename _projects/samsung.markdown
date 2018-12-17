@@ -12,7 +12,7 @@ is-carousel: false
 layout: page
 ---
 
-In order to really get under the skin of the project, EARN delved deep into the Samsung brand and its history and created a set of guidelines that determined how the Samsung brand should manifest itself across the marketing mix.
+In order to really get under the skin of the project, Earn Studios delved deep into the Samsung brand and its history and created a set of guidelines that determined how the Samsung brand should manifest itself across the marketing mix.
 
 ![samsung-brand-book.jpg](/uploads/samsung-brand-book.jpg)
 
