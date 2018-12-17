@@ -3,7 +3,7 @@ title: Samsung
 date: 2018-12-06 16:19:00 Z
 position: 8
 client: Samsung
-excerpt: Making Samsung's marketing as innovative as their products
+excerpt: A manual to make their marketing as innovative as their products
 description: We helped Samsung to activate their brand in a more engaging way that
   is both meaningful and consistent across EMEA
 image: "/uploads/samsung.jpg"
