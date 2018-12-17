@@ -28,11 +28,11 @@ We start by asking what the target audience would love the brand to invent for t
 
 ## What we do
 
-### Invent products for people to share![ee-confetti-logo.jpg](/uploads/ee-confetti-logo.jpg)
+Invent products for people to share and like![ee-streamers-logo.jpg](/uploads/ee-streamers-logo.jpg)
 
-### Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
+Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
 
-### **Board level strategy to grow brands people love**![huel-forest.jpg](/uploads/huel-forest.jpg)
+Board level strategy to grow brands people love![huel-forest.jpg](/uploads/huel-forest.jpg)
 
 ## **Brands**
 
