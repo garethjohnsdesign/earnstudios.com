@@ -6,6 +6,7 @@ excerpt: Xbox game developed with Need for Speed
 description: Our Xbox game within Need for Speed has been downloaded by 5 million
   and shared with a billion people
 image: "/uploads/nfs-payback-reveal.jpg"
+carousel-image: "/uploads/nfs-payback-reveal.jpg"
 video: https://vimeo.com/264258464
 has-carousel-text: false
 is-carousel: false
