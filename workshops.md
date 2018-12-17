@@ -7,7 +7,7 @@ description: We work with marketing and innovation teams to invent products and 
 is-carousel: false
 has-carousel-text: false
 image: "/uploads/workshops-feature.jpg"
-quote: EARN are brilliant, smart and push the boundaries as our business partners
+quote: Earn Studios are brilliant, smart and push the boundaries as our business partners
 cite: Michelle Topping, Marketing Head, PepsiCo
 has-call-to-action: true
 call-to-action: To find out more contact us at
