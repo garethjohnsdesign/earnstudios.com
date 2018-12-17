@@ -5,6 +5,7 @@ client: Huel
 excerpt: Fast food, not junk food
 description: 'The fasting growing food brand in the world '
 image: "/uploads/huel-hands-bottles-1815.jpg"
+carousel-image: "/uploads/huel-forest.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
