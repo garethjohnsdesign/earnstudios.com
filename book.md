@@ -24,5 +24,3 @@ When Chinese mobile brand Xiaomi, the world’s most valuable tech start up with
 LEGO continues to defy critics and analyst expectations selling billions of dollars of analogue toys in the digital age.
 
 ![lego-movie-banner.jpg](/uploads/lego-movie-banner.jpg)
-
-If you’re interested in finding out more about the book please fill out your details and we’ll send you a complimentary sample.
