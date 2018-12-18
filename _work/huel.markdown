@@ -4,8 +4,8 @@ position: 0
 client: Huel
 excerpt: Fast food, not junk food
 description: 'The fasting growing food brand in the world '
-image: "/uploads/huel-hands-bottles-1815.jpg"
-carousel-image: "/uploads/huel-forest.jpg"
+image: "/uploads/huel-ready-to-drink.jpg"
+carousel-image: "/uploads/huel-bottles-hands.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
@@ -19,3 +19,5 @@ Huel is a nutritionally complete powdered food ​that contains all the proteins
 Our founder, Jamal Benmiloud, sits on the board of the company and provides strategic consultancy to help them in their mission to become the global number one ‘complete food’ business.
 
 Huel has grown phenomenally quickly in its first three years due to ground-breaking products, customer service and a focus on social media marketing.
+
+![huel-forest.jpg](/uploads/huel-forest.jpg)
