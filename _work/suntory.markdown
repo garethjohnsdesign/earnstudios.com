@@ -5,7 +5,8 @@ client: Suntory
 excerpt: Spirit enhancing tonics
 description: Invented and launched a range of premium mixers in 6 months that is now
   in 1000s of locations in the UK.
-image: "/uploads/mh-bottle-group.jpg"
+image: "/uploads/Merchants-heart-bottles.jpg"
+carousel-image: "/uploads/mh-bottle-group.jpg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
