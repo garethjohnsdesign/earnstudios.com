@@ -28,7 +28,7 @@ We start by asking what the target audience would love the brand to invent for t
 
 ## What we do
 
-Invent products for people to share and like![ee-streamers-logo.jpg](/uploads/ee-streamers-logo.jpg)
+Invent shareable products![ee-streamers-logo.jpg](/uploads/ee-streamers-logo.jpg)
 
 Commercialise marketing to generate additional revenue streams![About-Kanpai.jpg](/uploads/About-Kanpai.jpg)
 
