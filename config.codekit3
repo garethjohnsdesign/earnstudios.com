@@ -1644,7 +1644,7 @@
 		"oA": 0,
 		"oAP": "/assets/js/min/svgxuse-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"/assets/scss/_flickity.css": {
@@ -10568,8 +10568,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/work.md",
-		"oF": 1,
+		"oAP": "/work.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -10599,14 +10599,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"/assets/js/links.js": [
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/turbolinks5/dist/turbolinks.js",
-			"position": 0,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"creationDate": 499797547,
