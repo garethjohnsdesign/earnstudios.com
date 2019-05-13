@@ -3,8 +3,8 @@ title: McCormick & BuzzFeed
 date: 2019-05-12 11:31:00 Z
 client: McCormick & BuzzFeed
 excerpt: Tasty seasonings for their 100 million fans
-description: '## **"Earn Studios challenged our thinking and brought a unique perspective
-  on how to build a partnership that adds value to both our brands."**'
+description: '"Earn Studios challenged our thinking and brought a unique perspective
+  on how to build a partnership that adds value to both our brands"'
 image: "/uploads/mccormick-spice-kit-uk-outside.jpg"
 carousel-image: "/uploads/mccormick-spice-kit-uk-outside.jpg"
 has-carousel-text: false
@@ -19,7 +19,7 @@ We worked with McCormick, the 130 year-old seasoning manufacturer, and BuzzFeed�
 
 For McCormick, which usually sells in supermarkets, it’s an opportunity to reach millennial chefs and to directly get both customer data and distribution – usually the privilege of DTC companies.
 
-> “DTC and ecommerce are fast growing channels, especially with millennials, so McCormick wanted to ensure we had a strong, unique presence. Tasty is teaching a new generation to cook and Tasty branding on product brings additional credibility with consumers – they trust the Tasty brand.”
+## “DTC and ecommerce are fast growing channels, especially with millennials, so McCormick wanted to ensure we had a strong, unique presence. Tasty is teaching a new generation to cook and Tasty branding on product brings additional credibility with consumers – they trust the Tasty brand.”
 
 **Anthony Palmer, Senior Director of Global Consumer Strategy, McCormick**
 
