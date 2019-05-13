@@ -8,7 +8,7 @@ image: "/uploads/Castrol-Footkhana-Main.jpg"
 video: https://vimeo.com/225428254
 has-carousel-text: false
 is-carousel: false
-is-selected: true
+is-selected: false
 quote: Earn Studios think differently, with a focus on brand ownership where the brand’s
   values are at the heart of the idea
 cite: Paul Goodmaker, Sponsorship Director, Castrol
