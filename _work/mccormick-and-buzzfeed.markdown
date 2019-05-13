@@ -21,7 +21,7 @@ For McCormick, which usually sells in supermarkets, it’s an opportunity to rea
 
 ### *“DTC and ecommerce are fast growing channels, especially with millennials, so McCormick wanted to ensure we had a strong, unique presence. Tasty is teaching a new generation to cook and Tasty branding on product brings additional credibility with consumers – they trust the Tasty brand.”*
 
-### **Anthony Palmer, Senior Director of Global Consumer Strategy, McCormick**
+Anthony Palmer, Senior Director of Global Consumer Strategy, McCormick
 
 ![mccormick-spice-kit-us-inside.jpg](/uploads/mccormick-spice-kit-us-inside.jpg)For BuzzFeed, selling co-branded products is a revenue opportunity that supplements its ad business to the tune of $50mn in 2018. The cooking brand expanded beyond its viral videos to cookbook deals and kitchen products sold at Walmart and Macy’s.
 
