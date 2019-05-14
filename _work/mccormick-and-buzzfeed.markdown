@@ -2,7 +2,7 @@
 title: McCormick & BuzzFeed
 date: 2019-05-12 11:31:00 Z
 client: McCormick & BuzzFeed
-excerpt: Tasty seasonings for their 100 million fans
+excerpt: The Seasoning Kit for Millennials
 description: '"Earn Studios challenged our thinking and brought a unique perspective
   on how to build a partnership that adds value to both our brands"'
 image: "/uploads/mccormick-spice-kit-uk-outside.jpg"
@@ -29,4 +29,4 @@ McCormick’s research and development team worked with Tasty to come up with Ta
 
 McCormick and BuzzFeed will advertise the spice blends with sponsored posts on Facebook, Instagram, YouTube and newsletters, as well as use the spices in future Tasty videos.
 
-The spices will sell online, followed by a global retail rollout starting in June in the US and Canada.
+The spices will sell online, followed by a retail rollout starting in June in the US and Canada.
