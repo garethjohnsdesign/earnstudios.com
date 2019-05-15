@@ -2,7 +2,7 @@
 title: McCormick & BuzzFeed
 date: 2019-05-12 11:31:00 Z
 client: McCormick & BuzzFeed
-excerpt: Seasonings for Millennials
+excerpt: Seasonings for Gen Z
 description: '"Earn Studios challenged our thinking and brought a unique perspective
   on how to build a partnership that adds value to both our brands"'
 image: "/uploads/mccormick-spice-kit-uk-outside.jpg"
