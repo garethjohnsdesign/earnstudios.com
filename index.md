@@ -2,8 +2,7 @@
 title: Home
 position: 0
 image: "/assets/img/og-image.png"
-header: Earn Studios is an innovation partner that helps companies create share-worthy
-  products
+header: Earn Studios is an innovation partner that helps brands become share-worthy
 sub-header: 
 sign-off: 
 selected-text: Some of our work

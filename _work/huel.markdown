@@ -1,6 +1,6 @@
 ---
 title: Huel
-position: 0
+position: 2
 client: Huel
 excerpt: Fast food, not junk food
 description: 'The fasting growing food brand in the world '

@@ -1,6 +1,6 @@
 ---
 title: EE
-position: 1
+position: 4
 client: EE
 excerpt: Mobile network by YouTubers
 description: 50,000 new customers in just 3 months and £millions in revenue for EE
