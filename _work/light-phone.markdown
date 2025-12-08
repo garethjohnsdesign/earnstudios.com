@@ -1,7 +1,7 @@
 ---
 title: Light Phone
 date: 2018-12-06 16:52:00 Z
-position: 9
+position: 12
 client: Light Phone
 excerpt: The minimalist smart phone
 description: The Light Phone has raised $millions with crowd funding and earned billions
