@@ -21,21 +21,21 @@ defaults:
     path: ''
     type: work
   values:
-    client: 
-    excerpt: 
-    description: 
-    image: 
-    carousel-image: 
-    video: 
-    has-carousel-text: 
-    is-carousel: 
-    is-selected: 
-    has-carousel: 
+    client:
+    excerpt:
+    description:
+    image:
+    carousel-image:
+    video:
+    has-carousel-text:
+    is-carousel:
+    is-selected:
+    has-carousel:
     images:
-    - image: 
-      caption: 
-    quote: 
-    cite: 
+    - image:
+      caption:
+    quote:
+    cite:
     layout: page
 quote: EARN have helped transform our culture to live and breathe innovative thinking.
   We have happy people who are delivering great results.
@@ -61,7 +61,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
-- jekyll/imgix
+- jekyll-imgix
 markdown: kramdown
 kramdown:
   auto_ids: false
