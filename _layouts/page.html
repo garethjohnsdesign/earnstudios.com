@@ -61,7 +61,9 @@ layout: default
       <div class="carousel">
         {% for carouselimage in page.images %}
         {% assign image = carouselimage.image %}
+          {% if image %}
           <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>
