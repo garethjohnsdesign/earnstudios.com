@@ -4,6 +4,10 @@
   "description": "Basic template for a new web project.",
   "author": "Gareth Johns <info@garethjohnsdesign.com>",
   "license": "UNLICENSED",
+  "scripts": {
+    "serve": "bundle exec jekyll serve --livereload",
+    "start": "npm run serve"
+  },
   "bugs": {
     "email": "info@garethjohnsdesign.com"
   },
