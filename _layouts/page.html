@@ -61,7 +61,9 @@ layout: default
       <div class="carousel">
         {% for carouselimage in page.images %}
         {% assign image = carouselimage.image %}
+          {% if image %}
           <div class="carousel-image margin-horizontal-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>
@@ -89,7 +91,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell text-center">
       <h3 class="margin-bottom-0">"{{page.quote}}"</h3>
-      <h4 class="medium-gray">{{page.cite}}</h3>
+      <h4 class="medium-gray">{{page.cite}}</h4>
     </div>
   </div>
 </section>
@@ -115,7 +117,7 @@ layout: default
     {% if forloop.last %}
       {% assign next = links[0] %}
     {% endif %}
-    
+
 	{% endif %}
 	{% assign tmpprev = link %}
 {% endfor %}
@@ -125,7 +127,7 @@ layout: default
   {% assign image = next.image %}
   <div class="small-12 medium-6 cell pagination-image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}" style="min-height: 350px">
   </div>
-  
+
   <div class="small-12 medium-6 cell padding-space-1">
     <h5 class="sans-regular medium-gray">Next Project</h5>
     <a href="{{next.url}}" class="h5 sans-regular">{{next.title}}</a>
@@ -134,7 +136,7 @@ layout: default
 {% endif %}
 <!-- End Pagination -->
 
-<!-- Book Form -->  
+<!-- Book Form -->
 {% if page.has-book %}
 <section class="light-gray-background">
 <div class="grid-container padding-vertical-2">
@@ -145,11 +147,11 @@ layout: default
 
 
 <form name="contact" method="POST" netlify data-abide novalidate>
-      
+
       <div data-abide-error class="alert callout" style="display: none;">
         <p><i class="fi-alert"></i> There are some errors in your form.</p>
       </div>
-        
+
       <!-- Name and Email Address -->
       <div class="grid-x grid-padding-x">
         <div class="small-12 medium-6 cell">
@@ -162,7 +164,7 @@ layout: default
       	</div>
       </div>
       <!-- End Name and Email Address -->
-      
+
       <!-- Company + Country -->
       <div class="grid-x grid-padding-x">
       <div class="small-12 medium-6 cell">
@@ -175,14 +177,14 @@ layout: default
       </div>
       </div>
       <!-- End Company + Country  -->
-      
+
 
 <div class="grid-x padding-vertical-2">
 <div class="small-12 cell">
 <small>By clicking the Submit button below you are agreeing to receive email marketing communications from Earn Studios from time to time. We will not share your details with any 3rd parties. Please review our <a href="/privacy/">privacy policy</a> for more information.</small>
 </div>
 </div>
-      
+
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9d55e6b0c536a67f681cee1da_16153bbf75" tabindex="-1" value=""></div>
 
     <div class="grid-x">
@@ -190,7 +192,7 @@ layout: default
       <input type="submit" value="Submit" class="button expanded">
       </div>
     </div>
-      
+
       </form>
 
     </div>
@@ -198,4 +200,4 @@ layout: default
 </div>
 </section>
 {% endif %}
-<!-- End Book Form -->  
+<!-- End Book Form -->
