@@ -5,7 +5,7 @@
   "author": "Gareth Johns <info@garethjohnsdesign.com>",
   "license": "UNLICENSED",
   "scripts": {
-    "serve": "bundle exec jekyll serve --livereload",
+    "serve": "/Users/garethjohns/.rbenv/shims/bundle exec jekyll serve --livereload",
     "start": "npm run serve"
   },
   "bugs": {
