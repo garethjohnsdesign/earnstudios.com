@@ -6,6 +6,8 @@ client: bp
 excerpt: Supercharging Music Sponsorship
 description: Creating electrifying engagements with 1 million music fans and incentivising
   thousands of EV journeys to music events
+image: "/uploads/Pic_2-99cc8a.jpeg"
+carousel-image: "/uploads/Pic_2-99cc8a.jpeg"
 has-carousel-text: false
 is-carousel: true
 is-selected: true
