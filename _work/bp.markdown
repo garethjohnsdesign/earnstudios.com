@@ -4,7 +4,8 @@ date: 2025-12-06 10:25:00 Z
 position: 1
 client: bp
 excerpt: Supercharging Music Sponsorship
-description: Creating electrifying engagements with 1 million music fans and incentivising thousands of EV journeys to music events
+description: Creating electrifying engagements with 1 million music fans and incentivising
+  thousands of EV journeys to music events
 image: "/uploads/Pic_2-99cc8a.jpeg"
 is-carousel: true
 is-selected: true
