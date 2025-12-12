@@ -4,6 +4,8 @@ date: 2025-12-06 13:26:00 Z
 position: 0
 client: AB InBev
 excerpt: Building the world’s most creative marketing team
+is-carousel: true
+is-selected: true
 image: "/uploads/Pic_6.jpeg"
 images:
 - image: "/uploads/Pic_7.jpeg"
